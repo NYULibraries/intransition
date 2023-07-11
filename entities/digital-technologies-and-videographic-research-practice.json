@@ -1,0 +1,34 @@
+{
+  "id": "136",
+  "title": "Digital Technologies and Videographic Research Practice",
+  "embed": [
+    "https://player.vimeo.com/video/119790662",
+    "https://player.vimeo.com/video/185038203"
+  ],
+  "body": "<p>In <em>The Great Cat Massacre</em>, historian Robert Darnton describes one aspect of his research practice: “There is no better way, I believe, than to wander through the archives. One can hardly read a letter from the Old Regime without coming up against surprises. … What was proverbial wisdom to our ancestors is utterly opaque to us. Open any eighteenth century book of proverbs, and you will find entries such as: ‘He who is snotty, let him blow his nose’.” When we cannot get a proverb, or a joke, or a ritual, or a poem, we know we are on to something. By picking at the document where it is most opaque, we may be able to unravel an alien system of meaning. The thread might even lead to a strange and wonderful world view” (4-5).</p>\n<p>For scholars working on 20th and 21st century media objects, it’s a challenge to make them appear as opaque as Darnton’s historical documents. But as Darnton makes clear, there are advantages to seeing things – especially things you thought you knew – in this way. While videographic critical practice has been primarily imagined as a way to adapt scholarly presentations from the written into the audiovisual realm, some scholars are showing how the digital technologies that videographic essayists employ have the capacity to deform our objects of study in strange and wonderful ways, helping us to see aspects of those objects that we had not seen, could not have seen. At their most radical, such videographic works use digital technologies to answer questions we barely (if at all) have the means to conceptualize.</p>\n<p>Among works published at <em>[in]Transition</em>, two are particularly innovative – audacious even. In “Volumetric Cinema,” Kevin Ferguson demonstrates the possibility of “looking at film sideways” to show that a “film is neither a window nor a frame, but a volume.” Ferguson explains the he uses “public domain software, primarily ImageJ, to analyze film frames and reconstitute film scenes in novel ways. ImageJ was developed for and is primarily used in medical applications such as hematology, radiology, and the analysis of computed axial tomography (CAT) or positron emission tomography (PET) scans. Taking these last two examples, in layman’s terms tomography means imagining a series of two-dimensional “slices” of a three-dimensional volume, which can later be stacked back together and manipulated with a computer. This is useful for imaging biological structures inside the human body that otherwise remain invisible. My research begins similarly by treating films as tomograms, using ImageJ’s tools to manipulate film scenes as three-dimensional volumes and to measure (and manipulate) a scene’s color and brightness values. The result is a new kind of digital film forensics not bound to the two-dimensional slice of the film projector, but which can access and interpolate an infinite number of new volumetric slices for digital projection.”</p>\n<p>Ferguson maintains that his approach offers “new methods of investigation into our understanding of moving image techniques,” and the same can be said also of Booth Wilson’s “Landscape in Paradigms: Ford’s Monument Valley,” which uses Google Earth “to map out the placement of the camera for certain scenes [in Ford’s westerns] based on careful observation of film sequences, maps, and production documents.” But rather than reinforcing the landscape’s status as an narrative or thematic paradigm ('wilderness,' 'civilization'), Google Earth helps us to see the various rock formations are “literal and tangible objects in the frame, not abstractions by the critic.” Rather than reducing the world to numerical data, we see here one of the ways that the latest digital technologies can help recover something of the cinema’s realist impulse, which is to simply show the world before we impose any meaning on it.</p>\n<p>If it’s not fully clear all that these technologies are truly offering regarding scholarly insight, at least in the traditional sense, I would reply that, with new technologies such as these, we cannot know all the answers they can give us because it is only by using them that we can begin to see what questions they might help us formulate. It is only by experimenting with the form that we can really see all that it might do for us. Among the other reasons <em>[in]Transition</em> publishes videos like these by Ferguson and Wilson is that they can serve as a model for other digital experimenters, encouraging them to offer work for review even when it doesn't yet fully match the forms of scholarly knowledge to which we are accustomed. </p>\n<p>At a time when the forms of videographic practice seems to be narrowing, <em>[in]Transition</em> is proud to be presenting work that pushes and tests those limits. We maintain that the form we call videographic criticism is still being invented, and with works like these, we are, in effect, choosing to make the industrial equivalent of research and development a visible process for all in our discipline to encounter, evaluate, comment upon. Of course, as with all R&amp;D, some experiments will pan out and others will not. We invite our disciplinary colleagues into the work of experimenting with the forms of videographic criticism, and to make this process open to dialogue.</p>\n<p><strong>Work Cited</strong></p>\n<p>Robert Darnton, <em>The Great Cat Massacre</em> (New York: Vintage, 1985).</p>",
+  "tags": null,
+  "attached_images": [
+    "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-03-22%20at%209.23.38%20AM.png"
+  ],
+  "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-03-22%20at%209.23.38%20AM.png",
+  "part_of": [
+    {
+      "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
+      "editors": [],
+      "coeditors": []
+    }
+  ],
+  "reviews": [],
+  "contributors": [
+    {
+      "name": "Christian Keathley",
+      "title": null,
+      "mail": "ckeathle@middlebury.edu",
+      "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
+      "url": null,
+      "organization": "Middlebury College"
+    }
+  ],
+  "date": "Friday, March 17, 2017",
+  "comments": []
+}

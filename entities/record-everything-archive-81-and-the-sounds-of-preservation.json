@@ -1,0 +1,115 @@
+{
+  "id": "1202",
+  "title": "Record Everything: Archive 81 and the Sounds of Preservation",
+  "embed": [
+    "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/629046138&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=false&show_reposts=false&show_teaser=true&visual=true"
+  ],
+  "body": "<p><strong>Project Background</strong></p>\n<p>This adventure in audiography started as a presentation for the Great Lakes Association for Sound Studies [GLASS] conference held in Madison in the Spring of 2018. Functionally, the presentation was meant to introduce the audience to a database project we are working on at the University of Wisconsin-Madison: PodcastRE (short for Podcast Research, <a href=\"http://podcastre.org\">http://podcastre.org</a>). The site – which currently indexes and stores close to 1 million audio files from nearly 7700 RSS feeds and takes up just over 30 terabytes of data – aims to provide a searchable, researchable database of podcasts and give researchers the tools to study and analyze podcasts in ways that are as familiar as the current tools for analyzing textual resources in a library. Rather than give a standard conference presentation to provide an overview of the database and its various features, Tom and I wanted to see if we could bring the project to life by layering audio into the presentation in a way that felt more embedded and integral than simply using audio clips as examples. Given the themes and issues <em>Archive 81</em> – a fictional found footage horror/sci-fi podcast – presents, we thought it might be a suitable framework for our attempt at audiography.</p>\n<p><strong>Doing Audiography: Audio First</strong></p>\n<p>Although there have been numerous key learnings from this process, we’ll focus here on the process of putting audio first. Rather than starting with a script, we wanted this presentation to be audio-led. While we had a general overview of the ideas we wanted to share about the database, we began the process of producing this piece in our digital audio workstation, Adobe Audition. Knowing our presentation was going to be about audio archiving and audio collections, we listened to the entire first season of the show, paying special attention to moments where characters were discussing issues of preservation, recording, decay, technology and culture. We marked these moments in Audition and exported the sound clips to a new project file. We also marked moments where there were interesting ambient sounds or thematic sounds fit the presentation (sounds of tape starting up, recording machines getting jammed, sounds of the various “archives” and collections in the show, etc.).</p>\n<p>With the relevant clips selected, we began organizing the audio into themes that would guide the presentation. Knowing some of the challenges we faced with our database (e.g., what to save, inconsistent metadata, etc.), we looked for audio clips from the show that could serve as a sort of introduction to a particular theme or idea. For example, a clip of the main character talking about metadata could act as a “section header” for a portion of the presentation we might want to discuss metadata issues facing podcasts.</p>\n<p>After establishing a loose order with the clips, we began scripting the presentation around the audio clips. Rather than writing the presentation and finding suitable clips, we worked outward from the clips. We first wrote specific sections of the script, much like scripting a standard conference presentation. Once a draft was ready, we would read the script back in conjunction with the audio we had laid out, trimming and editing as necessary. Given that we knew this would be a live presentation at a conference, we spent time thinking through how to perform in conjunction with the audio track and ensuring the timing of the script matched with the timing on the tracks in Audition. This often meant cutting out much longer sentences or more traditionally academic language in order for the narration to fit the timing of the presentation.</p>\n<p>The version submitted for [<em>in]Transition</em> is clearly not a “live” performance where in-person narration and recorded audio intertwine. However, we have tried to recreate that aspect of the presentation to some extent. We’ve also had to make adjustments to the audio file and the narration script in order to alter sections that didn’t make sense when not presented in person and without the accompanying visuals.</p>\n<p>The audio-led production process offered a unique opportunity to reverse the normal inclination that structures our academic presentations (i.e., writing out ideas and then finding relevant media clips to illustrate those ideas). Moreover, employing an audio workstation such as Audition as the central hub of our project (and using Word and the script as secondary and reactive to what we were doing in Audition) put sound and text on far more equal footing, allowing us to engage in different kinds of citational practices and tune into different registers though which to organize and make arguments. </p>\n<p><strong>Credits: </strong>Our piece contains audio clips from <em>Archive 81</em><strong>, </strong><em>Serial, </em>the <em>Daily Source Code</em> and the 1949 episode of <em>Suspense </em>“Ghost Hunt”. Music for the piece comes from <em>Archive 81</em> and Music Bed.</p>\n<p> </p>\n<p><strong>Acknowledgements</strong></p>\n<p>PodcastRE is made possible by a UW2020 Discovery Initiative grant from the University of Wisconsin - Madison Office of the Vice Chancellor for Research and Graduate Education with funding from the Wisconsin Alumni Research Foundation. The project is also supported through a Digital Humanities Advancement grant from the National Endowment for the Humanities: Exploring the human endeavor. Special thanks to thanks to lead analytics advisor Eric Hoyt, database builder and info architect Sam Hansen, analytics app developer Susan Noh, and lead computer specialist Peter Sengstock, along with the many research assistants who’ve contributed their time and ideas to this project, including Andrew Bottomley, Luke Salamone, Zheng Zheng, Avichal Rakesh, Ying Li, Keyi Cui, Tom Welch, Jessie Nixon, Sean Owczarek, Jacob Mertens, Nick Laureano and Dewitt King.</p>\n<p> </p>\n<p><strong>Bios:</strong></p>\n<p>Jeremy Morris is an associate professor of Media and Cultural Studies in the Department of Communication Arts at the University of Wisconsin-Madison. His research focuses on the digitization of the cultural industries (music, software, radio, etc.). He is the author of  <em>Selling Digital Music, Formatting Culture</em> (University of California Press, 2015), the co-editor of <em>Appified: Culture in the Age of Apps</em> (University of Michigan Press 2018), and has published widely on new media, music technologies and podcasting. He is the founder of <a href=\"http://podcastre.org\" target=\"_blank\">http://podcastre.org</a>, a research database of podcasts that preserves nearly 1 million audio files and offers new ways to study and analyze sonic culture. He was the host and producer for 5 years on a music podcast for a Montreal-based arts and culture website called Midnight Poutine.</p>\n<p>Tom Welch is a graduate student in Media and Cultural Studies in the Department of Communication Arts at the University of Wisconsin–Madison. His work focuses on the intersection of gender, sexuality, and labor in the digital media industries. In addition to being a research assistant for PodcastRE, he is a host and producer for the <em>PodcastRE Project</em> podcast. He is also a host for the popular culture podcasts <em>TopCast</em>, <em>Sixteen Stars</em>, and <em>Meme Theory: The Theory of Memes</em>.</p>\n",
+  "tags": null,
+  "attached_images": [],
+  "representative_image": "https://mediacommons.org/intransition/sites/default/files/Morris_Thumb.jpeg",
+  "part_of": [
+    {
+      "title": "Journal of Videographic Film & Moving Image Studies, 6.2, 2019",
+      "editors": [
+        {
+          "name": null,
+          "title": "Assistant Professor",
+          "mail": "neil.verma@northwestern.edu",
+          "picture": "http://www.gravatar.com/avatar/6d039bf82e5ffc3a3f961c716d26961b.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Northwestern University"
+        },
+        {
+          "name": null,
+          "title": null,
+          "mail": "jacob-smith@northwestern.edu",
+          "picture": "http://www.gravatar.com/avatar/605129431c2c51f425841d36651015da.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Northwestern University"
+        }
+      ],
+      "coeditors": []
+    }
+  ],
+  "reviews": [
+    {
+      "title": "Review by Neil Verma and Jacob Smith",
+      "reviewers": [
+        {
+          "name": null,
+          "title": "Assistant Professor",
+          "mail": "neil.verma@northwestern.edu",
+          "picture": "http://www.gravatar.com/avatar/6d039bf82e5ffc3a3f961c716d26961b.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Northwestern University"
+        },
+        {
+          "name": null,
+          "title": null,
+          "mail": "jacob-smith@northwestern.edu",
+          "picture": "http://www.gravatar.com/avatar/605129431c2c51f425841d36651015da.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Northwestern University"
+        }
+      ],
+      "body": "<p><em>Record Everything</em> shares some of the qualities of Amy Skjerseth’s <em>Catching Flies and Catching Memories</em> in its resemblance to the academic conference talk. Indeed, the piece was presented with fanfare live at a 2018 meeting of the Great Lakes Association for Sound Studies (GLASS), with Morris intertwining the reading of a paper with the triggering of audio clips in a Digital Audio Workstation onscreen. Audiographic practice will surely continue along this line of development, moving into a domain adjacent to live electronic music, with illustrative audio clips looped and triggered in real time, and interaction with a co-present audience expanding upon the conventional “question and answer” session.</p>\n<p>Also notable here is the use of a fictional audio drama to structure passages of critical analysis on issues of podcast preservation from early podcasts like 2004’s <em>The Daily Source Code</em> to the more elaborate shows of today. Rather than simply use pieces of <em>Archive 81</em> as examples -- or worse, as wallpaper -- <em>Record Everything</em> seems to inhabit the podcast as a symbiotic species, something the piece reminds us of repeatedly whenever Morris’s narration speaks in chorus with dialogue fragments from the podcasts and radio shows he describes. Something very similar can be found on Jacob Smith’s 2019 <em>ESC</em> audiographic project, which uses episodes of the classic radio series <em>Escape</em> to structure ten critical analyses that expose for the first time how dense <em>Escape</em> is with mid-century histories of toxicity, a matter of special importance to the expanding field of historical approaches to eco-critical thought (Smith 2019).</p>\n<p>In their symbiotic use of <em>Archive 81</em>, Morris and Welch also trouble the boundary between fiction and nonfiction, suggesting a methodological problem (and opportunity) for audiographers who wish to pursue similar work to address. It is a form that seems particularly geared to critically attending to narrative audio material, and to pull it off as well as Morris and Welch do requires training in editing, access to DAWs, recording equipment and high-quality rights-free music, among other things. Although work would need to be done to make this form more technically accessible and more ecumenical when it comes to possible research topics, of all the experiments in this issue of <em>[In]Transition</em>, <em>Record Everything</em> may be the closest thing we have to a handy model in the sense that with time and dedication it is highly emulatable, and many scholars can no doubt find ways to use recording to play with the plastic space between primary material and scholarly practice. In doing so, scholars may, like Morris and Welch end up with something like <em>Record Everything</em>, a podcast in its own right, and one worthy of preservation.</p>\n<p><strong>Work Cited</strong></p>\n<p>Smith, Jacob. 2019. <a href=\"https://doi.org/10.3998/mpub.10120795\" target=\"_blank\"><em>ESC: Sonic Adventure in the Anthropocene</em></a>. Ann Arbor: University of Michigan Press.</p>\n"
+    },
+    {
+      "title": "Review by Josie Torres Barth",
+      "reviewers": [
+        {
+          "name": null,
+          "title": "Assistant Professor",
+          "mail": "neil.verma@northwestern.edu",
+          "picture": "http://www.gravatar.com/avatar/6d039bf82e5ffc3a3f961c716d26961b.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Northwestern University"
+        },
+        {
+          "name": null,
+          "title": null,
+          "mail": "jacob-smith@northwestern.edu",
+          "picture": "http://www.gravatar.com/avatar/605129431c2c51f425841d36651015da.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Northwestern University"
+        },
+        {
+          "name": null,
+          "title": "Course Lecturer",
+          "mail": "josie.barth@mail.mcgill.ca",
+          "picture": "http://www.gravatar.com/avatar/39f6f27469b2b8c7cb7f995b54efa78a.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "McGill University"
+        }
+      ],
+      "body": "<p>The nascent state of audiographic criticism parallels the evolving form of the podcast itself. Like <em>Archive 81 </em>and other fictional podcasts that use the conventions of documentary, <em>Record Everything</em> blurs lines between storytelling, criticism, and reportage to determine the nature of a new form. The creators’ description of their “audio first” process identifies a key distinguishing principle of audio criticism: putting sound and text on “equal footing.” The piece achieves its main goal—introducing the PodcastRE database and reflecting on the process of archiving a medium still in its infancy—as it raises broader questions about what it means to record the history of a changing medium while preserving the full experience of a technology in its <em>newness</em>.</p>\n<p>As a scholar of the historical experience of new media technologies, I am particularly interested in what this piece can tell us about transitional forms and the lived experience of their consumers. Morris’s account of attempting to “record everything,” set against character Dan’s frustrated attempts to make order from chaos, evocatively captures both the fleeting nature of contemporary digital media and the overwhelming <em>volume</em> of the experience of “Peak Podcast.” As with early radio and television, the timeliness of many podcasts makes them ephemeral. PodcastRE’s goal of “recording everything” preserves something of the texture of daily life for a media consumer in a time of social and technological transition.</p>\n<p>As it outlines challenges for the archivist, <em>Record Everything</em> also illuminates the need to preserve a comprehensive body of soundwork. Early experiments in the definition of a media form are often lost before that form is legitimated as an object of study. While scholarly archives generally require an act of curation that is also a valuation, the PodcastRE project preserves a corpus of texts, rather than trying to pre-determine which ones might hold historical significance.</p>\n<p>Through its synthesis of documentary, media history, and critique, <em>Record Everything</em> demonstrates both the importance of preserving artifacts of contemporary sound history and the potential of the nascent form of audiographic criticism. A major theme of <em>Archive 81</em>, the podcast from which <em>Record Everything</em> draws material and inspiration, is the difficulty of making order and sense from a disorienting amount of recorded history. Michele Hilmes (2014) identifies a lack of “expressive continuity” between historical and contemporary soundwork, occasioned by the absence of a centralized archive of American radio (Hilmes 2014; see also Bottomley 2015 and Verma 2017). The piece places <em>Archive 81</em> in a broader historical context, tracing audio drama’s fixation on recording technologies back to the “golden age” of radio. Through this historical comparison, <em>Record Everything</em> demonstrates that thematic emphasis on technology, materiality, and address is characteristic of a medium’s search, in moments of transition, for its own formal and narrative language. With its recordings of the sound of a fleeting digital present, PodcastRE aims to strengthen the tradition of soundwork, managing and preserving the “cycles of stories we tell ourselves” as a culture. </p>\n<p> </p>\n<p><strong>Works cited</strong></p>\n<p>Bottomley, Andrew J. 2015. \"Podcasting: A Decade in the Life of a “New” Audio Medium: Introduction.\" <em>Journal of Radio and Audio Media</em>, 22(2): 164-169.</p>\n<p>Hilmes, Michele. 2014. “The Lost Critical History of Radio.” <em>Australian Journalism Review</em>, <em>36</em>(2), p.11.</p>\n<p>Verma, Neil. 2017. “The Arts of Amnesia: The Case for Audio Drama, Part Two.” <em>RadioDoc Review</em>, <em>3</em>(1), p.6.</p>\n<p><strong>Reviewer Bio</strong></p>\n<p>Josie Torres Barth received her Ph.D. in Cultural Studies in 2019 from McGill University’s Department of English, where she currently teaches courses in film and television studies. Her research examines how forms of audience address in postwar television, film, and radio demonstrate changing conceptions of public and private spheres, and thus anxieties surrounding the ambiguous position of women in the growing consumer economy and U.S. society broadly.</p>\n"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Jeremy Morris",
+      "title": "Associate Professor, Media and Cultural Studies,",
+      "mail": "jwmorris2@wisc.edu",
+      "picture": "http://www.gravatar.com/avatar/86ff096ed0029f39d04616a1793766bc.jpg?d=identicon&s=150&r=G",
+      "url": {
+        "url": "http://jeremywademorris.com",
+        "title": "Homepage",
+        "attributes": [],
+        "original_title": "Homepage",
+        "original_url": "http://jeremywademorris.com"
+      },
+      "organization": "University of Wisconsin - Madison"
+    },
+    {
+      "name": null,
+      "title": "Teaching Assistant",
+      "mail": "welch5@wisc.edu",
+      "picture": "http://www.gravatar.com/avatar/82f9a1a667f3e7d1c340b3e34f1654b0.jpg?d=identicon&s=150&r=G",
+      "url": null,
+      "organization": "University of Wisconsin - Madison"
+    }
+  ],
+  "date": "Monday, June 3, 2019",
+  "comments": []
+}

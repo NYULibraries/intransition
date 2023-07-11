@@ -1,0 +1,54 @@
+{
+  "id": "56",
+  "title": "Screening Surveillance",
+  "embed": [
+    "http://www.criticalcommons.org/Members/ccManager/clips/screening-surveillance/embed_view"
+  ],
+  "body": "<p>\"Screening Surveillance\" offers an interpretive chronology of surveillance in Hollywood from Charlie Chaplin to Edward Snowden. Composed entirely of clips from American film and television, Screening Surveillance maps the evolution of cultural discourses surrounding government surveillance, taking note of shifts from optical to computational surveillance and analyzing the ways this discourse has - and has not - changed since the revelations about NSA surveillance by government contractor Edward Snowden in June 2013.</p>\n<p>Film and television have historically associated surveillance with voyeurism in order to warn of the threat it poses to individual privacy and freedom. But the nature and significance of government surveillance has changed dramatically since the beginning of the computer age. In the realm of computational surveillance - specifically, the large-scale collection and mining of metadata - the power of looking is trumped by the power of knowing. Yet, when the cameras of Hollywood envision data surveillance, they often remain rooted in the visual realm, ignoring the very real threats to freedom and privacy that attend today's large scale data mining. Hollywood's preference for visual spectacle is certainly understandable, but the industry's broader inability to represent technological complexity disserves its ability to engage important social issues, simply because they are not readily visualized.</p>\n<p>In light of government contractor Edward Snowden's revelations in June 2013 about the NSA's metadata collection program known as Prism, the stakes of representing surveillance on film and TV are higher than ever. Yet, the vision of government surveillance described by Snowden bears little resemblance to the images that continue to be created in Hollywood. Given the richness of Hollywood's history in imagining and critiquing systems of surveillance, I believe there is unrealized potential for narrative film and television to promote more complex understandings of technology in general - and surveillance in particular - if we are to preserve our privacy and maximize our capacity to function as citizens in a 21st century democracy. </p>",
+  "tags": null,
+  "attached_images": [
+    "https://mediacommons.org/intransition/sites/default/files/chaplinModernTimesSurveillance.png"
+  ],
+  "representative_image": "https://mediacommons.org/intransition/sites/default/files/chaplinModernTimesSurveillance.png",
+  "part_of": [
+    {
+      "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
+      "editors": [
+        {
+          "name": "Christian Keathley",
+          "title": null,
+          "mail": "ckeathle@middlebury.edu",
+          "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Middlebury College"
+        }
+      ],
+      "coeditors": []
+    }
+  ],
+  "reviews": [
+    {
+      "title": "Review of SS 1",
+      "reviewers": null,
+      "body": "<p>This is a stellar video essay. Impressively compiled assemblage of clips, smoothly edited and narrated, great sense of historical progression. I really appreciate many of the obscure examples, which testify to some degree of deep digging to find relevant examples of surveillance in film history.</p>\n<p>In terms of its mode of address, it falls closer to a more general audience rhetorical idiom than a hard academic one. (This is not a value judgment just a note - if anything it is appropriate given the author’s concern towards the subject matter and its relevance to a general public). Its overall flow, tone and movement through clips reminds me of Thom Andersen’s <em>Los Angeles Plays Itself</em>, which is a great compliment.<br />\nThe first two minutes have a polemical quality, especially in how it builds to the climactic line: “Audiences continue to labor under the tyranny of the visible.” - and then it kind of recoils back to the start of what proves to be an extended historical overview of surveillance’s evolving role in films, in order to build its case. But it almost feels like a new video essay is starting, because the opening is so focused on the contemporary issue of representing metadata, which as the narration asserts is a markedly distinctive form of surveillance, in that it is data and not necessarily easy to visualize. For this particular thesis I’m not sure how useful it is to go back through the entire history of surveillance.  The use of the Echelon conspiracy as b-roll is also a bit disorienting because it doesn’t provide a context to the film or its scenario as it does with most of the later examples.</p>\n<p>The historical overview is good though I suspect there are many more instance one could draw from perhaps enough to fill an hour or more (Lang’s <em>Mabuse</em>, and what about <em>The Conversation</em>?) The <em>Batman</em> example is great because it is so unexpected and relevant to contemporary film (Hollywood techno-superheroes). </p>\n<p>9:30 - The <em>Colossus</em> film example is fascinating, particularly the sexual dimensions of the “menage a trios” between the couple being surveilled by the camera-computer. At this point I am wondering what such a premise says about the filmmakers and audiences at this point - if there isn’t a perverse pleasure in witnessing such a situation, and how we might characterize that pleasure. This is one aspect of the subject that could be explored further - issues of audience spectatorship through the surveillance apparatus presented in a given film. It becomes apparent that the essay is more oriented on spectators inside the movie than of the movie. Though the <em>Rockford Files</em> example is quite a bracing exception to this.</p>\n<p>Around the post-<em>Rockford</em> examples are where the argument really seems to reconverge with the initial thesis presented. So just for the sake of argument I wonder how effective it would be to go from the first two minutes to the more contemporary section of the historical overview, as a way of sharpening the focus on the contemporary issues. At the same time, the historical account is highly valuable and I wouldn’t want it to be lost. There might be ways of even weaving it in a less teleological manner (for example bring the 1943 Batman clip into the 2008 <em>Dark Knight</em> for sake of contrast).</p>\n"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Steve Anderson",
+      "title": "Professor of Digital Media",
+      "mail": "ironmanx28@gmail.com",
+      "picture": "http://www.gravatar.com/avatar/9182303f4e0169635dd41383cbdb59db.jpg?d=identicon&s=150&r=G",
+      "url": {
+        "url": "http://technocinema.net",
+        "title": "",
+        "attributes": [],
+        "original_title": "",
+        "original_url": "http://technocinema.net"
+      },
+      "organization": "UCLA"
+    }
+  ],
+  "date": "Thursday, March 12, 2015",
+  "comments": []
+}

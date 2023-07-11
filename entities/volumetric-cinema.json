@@ -1,0 +1,103 @@
+{
+  "id": "52",
+  "title": "Volumetric Cinema",
+  "embed": [
+    "https://player.vimeo.com/video/119790662"
+  ],
+  "body": "<p>“Volumetric Cinema” demonstrates the possibilities for “looking at film sideways,” taking the film scene as an object not just of two spatial dimensions rushing past in time, but as a spatiotemporal cube that can be manipulated, offering new methods of investigation into our understanding of moving image techniques such as editing, camera movement, and blocking.</p>\n<p>My work intersects with digital humanities and is inspired by a tradition of scholarship that reconfigures media texts by measuring and visualizing them in new ways, including Lev Manovich’s <a href=\"http://lab.softwarestudies.com/p/cultural-analytics.html\">\"cultural analytics,\"</a> Michael Kipp’s <a href=\"http://www.anvil-software.org/\">ANVIL video annotation tool</a>, Barry Salt and Yuri Tsivian’s <a href=\"http://www.cinemetrics.lv/\">CineMetrics average shot length software</a>, Frederic Brodbeck’s <a href=\"http://cinemetrics.fredericbrodbeck.de/\">“movie fingerprints,”</a> and the Centre Pompidou’s <a href=\"http://web.iri.centrepompidou.fr/demo_entretiens_lignesdetemps.html\"><em>Lignes de temps</em></a>. I use public domain software, primarily <a href=\"http://imagej.nih.gov/ij/\">ImageJ</a>, to analyze film frames and reconstitute film scenes in novel ways. ImageJ was developed for and is primarily used in medical applications such as hematology, radiology, and the analysis of computed axial tomography (CAT) or positron emission tomography (PET) scans. Taking these last two examples, in layman’s terms tomography means imagining a series of two-dimensional “slices” of a three-dimensional volume, which can later be stacked back together and manipulated with a computer. This is useful for imaging biological structures inside the human body that otherwise remain invisible. My research begins similarly by treating films as tomograms, using ImageJ’s tools to manipulate film scenes as three-dimensional volumes and to measure (and manipulate) a scene’s color and brightness values. The result is a new kind of digital film forensics not bound to the two-dimensional slice of the film projector, but which can access and interpolate an infinite number of new volumetric slices for digital projection. My process begins from a digital copy of a film scene, which I render as individual jpgs for importing as a “stack” into ImageJ. In ImageJ there are a number of different functions for manipulating the stack as a three-dimensional volume. My video demonstrates four increasingly complex ways that the dimension of time in moving images can be visualized: the slit-scan, the barcode, the slice and orthoslice, and the cube. Because ImageJ is public domain with an open architecture, there are also a variety of plug-ins and macros that can be added, and researchers can also write their own Java-based plugins.</p>\n<p>As futuristic as this work might seem, it is in fact very much in line with mid-twentieth-century criticisms of literature which sought to demystify the author’s role and treat the text as a structure for grounded analysis, for example “the structuralist activity” described by Roland Barthes in 1963, which “involves two typical operations: dissection and articulation” (216). To dissect is to identify “certain mobile fragments,” and to articulate is to discover “certain rules of association.” For Barthes, this activity requires a “fabrication of meaning” that finds the natural in culture. Likewise, the unreal images I discover by digitally manipulating frames fabricate a new meaning for film texts, but in a way that draws out their latent “mobile fragments.” That is, this project visualizes films in ways that were otherwise impossible for humans through most of the last century, but which do so by <em>manipulation</em>, not <em>transformation</em>: if a transformation of the image seems to arise, it is only a surprising image that is being revealed, not an image conjured from outside the film. A concrete example of this is the slit-scan photograph, built up over time by taking one thin vertical slice from the middle of each successive frame and lining them up from left to right. For example in <em>The Draughtsman’s Contract</em> (dir. Peter Greenaway, 1982), we clearly see cuts, the movement of one character as she disrobes, and the fact that the camera is static, leading to a streaked background. Nothing was added to the pixels of this scene, they are simply manipulated in a radical new way.</p>\n<p>Like much research informed by digital humanities, this work requires participation; it is not enough to read a description or see a screenshot. Indeed, many of the screenshots I produced are illegible, since they do not provide depth cues that allow three-dimensional spatial understanding. I even would often get “lost” in a volume, unmoored from the expected plane surface, and would need to reset my view to start over. I hope the form of the audiovisual essay, where I can share screen recordings of the manipulation of film volumes, at least allows for the possibility of “looking over someone’s shoulder” in order to interest others. The other technique that the video essay allows, which I could not do alone in ImageJ, is juxtaposition. To play a film clip “normally” while simultaneously watching it “sideways” breaks our perceptual habits, allowing for a better understanding of the manipulated image but also for a kind of parallax view that displaces the film image from its privileged point of view of camera-projector into an alternate digital space. No longer should we be bound to cinema as truth that exists only in a fleeting twenty-four frames-per-second. We instead should make as many frames as we want, and hold them in our hands for as long as we like to marvel at this art.</p>\n<p><strong>Sources</strong></p>\n<p>Roland Barthes, <a href=\"https://books.google.com/books?id=ae35PV8kaD8C&amp;pg=PA213&amp;dq=barthes+%22the+structuralist+activity%22&amp;hl=en&amp;sa=X&amp;ei=Z-z1VPSJD6-OsQSo0IHYCQ&amp;ved=0CB0Q6AEwAA#v=onepage&amp;q&amp;f=false\">“The Structuralist Activity,”</a> trans. Richard Howard, <em>Critical Essays</em> (Evanston: Northwestern University Press, 1972): 213–220.</p>",
+  "tags": null,
+  "attached_images": [
+    "https://mediacommons.org/intransition/sites/default/files/VolumesKLFthumbnail.jpg"
+  ],
+  "representative_image": "https://mediacommons.org/intransition/sites/default/files/VolumesKLFthumbnail.jpg",
+  "part_of": [
+    {
+      "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
+      "editors": [
+        {
+          "name": "Christian Keathley",
+          "title": null,
+          "mail": "ckeathle@middlebury.edu",
+          "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
+          "url": null,
+          "organization": "Middlebury College"
+        }
+      ],
+      "coeditors": []
+    }
+  ],
+  "reviews": [
+    {
+      "title": "Review of VC 1",
+      "reviewers": [
+        {
+          "name": "Virginia Kuhn",
+          "title": "Professor of Cinema ",
+          "mail": "vkuhn@usc.edu",
+          "picture": "http://www.gravatar.com/avatar/12d4837289bfa6fa1e31124f129a1219.jpg?d=identicon&s=150&r=G",
+          "url": {
+            "url": "http://virginiakuhn.net/",
+            "title": "personal web site",
+            "attributes": [],
+            "original_title": "personal web site",
+            "original_url": "http://virginiakuhn.net/"
+          },
+          "organization": "University of Southern California"
+        }
+      ],
+      "body": "<p>\"Volumetric Cinema\" is a really strong piece that convincingly argues for the reclamation of the volumetric aspect of cinema and for new methods for its study. The historical information is well documented and the overview of the future camera-based experiments positions the three uses of ImageJ that the author highlights quite nicely. The value of “breaking our perceptual habits” by viewing film differently is utterly convincing, and quite energizing for me personally given my own work! I agree that the video is ready to be published as is, though I would like to see a few edits to the verbal accompaniment as follows:</p>\n<p>1.    The author does such a nice job of situating his work in a broader context, and while he mentions ImageJ’s provenance as being health and science related, he may want to at least gesture toward film scholars using similar methods. I wouldn’t expect him to know my team’s work with MovieCube, but certainly Barry Salt and Yuri Tsivian’s use of Cinemetrics, as well as Frederic Brodbeck’s variation on the same, in addition to Lev Manovich’s ImagePlot (which is built on ImageJ) could be given a nod to further anchor his work in a larger trend.</p>\n<p>2.    The mention of 24 frames a second comes three times in the text and at least once in the video voiceover which is a bit too much (something maybe only Laura Mulvey can get away with) and it’s also written as “24” twice and then “twenty-four” once in the text which should be made uniform at the very least.</p>\n"
+    },
+    {
+      "title": "Review of VC 2",
+      "reviewers": [
+        {
+          "name": "Virginia Kuhn",
+          "title": "Professor of Cinema ",
+          "mail": "vkuhn@usc.edu",
+          "picture": "http://www.gravatar.com/avatar/12d4837289bfa6fa1e31124f129a1219.jpg?d=identicon&s=150&r=G",
+          "url": {
+            "url": "http://virginiakuhn.net/",
+            "title": "personal web site",
+            "attributes": [],
+            "original_title": "personal web site",
+            "original_url": "http://virginiakuhn.net/"
+          },
+          "organization": "University of Southern California"
+        },
+        {
+          "name": "Steve Anderson",
+          "title": "Professor of Digital Media",
+          "mail": "ironmanx28@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/9182303f4e0169635dd41383cbdb59db.jpg?d=identicon&s=150&r=G",
+          "url": {
+            "url": "http://technocinema.net",
+            "title": "",
+            "attributes": [],
+            "original_title": "",
+            "original_url": "http://technocinema.net"
+          },
+          "organization": "UCLA"
+        }
+      ],
+      "body": "<p>Kevin L. Ferguson's \"Volumetric Cinema\" is a <em>tour de force</em> in the emerging genre of videographic film scholarship. Even at 20 minutes, the video is tightly constructed and edited, offering compelling examples, effective use of split-screens, and a complex but easily followed argument on behalf of film scholars and digital humanists interested in the analysis of cinematic spaces. The essay is rigorously structured in six movements, each building upon Ferguson's opening declaration that, conventional wisdom to the contrary, \"cinema is neither a window nor a frame but a volume.\"</p>\n<p>Constructed almost entirely from cinema clips (supplemented by the occasional still image, animation, TV show or advertisement), Ferguson builds a case for viewing film \"not as a succession of images but as a simultaneity of images, a view across the landscape of the film that allows modes of reception different from the strict time-bound mode of projection.\" He cleverly cites the bulky physicality of the Library of Congress Paper Print Collection as a historical precedent for regarding films as objects in space rather than evanescent shadows projected on screens. This, in turn, allows Ferguson to argue that volumization is nascent in both cinematic production and its earliest theorizations, as seen in models articulated by Eisenstein, Bazin, Arnheim, and Mitry. To drive the point home, Ferguson samples liberally from classical Hollywood as well as international cinemas, ably demonstrating the superiority of videographic scholarship over its print-based counterpart for such analysis. The essay concludes with an extended demonstration of a software program called ImageJ, which compiles linear sequences of images into a volumized data set within which time may be treated as a spatial variable.</p>\n<p>In the research statement accompanying the project, Ferguson warns that his method may seem \"futuristic,\" but then correctly acknowledges that his concerns are actually very much aligned with structuralist models of literary analysis of the previous century. Every work of scholarship is bounded by choices made by the author or, as in this case, limitations based on the technology used for its creation. The method articulated by “Volumetric Cinema” confines it to considering the formal properties of the film frame. An ImageJ stack, for example, is all but useless for interpreting the inscription of historical meaning or ideological subtext in a cinematic sequence. That said, for those seeking a deep, technologized dive into the film frame -- something like the critical equivalent of the Esper machine sequence in <em>Blade Runner</em>, which Ferguson calls \"the primal scene for volumizing the cinema\" -- this type of image processing offers a means to explore and test assumptions about the construction of cinematic space.</p>\n<p>Ferguson's argument is at its polemical best with provocations like, \"cinema is an anxiety about volumes,\" but he needlessly stretches the metaphor beyond the breaking point when claiming that \"movie bar codes\" (which condense a film's chromatic palette by averaging and stretching the tonal values of each film frame into a series of vertical bars) are about volume rather than color, rhythm and tone. More than one-third of the video's total running time is devoted to a software-driven exploration of cinematic volumes by \"playing with the plane surface of projection.\" In this final segment, Ferguson walks viewers through a series of potential applications of ImageJ's processing modes, \"the slit-scan, the barcode, the slice and orthoslice, and the cube,\" each accompanied by cinematic examples and real-time, side-by-side comparisons. Originally developed by the National Institutes of Health, ImageJ's volumized \"tomograms\" are ordinarily used for medical imaging (e.g., CAT and PET scans), but Ferguson convincingly demonstrates their usefulness for the analysis of film style. Like most of today's computational image analysis software, ImageJ yields the most legible information from cinematic images with tightly controlled formal properties. This leads to a predictable emphasis on the masters of formalist cinema: Hitchcock, Wells, Kubrick, Ford, Ozu, Tati.</p>\n<p>In scenes with a fixed camera position or static field of view, the software is able to generate more legible volumes (though Ferguson also demonstrates its application to Hitchcock's circular camera movement in the 360 degree kiss from <em>Vertigo)</em>, allowing ImageJ to effectively introduce an algorithmic component to the work of cinema analysis. But algorithms -- as the formally constrained parameters of Lev Manovich's Software Studies initiative have demonstrated on a much larger scale -- are not particularly well suited to many types of cultural analysis. In other words, the software does not perform meaningful analysis on its own. Its true benefit lies in the ability to process very large quantities of data in a very short time. For ImageJ, this depends on translating the \"content\" of the film frame into quantifiable data. Breaking down frames into the spatial coordinates, luminance and chroma of individual pixels results in a proliferation of computable data that may be analyzed not in terms of its capacity for mimetic representation, but for its rendering of the visual information of which the film frame is composed. Inverting this hierarchy -- one is tempted to consider it a blow against the tyranny of cinematic mimesis -- represents a significant disruption of convention, even for formally-inclined film scholarship.</p>\n<p>Do the conceptual models put forward by “Volumetric Cinema” invite viewers to henceforth \"see\" cinematic spaces differently? I would argue that they do, though perhaps not in precisely the ways suggested by ImageJ's particular capacity for image processing. Variations on ImageJ have been used by medical practitioners for nearly two decades, but it is only recently that its potential application within cinema studies has been realized through efforts such as Ferguson's. As might be expected, experimental media artists were quicker to recognize the potentials of digital imaging to treat time as a spatial dimension. Austrian digital media artist Martin Reinhart, for example, developed an image processing system dubbed TX-Transform in 1998 and Australia-based artist Daniel Crooks has been experimenting with a related technology called \"Time Slice\" since 1999. In the realm of film scholarship, I believe the potential impact of Ferguson's analysis is seen most clearly in its relation to contemporary, spatialized media technologies, ranging from virtual and augmented reality systems such as Google Glass and Oculus Rift to consumer-grade photogrammetry systems, which merge lens-based imagery with 3D models, and Google's Project Tango, which generates volumetric models from images captured by mobile devices.</p>\n<p>In “Volumetric Cinema,” Ferguson aptly compares his experiments in software-based spatialization to cinematic representations of holography. From <em>Star Wars</em> to Microsoft's newly announced HoloLens technology, exceeding the two-dimensionality of the cinematic screen has been on to-do lists in Hollywood and Silicon Valley for decades. Arguably, what is needed for such technologies to take hold is a transformation of cultural assumptions about the spatial properties of moving images. In Ferguson's words, part of the goal of his work is to \"break our visual habits,\" replacing them with a renewed awareness of dimensionality in all its forms. Although it is easy to get disoriented -- or indeed to forget the point -- when experimenting with spatialized image sequences via a program like ImageJ, Ferguson's essay makes an invaluable contribution to the movement toward expanded spatial sophistication in contemporary screen studies.</p>\n"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kevin L. Ferguson",
+      "title": "Associate Professor",
+      "mail": "kevinlferguson9@gmail.com",
+      "picture": "http://www.gravatar.com/avatar/f262e0af99242ff503313bb9c808df26.jpg?d=identicon&s=150&r=G",
+      "url": {
+        "url": "http://english.qc.cuny.edu/quick-links/kevin-ferguson/",
+        "title": "",
+        "attributes": [],
+        "original_title": "",
+        "original_url": "http://english.qc.cuny.edu/quick-links/kevin-ferguson/"
+      },
+      "organization": "Queens College / CUNY"
+    }
+  ],
+  "date": "Tuesday, March 10, 2015",
+  "comments": []
+}

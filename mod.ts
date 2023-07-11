@@ -25,7 +25,7 @@ request.response.docs.forEach(async (document) => {
   const res = await fetch(document.path)
   if (res.status == 200) {
     const body = await res.json()
-    const label = slugify(document.title, { separator: '-', lower: true, remove: /[*+~.()'"!:@]/g })
+    const label = slugify(document.title, { separator: '-', lower: true, remove: /[/*+~.()'"!:@]/g })
     await writeTextFile(`./entities/${label}.json`, JSON.stringify(body, null, 2))
   }
 })
