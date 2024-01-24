@@ -1,6 +1,8 @@
 {
   "id": "110",
   "title": "¿Por qué me miras así? Magaly, Dolores, and the Authentic Indigenous Icon",
+  "article_path": "/intransition/2016/por-qu-me-miras",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/158859028"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.3, 2016",
+      "path": "/intransition/theme-week/issue-3-3",
       "editors": [
         {
           "name": "Nicolas Poppe",
@@ -31,7 +34,9 @@
           "organization": "Castleton University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-10-30%20at%205.16.01%20PM.png",
+      "body": "<p><strong>Special Issue: Latin American Cinema</strong></p>\n<p>This guest-edited special issue of <em>[in]Transition</em> is devoted to videographic work on Latin American cinema. While some of the contributors had prior video-editing experience, others were first-time makers. The first four videos are accompanied by a curatorial statement from the maker, as well as peer reviewer evaluations.  The final video is a selection that has been specially curated for this issue.</p>\n<p>Nicolas Poppe (Middlebury College) and Michael Talbott (Castleton University) - Guest Editors</p>\n<p>(with support from Christian Keathley for <em>[in]Transition)</em></p>"
     }
   ],
   "reviews": [
@@ -86,7 +91,9 @@
   ],
   "contributors": [
     {
-      "name": "Jeffrey Middents",
+      "uid": "4389",
+      "uuid": "e238ace5-5114-4557-9359-af4978344e87",
+      "name": "Jeffrey Romero Middents",
       "title": "Associate Professor of Literature",
       "mail": "middents@gmail.com",
       "picture": "http://www.gravatar.com/avatar/bd7133f760dbe53705c0fc2644aa419a.jpg?d=identicon&s=150&r=G",
@@ -97,7 +104,14 @@
         "original_title": "",
         "original_url": "http://www.american.edu/cas/faculty/middents.cfm"
       },
-      "organization": "American University"
+      "organization": "American University",
+      "biography": "<p>Jeffrey Romero Middents is Associate Professor of Literature at American University, where he studies and teaches transnational film and literature, primarily centered around Latin America. </p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": "Middento"
+      }
     }
   ],
   "date": "Thursday, September 29, 2016",

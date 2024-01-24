@@ -1,6 +1,8 @@
 {
   "id": "16",
   "title": "LAYERS OF PARADOX IN F FOR FAKE (Benjamin Sampson)",
+  "article_path": "/intransition/2014/02/27/f-fake-visual-essay-and-layers-paradox-0",
+  "article_order_within": 3,
   "embed": [
     "//www.youtube.com/embed/ThrLIQ-LKCk"
   ],
@@ -20,6 +22,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 1.1, 2014",
+      "path": "/intransition/theme-week/2014/10/issue-title-no-etc",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -58,18 +61,29 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mc.dlib.nyu.edu.intransition/theme-weeks/%5Bin%5DTransition-1_1-cover-2.0_1.jpg",
+      "body": "<p>Welcome to <strong>[in]Transition</strong>. A collaboration between MediaCommons and the Society for Cinema and Media Studies’ official publication, <em>Cinema Journal</em>, <strong>[in]Transition</strong> is the first peer-reviewed academic periodical specifically given over to videographic film and moving image studies.</p>\n<p>In this, the first issue of the journal, each <strong>[in]Transition</strong> co-editor has curated his or her individual choice of a video or video series in order to reflect, across the issue as a whole, a range of different approaches to this evolving format.</p>\n<p>We are also delighted to be able to <a href=\"http://mediacommons.futureofthebook.org/intransition/2014/03/04/intransition-editors-introduction\" target=\"_blank\">present</a>, for the first time in an integral version online, Laura Mulvey’s 2013 remix of her 2003 visual analysis of a fragment of <em>Gentlemen Prefer Blondes</em> (Howard Hawks 1953).</p>\n<div>\n<p><a href=\"http://mediacommons.futureofthebook.org/intransition/users/cgrant\" target=\"_blank\"><strong>Catherine Grant</strong></a>, <a class=\"ext\" href=\"http://www.middlebury.edu/academics/es/faculty/node/424993\" target=\"_blank\"><strong>Christian Keathley</strong> </a>and <a href=\"http://mediacommons.futureofthebook.org/users/drew-morton\" target=\"_blank\"><strong>Drew Morton</strong></a><br /> <em><strong>Co-editors of </strong></em><strong>[in]Transition</strong><br /> <em><strong>March 2014</strong></em></p>\n</div>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3359",
+      "uuid": "84f11416-0436-42d5-86da-877db82d803f",
       "name": "Drew Morton",
       "title": null,
       "mail": "damorton@ucla.edu",
       "picture": "http://www.gravatar.com/avatar/cfd46eb3e2b30d286260e5253b9b466f.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Texas A&M University - Texarkana"
+      "organization": "Texas A&M University - Texarkana",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Thursday, February 27, 2014",

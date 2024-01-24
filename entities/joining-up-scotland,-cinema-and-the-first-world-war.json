@@ -1,6 +1,8 @@
 {
   "id": "74",
   "title": "Joining Up: Scotland, Cinema and the First World War",
+  "article_path": "/intransition/2015/07/29/joining-scotland-cinema-and-first-world-war",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/122680865"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.3, 2015",
+      "path": "/intransition/theme-week/2015/32/journal-videographic-film-moving-image-studies-23-2015",
       "editors": [
         {
           "name": "Drew Morton",
@@ -29,7 +32,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//playtime.jpg",
+      "body": "<p>Welcome to the second issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.<strong> [in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the <a href=\"http://mediacommons.futureofthebook.org/intransition/contribute\">Contribute to <strong>[in]Transition</strong> tab</a> above. Additionally, we have issued a <a href=\"http://mediacommons.futureofthebook.org/intransition/call-special-issue\">call for videos for a special issue on Latin American cinema</a>.</p>\n<p>Drew Morton</p>\n<p>Editor, <strong>[in]Transition</strong> 2.3, September 2015</p>"
     }
   ],
   "reviews": [
@@ -78,6 +83,8 @@
   ],
   "contributors": [
     {
+      "uid": "4010",
+      "uuid": "a1073e6b-a88b-4ffb-a959-d48dafcef664",
       "name": "David Archibald and Maria A. Velez-Serna",
       "title": null,
       "mail": "m.a.velezserna@gmail.com",
@@ -89,7 +96,14 @@
         "original_title": null,
         "original_url": "http://earlycinema.gla.ac.uk"
       },
-      "organization": "University of Glasgow"
+      "organization": "University of Glasgow",
+      "biography": "<p>David Archibald is Lecturer in Film and Television Studies at the University of Glasgow. His monograph The war that won’t die: the Spanish Civil War in cinema was published by Manchester University Press in 2012. In addition to work in Film Studies, he has published widely on various aspects of Scotland’s cultural and political landscape and is currently completing a monograph on Ken Loach’s working practices.  Maria A. Velez-Serna is a post-doctoral researcher in the Early Cinema in Scotland project at the University of Glasgow, and co-editor of the project's outputs, including a collection forthcoming from Edinburgh University Press. She is also a co-ordinator of the HoMER Network (<a href=\"http://homernetwork.org\">http://homernetwork.org</a>) and organiser of its 2015 conference.  She has published on Scottish and Colombian cinema history and audiences in Post-Script, <a href=\"mailto:Particip@tions\">Particip@tions</a>, NECSUS, the Historical Journal of Film, Radio and TV and the International Journal of Humanities and Arts Computing. From October 2015 she will be based at the University of Stirling as a research fellow working on pop-up cinemas.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Thursday, July 30, 2015",

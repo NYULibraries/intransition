@@ -1,6 +1,8 @@
 {
   "id": "192",
   "title": "A Place in the Nation: Nationhood in Larraín's NO (2013)",
+  "article_path": "/intransition/2018/04/30/place-nation-competing-stories-nationhood-pablo-larra-n-s-no",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/240229181"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.2, 2018",
+      "path": "/intransition/theme-week/2018/18/journal-videographic-film-moving-image-studies-52-2018",
       "editors": [
         {
           "name": "Drew Morton",
@@ -29,7 +32,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202018-05-15%20at%208.08.06%20AM.png",
+      "body": "<p>Welcome to this second 2018 issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.</p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Drew Morton</strong></p>\n<p><strong>Editor, [in]Transition 5.2, June 2018</strong></p>"
     }
   ],
   "reviews": [
@@ -55,12 +60,21 @@
   ],
   "contributors": [
     {
+      "uid": "4905",
+      "uuid": "5f73c254-f591-454d-882b-66a60bd356f5",
       "name": "Niall Ó Murchú",
       "title": "Associate Professor in Global Studies",
       "mail": "Niall.Omurchu@wwu.edu",
       "picture": "http://www.gravatar.com/avatar/78c33ea6b7e1b2dcf177508b810a8d85.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Fairhaven College, Western Washington University"
+      "organization": "Fairhaven College, Western Washington University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, April 30, 2018",

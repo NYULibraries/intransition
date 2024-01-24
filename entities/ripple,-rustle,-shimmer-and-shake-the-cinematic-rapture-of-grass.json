@@ -1,6 +1,8 @@
 {
   "id": "2068",
   "title": "Ripple, rustle, shimmer and shake: the cinematic rapture of grass",
+  "article_path": "/intransition/ripple-rustle-shimmer-and-shake-cinematic-rapture-grass",
+  "article_order_within": 2,
   "embed": [
     "https://criticalcommons.org/embed?m=XF7ghiRiK"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 9.1, 2022",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-91-2022",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -71,7 +74,7 @@
           "organization": "Queens College / CUNY"
         },
         {
-          "name": null,
+          "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
@@ -79,7 +82,9 @@
           "organization": "University of Pittsburgh"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Stairwell2.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>’s first issue of 2022, 9.1. This issue features seven pieces of peer-reviewed videographic work, including audiovisual essays focused on secret worlds in Studio LAIKA films, representations of amnesia in film noir, the cinematic rapture of grass, ending paratexts, theories of sonic elongation, film with live orchestra concerts (this videographic study has been nominated for the <a href=\"https://learningonscreen.ac.uk/awards/awards-nominees/\">Learning on Screen Awards 2022</a> ‘Creative Re-use’ category), and a comparative analysis of versions of the 2017 <em>Justice League</em> film, made in the form of a pastiche of Kogonada’s classic video essay, <em>What Is Neorealism?</em>.  </p>\n<p>As always, we invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n"
     }
   ],
   "reviews": [
@@ -134,7 +139,9 @@
   ],
   "contributors": [
     {
-      "name": "Anne Rutherford",
+      "uid": "20641",
+      "uuid": "a5dcbd84-b0c7-42da-8641-1ad2bc5820c7",
+      "name": null,
       "title": "Adjunct Associate Professor, Cinema studies",
       "mail": "ruthean@gmail.com",
       "picture": "http://www.gravatar.com/avatar/f1c6264d4bd2eca001ce38e01c8c7187.jpg?d=identicon&s=150&r=G",
@@ -145,7 +152,14 @@
         "original_title": "Academia profile",
         "original_url": "https://westernsydney.academia.edu/AnneRutherford"
       },
-      "organization": "Western Sydney University"
+      "organization": "Western Sydney University",
+      "biography": "<p>Anne Rutherford is an Adjunct Associate Professor in Cinema Studies at Western Sydney University. She is the author of ‘What Makes a Film Tick?’: Cinematic Affect, Materiality and Mimetic Innervation (Peter Lang, 2011) and numerous articles on cinematic affect, embodiment and materiality, mise en scène, film sound, intermediality, Indigenous cinema and documentary. She has also made several short films.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, March 7, 2022",

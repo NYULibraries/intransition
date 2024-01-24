@@ -1,6 +1,8 @@
 {
   "id": "1670",
   "title": "The Idea of a Series: Energy Vectors in Montage",
+  "article_path": "/intransition/idea-series-energy-vectors-montage",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/383239280"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-64-2019",
       "editors": [
         {
           "name": "Julia Vassilieva",
@@ -27,7 +30,9 @@
           "organization": "Monash University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sergei.png",
+      "body": "<p>Special Issue: <strong>Montage Reloaded</strong></p>\n<p>Welcome to a special issue of <em>[in]Transition</em> that examines the legacy of the Russian avant-garde and the pioneering masters of the Russian montage school. The issue comprises four audio-visual works presented at the Symposium “Eisenstein for the Twenty First Century”, which took place in Prato in June 2018 and was supported by Monash University and the Australian Research Council. We extend our thanks to Julia Vassilieva for coordinating this outsatnding collection of work.</p>\n<p>Christian Keathley</p>\n<p>co-editor, <em>[in]Transition</em></p>"
     }
   ],
   "reviews": [
@@ -54,6 +59,8 @@
   ],
   "contributors": [
     {
+      "uid": "3571",
+      "uuid": "96cdf899-73b4-4563-b448-a6a36cf2258c",
       "name": "Adrian Martin",
       "title": "Professor of Film Studies",
       "mail": "adrian.martin@monash.edu",
@@ -65,15 +72,31 @@
         "original_title": "",
         "original_url": "www.lolajournal.com"
       },
-      "organization": "Monash and Goethe Universities"
+      "organization": "Monash and Goethe Universities",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
+      "uid": "3407",
+      "uuid": "e47fc667-0aaa-451a-9a4c-40bc556dd301",
       "name": "Cristina Álvarez López",
       "title": null,
       "mail": "i.am.cris.7@gmail.com",
       "picture": "http://www.gravatar.com/avatar/f9b7206d76f9fc2193ee726c327ded85.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Goethe Universität"
+      "organization": "Goethe Universität",
+      "biography": "<p>Cristina Álvarez López is the co-editor and co-founder of the Spanish online film journal Transit: Cine y otros desvíos, and co-curator of the section on audiovisual essays at NECSUS: European Journal of Media Studies.   Her critical writing and audiovisual essays have appeared, over the past six years, in the following international publications: Transit, LOLA, Trafic, Caimán. Cuadernos de cine, MUBI Notebook, Screening the Past, De Filmkrant, Frames, Shangri-la, Contrapicado, Gobshite Quarterly, Lumière, Blogs &amp; Docs, La Furia Umana and Desistfilm.  She has translated numerous critical and theoretical texts on film. She also has written chapters for the following books: Chantal Akerman, Paul Schrader: El cineasta frente a los tiempos, Max Ophüls: Carné de baile, Philippe Garrel.  With Adrian Martin, she co-organised the conference The Audiovisual Essay: Theory and Practice (November 2013), and co-teaches a course on audiovisual essays at Goethe University, Frankfurt.  </p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, January 3, 2020",

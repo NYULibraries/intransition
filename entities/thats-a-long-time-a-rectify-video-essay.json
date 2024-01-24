@@ -1,6 +1,8 @@
 {
   "id": "2102",
   "title": "That’s a Long Time… A RECTIFY Video Essay",
+  "article_path": "/intransition/’s-long-time…-rectify-video-essay",
+  "article_order_within": 4,
   "embed": [
     "https://criticalcommons.org/embed?m=WNf5g7YPC"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 9.2, 2022",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-92-2022",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -27,7 +30,7 @@
           "organization": "Aarhus Universitet"
         },
         {
-          "name": null,
+          "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
@@ -71,7 +74,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screenshot%202022-09-02%20at%2012.27.32.png",
+      "body": "<p>Welcome to issue 9.2 of <em>[in]Transition</em>, which features seven pieces of peer-reviewed videographic work on the following topics: U.S. lifestyle television and the racist histories beneath some of its surfaces; a sensuous exploration of the films of French-Senegalese writer-director Alain Gomis; the persistent figure of the cinematic woman artist; a career trajectory investigation of U.K. actor Alan Bates, centering on one of his movie roles in particular; the nostalgia and disenchantment of mainstream contemporary science fiction films; the SundanceTV series <em>Rectify </em>and its rich storytelling techniques and themes; and a survey of live-action filmic representations of the comic book villain, the Joker. </p>\n<p>As always, we invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n"
     }
   ],
   "reviews": [
@@ -114,6 +119,8 @@
   ],
   "contributors": [
     {
+      "uid": "631",
+      "uuid": "dd1d458b-c908-4ee0-96e9-6a3ddc359cb3",
       "name": "Christine Becker",
       "title": null,
       "mail": "cbecker1@nd.edu",
@@ -125,10 +132,19 @@
         "original_title": "",
         "original_url": "http://www.nd.edu/~cbecker1/"
       },
-      "organization": "University of Notre Dame"
+      "organization": "University of Notre Dame",
+      "biography": "<p>Christine Becker is an Associate Professor in the Department of Film, Television, and Theatre at the University of Notre Dame specializing in film and television history and critical analysis. Her book, It’s the Pictures That Got Small: Hollywood Film Stars on 1950s Television, was published by Wesleyan University Press in 2009. She is currently working on a research project comparing contemporary American and British television production and programming.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
-      "name": "Tanner Cipriano",
+      "uid": "20711",
+      "uuid": "a327d110-9b54-4f2c-b2d2-80871efc6721",
+      "name": null,
       "title": null,
       "mail": "tannercipriano@gmail.com",
       "picture": "http://www.gravatar.com/avatar/93212577a7e923c5e5db626cb3ae0cd1.jpg?d=identicon&s=150&r=G",
@@ -139,7 +155,14 @@
         "original_title": "Tanner Cipriano Website",
         "original_url": "tannercipriano.com"
       },
-      "organization": "Our House Grief Organization"
+      "organization": "Our House Grief Organization",
+      "biography": "<p>Tanner Cipriano is a twin brother who enjoys painting, reading, and watching movies and TV. In 2017, Tanner graduated from the University of Notre Dame as a double major in Film and American Studies and then moved out to Los Angeles where he first worked as a Writers’ PA on the Netflix show <em>Narcos</em> and then became assistant to the showrunner, Eric Newman. Now, he is the Development Associate at OUR HOUSE Grief Support Center and works closely with the Development team in all aspects of fundraising, marketing, and event planning.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, August 30, 2022",

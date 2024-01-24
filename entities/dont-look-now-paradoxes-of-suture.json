@@ -1,6 +1,8 @@
 {
   "id": "116",
   "title": "Don’t Look Now: Paradoxes of Suture",
+  "article_path": "/intransition/2016/10/06/don-t-look-now-paradoxes-suture",
+  "article_order_within": 4,
   "embed": [
     "http://shanedenson.com/stuff/dont-look-now-javascript/choose.html",
     "https://player.vimeo.com/video/155321559"
@@ -14,6 +16,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.4, 2016",
+      "path": "/intransition/theme-week/2016/51/journal-videographic-film-moving-image-studies-34-2016",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -38,7 +41,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-12-20%20at%2015.03.16.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. This issue publishes videos that locate themselves in a number of different emergent scholarly genres in our field, from explanatory voiceover-led work, through mash-ups, to fanvid-based approaches. It also features two works that employ digital technology in innovative ways, ones whose potential as videographic scholarship or criticism is still being imagined and shaped. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Catherine Grant and Chiara Grizzaffi<br /> Co-editors, <em>[in]Transition</em> 3.4, December 2016</strong></p>"
     }
   ],
   "reviews": [
@@ -69,11 +74,11 @@
         },
         {
           "name": "Richard Misek",
-          "title": "Lecturer in Media",
-          "mail": "r.e.misek@kent.ac.uk",
-          "picture": "http://www.gravatar.com/avatar/631e41c764722cced8b0fa0c0a189193.jpg?d=identicon&s=150&r=G",
+          "title": "Professor in Screen Media",
+          "mail": "richardmisek@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Kent"
+          "organization": "University of Bergen"
         }
       ],
       "body": "<p>Anyone interested in the on-going evolution of digital film studies needs to see, and reflect on, this experiment in close analysis.</p>\n<p>Formally and conceptually, it’s an extremely innovative work, analyzing a scene in <em>Don’t Look Now </em>by spatializing it as a timeline of shots. Though the author guides our attention in different ways, all of of the scene’s constituent shots remain on screen, allowing the viewer to look across them. For anyone who feels the linear, short duration video essay to be a transitional form, this is a really exciting development. It suggests a way of moving beyond one of the video essay’s current limitations, namely that it retains its sources’ linear form. Imagine being able to free your analysis from the duration of a shots you’re discussing, and instead use video to provide a synoptic analysis of entire sequences. It’s a very exciting prospect.</p>\n<p>In its present form, though, ‘<em>Don’t Look Now</em>: Paradoxes of Suture’ is also flawed. In a sense, the work’s limitations are integral to its innovation. But they still need to be articulated, as I think they’re instructive.</p>\n<p>The video has an unintuitive UX design. It’s visually confusing and awkward to navigate. For example, to advance from one section to the next, one can’t press the large red ‘forward’ arrow that intermittently appears, but instead has to press a small ‘continue’ button. Also, the way in which the scene is spatialized is, in its present form, quite confusing. The left and right frames of the shots abut each other, which (especially as they are all mirror shots) leads to a nice effect but obstructs clear analysis. More importantly, the video doesn’t quite work as a self-contained piece of film criticism. It explores different ways of navigating the spatial field that it presents – e.g. playing and looping all the shots at once, then playing through them individually and freezing each shot as it ends, then superimposing text over the shots. But this feels both too directed and too vague. Too directed because, (I feel) it should be the user who chooses how to navigate the scene. Too vague because to stand up as a rigorous close analysis, more words are needed.</p>\n<p>Perhaps, though, there’s another way of viewing, and reviewing, this video. Perhaps one should see it not as a self-contained video essay but as a walk-through of an early beta of an app for viewing and manipulating video clips spatially. Imagine, for example… The user imports a scene. The app then splits it into clips and linearly spatializes it, perhaps like in Denson’s video. Each clip can then be individually played, looped, or paused. For example, the user can scroll to, and then pause, the in points or out points for each clip; or just play two particular shots simultaneously and pause everything else. Exactly how the user utilizes this app depends on the film and what they hope to discover from it. The very process of doing this, of course, may then also reveal previously unnoticed themes, patterns, or equivalences. Such a platform for analyzing moving images could hugely faciliate close formal analysis. I imagine a moving image version of Warburg’s <em>Mnemosyne Atlas</em> – a wall (/ screen) full of images, all existing in spatial relation with each other, and all in motion; a field of connections waiting to be made.</p>\n<p>In short, I think this video points towards new methods of conducting close analysis rather than new methods of presenting it. In my view, the ideal final product would not be a tidied-up video essay but an app. I realize that, technically and conceptually, this is asking a lot. It would be a very different, and much larger project. For now, though, this video provides an inspiring demo of what such an app could help film analysts achieve.</p>\n"
@@ -81,6 +86,8 @@
   ],
   "contributors": [
     {
+      "uid": "1839",
+      "uuid": "d6a1bcbd-8924-4e53-84f9-be7a81abbb6a",
       "name": "Shane Denson",
       "title": "Associate Professor",
       "mail": "shane.denson@stanford.edu",
@@ -92,7 +99,14 @@
         "original_title": "",
         "original_url": "https://shanedenson.com"
       },
-      "organization": "Stanford University"
+      "organization": "Stanford University",
+      "biography": "<p>Associate Professor of Film &amp; Media Studies and, by Courtesy, of German Studies and Communication at Stanford University. Website: <a href=\"https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fshanedenson.com%2F&amp;data=05%7C01%7Cinmediares%40gsu.edu%7C71379b51b80e4e2739e908db32d7beb2%7C515ad73d8d5e4169895c9789dc742a70%7C0%7C0%7C638159674457089810%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=eYTYqUy2%2FaE0ksMgbl4fPhSakx8jlIjzcgv61nVd6cs%3D&amp;reserved=0\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"//shanedenson.com/. Click or tap if you trust this link.\">shanedenson.com</a></p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Thursday, October 6, 2016",

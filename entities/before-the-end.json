@@ -1,6 +1,8 @@
 {
   "id": "1976",
   "title": "Before the End",
+  "article_path": "/intransition/end",
+  "article_order_within": 7,
   "embed": [
     "https://player.vimeo.com/video/422175814"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.3, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-73-2020",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -27,7 +30,7 @@
           "organization": "Aarhus Universitet"
         },
         {
-          "name": null,
+          "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
@@ -49,7 +52,9 @@
           "organization": "Queens College / CUNY"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-12-01%20at%2011.44.10%20AM.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>'s final issue of 2020: 7.3. It's a bumper collection, featuring high quality and innovative videographic scholarship on Indian, Italian, French, Australian and US cinema - fiction and documentary - as well as on television, transmedia play and remix practice.</p>\n<p>Our next issue should appear as usual in March/April. If you would like to submit your own videographic film and moving image studies work to our journal, please visit the <a href=\"http://mediacommons.org/intransition/how-it-works\" target=\"_blank\">Contribute to <em>[in]Transition</em></a> page to find out more.</p>"
     }
   ],
   "reviews": [
@@ -92,6 +97,8 @@
   ],
   "contributors": [
     {
+      "uid": "3444",
+      "uuid": "917d1699-e8e1-4e57-b7e8-5114fcd1107e",
       "name": "Rob Stone",
       "title": "Professor of Film Studies",
       "mail": "r.stone@bham.ac.uk",
@@ -103,7 +110,14 @@
         "original_title": "https://robstonefiles.weebly.com",
         "original_url": "https://vimeo.com/stonerob"
       },
-      "organization": "University of Birmingham, UK"
+      "organization": "University of Birmingham, UK",
+      "biography": "<p>Rob Stone is Professor of Film Studies and Chair of European Film at the University of Birmingham in the UK. He is the author of 'Spanish Cinema' (2001), 'Flamenco in the Works of Federico García Lorca and Carlos Saura' (2004), 'Julio Medem' (2007), 'The Cinema of Richard Linklater: Walk, Don’t Run' (2013, 2nd edn. 2018) and co-author with María Pilar Rodríguez of 'Basque Cinema: A Cultural and Political History' (2015). He also co-edited 'The Unsilvered Screen: Surrealism on Film' (2007) with Graeme Harper, 'Screening Songs in Hispanic and Lusophone Cinema' (2012) with Lisa Shaw, 'A Companion to Luis Buñuel' (2013) with Julián Daniel Gutiérrez Albilla, 'Screening European Heritage' (2015) with Paul Cooke, 'The Routledge Companion to World Cinema' with Paul Cooke, Stephanie Dennison and Alex Marlow-Mann, and 'Sense8: Transcending Television' with Deborah Shaw. His audio-visual works include several video essays on Spanish and Basque films that were featured on Mediático, the short film 'Between Sunrise and Sunless' (2013), which was featured on Film Studies for Free in January 2014, the documentary 'Basque Heritage Cinema' (2013), which was screened by invitation at the 2014 Belfast Film Festival, and the full-length documentary 'Some Stories' (2019)</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, December 7, 2020",

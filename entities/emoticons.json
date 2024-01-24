@@ -1,6 +1,8 @@
 {
   "id": "54",
   "title": "Emoticons ",
+  "article_path": "/intransition/2015/03/10/emoticons",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/112893833"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
+      "path": "/intransition/theme-week/2015/11/peer-review-kick",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -23,7 +26,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/Screen%20Shot%202015-03-09%20at%2010.37.13%20AM_0.png",
+      "body": "<p>Welcome to the first issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.</p>\n<p><strong>[in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <strong>[in]Transition</strong> tab above.</p>\n<p>Christian Keathley<br /> Editor, <strong>[in]Transition</strong> 2.1, March 2015</p>"
     }
   ],
   "reviews": [
@@ -32,11 +37,11 @@
       "reviewers": [
         {
           "name": "Richard Misek",
-          "title": "Lecturer in Media",
-          "mail": "r.e.misek@kent.ac.uk",
-          "picture": "http://www.gravatar.com/avatar/631e41c764722cced8b0fa0c0a189193.jpg?d=identicon&s=150&r=G",
+          "title": "Professor in Screen Media",
+          "mail": "richardmisek@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Kent"
+          "organization": "University of Bergen"
         }
       ],
       "body": "<p>How to review a video-based ‘neuro-image’ of the author’s brain? When presented with images evoking the inside of another’s head, to an extent I have to take them on trust – the best person to evaluate them is the author herself. So, what external criteria can I use to review this video essay?</p>\n<p>Well, if I treat it as an academic work, I’m a little unsatisfied by the rapidity with which it jumps between ideas. I feel the author’s reflections and memories sometimes passed by too fast, each section feeling like a single utterance. But that’s missing the point – the video essay is an open form, in which authors are free to communicate ideas as obliquely or briefly as they wish.</p>\n<p>If I evaluate it as a piece of video art, aesthetic critieria come into play: I appreciate the approach, but balk at the amateurish ‘emoticon’ title cards and some of the low quality film clips. But that’s also missing the point – the video essays need not be beautiful; what makes it such a powerful tool is that it's accessible to those not trained in film-making.</p>\n<p>So, unable to approach this work using either the conventions of the academic peer review or those of art criticism, all I can do is summarise how I responded when I watched it. I took great pleasure in the intermingling of personal and cinematic memory. I felt I learnt something from it, albeit imprecisely. I enjoyed the high quality studio footage, though it made some of the other material look a bit shoddy by comparison. I intuited that there were two unreconciled visual logics at play in it (derived, as the rationale clarifies, from the video’s two-screen origin); most of all, I loved the constant horizontal motion of certain sections, but became frustrated when it stopped – for example, during a film clip or whenever a title appeared. Could the endless pan have been extended across the entire video?</p>\n<p>The video does not need to be amended – it is what it is. But I would love to see another draft – in particular, with a bit more finesse applied to how the different visual elements combine to form a whole. It could be a beautiful work (and not just visually); as it is, it’s not – quite.</p>\n"
@@ -46,11 +51,11 @@
       "reviewers": [
         {
           "name": "Richard Misek",
-          "title": "Lecturer in Media",
-          "mail": "r.e.misek@kent.ac.uk",
-          "picture": "http://www.gravatar.com/avatar/631e41c764722cced8b0fa0c0a189193.jpg?d=identicon&s=150&r=G",
+          "title": "Professor in Screen Media",
+          "mail": "richardmisek@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Kent"
+          "organization": "University of Bergen"
         },
         {
           "name": "Catherine Fowler",
@@ -66,6 +71,8 @@
   ],
   "contributors": [
     {
+      "uid": "3868",
+      "uuid": "332908dc-c2c9-4733-b388-e5acdf0b9ed8",
       "name": "Patricia Pisters",
       "title": "Professor of Film Studies",
       "mail": "p.pisters@uva.nl",
@@ -77,7 +84,14 @@
         "original_title": null,
         "original_url": "http://www.patriciapisters.com"
       },
-      "organization": "University of Amsterdam"
+      "organization": "University of Amsterdam",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, March 10, 2015",

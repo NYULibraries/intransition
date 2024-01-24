@@ -1,6 +1,8 @@
 {
   "id": "68",
   "title": "The Definition of Film",
+  "article_path": "/intransition/2015/05/25/definition-film",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/128097765?title=0&byline=0&portrait=0"
   ],
@@ -21,6 +23,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.2, 2015",
+      "path": "/intransition/theme-week/2015/21/journal-videographic-film-moving-image-studies-22-2015",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -37,18 +40,29 @@
           "organization": "Aarhus Universitet"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202015-05-22%20at%2015.05.37.png",
+      "body": "<p>Welcome to <strong>[in]Transition</strong> 2.2. This issue features content generated as part of an exciting collaboration with <strong>Cinema Journal</strong>, our partner publication. That journal's editor, <strong><a href=\"//fass.kingston.ac.uk/faculty/staff/cv.php?staffnum=354”\" target=\"“_blank”\">Will Brooker</a></strong>, shared with us (some six months in advance of publication) four articles from the latest issue of this highly esteemed journal—<strong><a href=\"//muse.jhu.edu/journals/cinema_journal/toc/cj.54.3.html”\" target=\"“_blank”\">54.3, Spring 2015</a></strong>—and asked if we would be interested in commissioning videographic responses to the work. We accepted this challenge, conceiving of it as an experiment to see how audiovisual essays (produced and published relatively quickly) could take up, adapt, or <a href=\"//en.wiktionary.org/wiki/riff”\" target=\"“_blank”\">riff off</a> debates and arguments posited by written scholarly texts (which, as is customary, had taken several years to produce and publish).</p>\n<p>Five sets of audiovisual essayists accepted the unusual commission, and their creative, critical work forms the basis of our issue. Each video is accompanied by a written statement from the maker(s) discussing the matters at stake in composing such audiovisual responses. We would like to thank the video essayists for their hard work in such a short turnaround time, as well as the authors of the original articles for consenting to take part in the experiment. Thanks also to the <strong>Cinema Journal</strong> editorial and online teams. As usual, we warmly welcome further responses to the work from viewers and readers in the comments threads. (Please click on the <strong><a href=\"//mediacommons.futureofthebook.org/intransition/user/register”\" target=\"“_blank”\">Register</a></strong> tab to create a user account for entering comments).</p>\n<p><strong>[in]Transition</strong> continues to accept submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the <strong><a href=\"//mediacommons.futureofthebook.org/intransition/node/6”\" target=\"“_blank”\">Contribute</a></strong> to <strong>[in]Transition</strong> tab above.</p>\n<p><a href=\"https://vimeo.com/124752024\" target=\"_blank\"><strong>Catherine Grant</strong></a><br /> Editor, <strong>[in]Transition</strong> 2.2, May/June 2015</p>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3552",
+      "uuid": "b30e46c2-9cb0-4582-b379-29824b5d6089",
       "name": "Richard Misek",
-      "title": "Lecturer in Media",
-      "mail": "r.e.misek@kent.ac.uk",
-      "picture": "http://www.gravatar.com/avatar/631e41c764722cced8b0fa0c0a189193.jpg?d=identicon&s=150&r=G",
+      "title": "Professor in Screen Media",
+      "mail": "richardmisek@gmail.com",
+      "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Kent"
+      "organization": "University of Bergen",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, May 18, 2015",
@@ -69,7 +83,7 @@
     },
     {
       "name": "Richard Misek",
-      "mail": "r.e.misek@kent.ac.uk",
+      "mail": "richardmisek@gmail.com",
       "subject": "'The Definition of Film' - now remade into a film!",
       "created": "Friday, March 11, 2016",
       "body": "To push the video's argument one step further, I've now turned the video essay into a film. I hope it now not only explicates but also demonstrates what 'film' is in the context of digital media. "

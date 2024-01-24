@@ -1,6 +1,8 @@
 {
   "id": "982",
   "title": "The Two Irises",
+  "article_path": "/intransition/two-irises",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/294065314"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.1, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-61-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -21,7 +24,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-03-11%20at%2011.32.49%20AM.png",
+      "body": "<p>Welcome to issue 6.1 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>"
     }
   ],
   "reviews": [
@@ -42,12 +47,21 @@
   ],
   "contributors": [
     {
-      "name": "Eleni Palis",
+      "uid": "17811",
+      "uuid": "b8c238cc-71ba-4781-b35b-e27faa850d97",
+      "name": null,
       "title": null,
       "mail": "epalis@sas.upenn.edu",
       "picture": "http://www.gravatar.com/avatar/29f3463e502309301634fb678fc974a0.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Pennsylvania"
+      "organization": "University of Pennsylvania",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, March 8, 2019",

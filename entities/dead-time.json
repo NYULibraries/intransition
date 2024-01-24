@@ -1,6 +1,8 @@
 {
   "id": "168",
   "title": "Dead Time",
+  "article_path": "/intransition/2017/09/07/dead-time",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/187518550"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.3, 2017",
+      "path": "/intransition/theme-week/2017/36/poetics-eye-tracking",
       "editors": [
         {
           "name": "Tessa Dwyer",
@@ -39,7 +42,9 @@
           "organization": "Monash University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//heatmap.jpg",
+      "body": "<p>The editors of <em>[in]Transition</em> are pleased to present a special issue of our journal dedicated to \"The Poetics of Eye Tracking.\" The issue was proposed and edited by Tessa Dwyer (Monash University), Claire Perkins (Monash University), and Sean Redmond (Deakin University). Warm thanks to them and the issue participants, as well as to all the peer-reviewers for their work. Drew Morton steered the production of the issue on behalf of <em>[in]Transition.</em> </p>\n<p><strong>The Poetics of Eye Tracking</strong></p>\n<p><strong>by Tessa Dwyer, Claire Perkins, and Sean Redmond</strong></p>\n<p>The four videographic essays that make up this special edition have developed out of the work pioneered by the <em>Eye Tracking and the Moving Image Research </em>group. ETMI was set up in late 2012 by Jodi Sita, a neuroscientist, and Sean Redmond, a film and television theorist, with two central goals in mind: one, they wanted to utilise eye tracking technology more centrally in the analysis and examination of the moving image; and two, they wanted to draw together scholars and practitioners from the Sciences and the (Creative) Arts and Humanities so that different modes of enquiry, and theoretical and methodological apparatuses, were placed in the same analytical arena. They felt that by having a room full of filmmakers, artists, film and cultural theorists, screenwriters, visual ethnographers, vision scientists and neuroscientists, new and exciting conversations and deliberations about how viewers engage with the moving image would be born.  This would be in stark contrast to what they felt had gone before where eye tracking analysis of film had been dominated by cognitive, neo-formalist approaches (see Redmond, and Batty, 2015). The formation of the group, then, created a strong commitment to inter-disciplinary and cross-institutional relationships, and to what was considered a necessary dialogue between different disciplines united by a shared desire: to investigate vision regimes in relation to the affecting power and beauty of the moving image. From its inception ETMI was also committed to the poetics of eye tracking and its potential to recast the way research could and should be carried out (see Redmond, 2016). The very first seeds of ETMI involved the blossoming talk of how the videographic essay would best capture its always exciting and equally vexing findings.</p>\n<p>In this issue the convergence comes to life, with four essays that each explore and demonstrate the natural fit of the videographic format for eye tracking research. The two phenomena converge around the problem of substitution: eye tracking research works with predominantly visual data that is then translated into prose, and the video essay interferes in the <em>ekphrastic </em>challenge of expressing spectatorship through the written medium. When drawing, as the ETMI group does, upon the former to examine the latter, the ability of the video essay to conduct analysis on the terms of its object – i.e., moving images and sounds – is uniquely valuable (see Keathley and Mittell, 2016). Preserving the live data of audiences watching images as they move enables the dynamic illustration that eye tracking as technology and methodology requires. Further, though, the video essay showcases the uncanny nature of eye tracking research, where researchers are compelled to watch the traces of their subjects watching. By putting the audience into this vital position of spectatorship, the video essay primes its viewer to experientially consider the poetic and phenomenological pathways that eye tracking can open up.</p>\n<p>This collection showcases these diverse ways in which eye tracking can inform and support both critical and creative screen analysis, starting with <em>Unseen Screens</em>:<em> Eye Tracking, Magic and Misdirection</em> by Tessa Dwyer and Jenny Robinson. This piece introduces some key concepts and visualisation techniques in moving-image eye tracking research including attentional synchrony, edit blindness, heat mapping, and aggregate gaze plot data. Navigating through these fixtures, <em>Unseen Screens</em> drills down into misdirection, foregrounding continuities between seeing and not seeing, illusion and transparency, film and magic. This piece is followed by two interconnected works that unfold around the thematic of sound<em>:</em><em> Materialisation, Emotion &amp; Attention: Tracking Sound’s Perceptual Effects in Film </em>by Darrin Verhagen, and <em>The Ear that Dreams: </em><em>Eye Tracking Sound in the Moving Image</em> by Sean Redmond. With humour and insight, Verhagen explores and debunks a range of sound/image theories and principles to argue for the ability of sound design to transform attention by deepening levels of engagement. Redmond further probes the affordances of film sound – its immersive, bi-sensorial and synesthetic effects – to explore the intensities that eye tracking data cannot image but only imagine. In this way, <em>The Ear That Dreams</em> prepares ground for embodied eye tracking methodologies. These tandem works on sound are followed by <em>Dead Time</em>, a piece by Catherine Fowler, Claire Perkins, and Andrea Rassell that institutes a dramatic change of pace, dramatising and massaging the tensions and challenges inherent within ‘slow cinema’. <em>Dead Time</em> reverses the usual tendency in eye tracking research to examine data through a quantitative lens. Instead, Fowler, Perkins, and Rassell ‘unbundle’ eye tracking to focus on the experiential idiosyncrasies of individualised viewing patterns. The order in which these works are presented moves from exposition to abstraction, orienting viewers initially through a mapping of misdirection and screen/sound relations before leading into an exploration of emotion, engagement, and affective poetics to settle finally upon an unflinching moment of meditative self-reflexion. Together these works chart eye tracking methods, approaches and data sets, yet they also acknowledge how charts and maps are themselves representations —part fiction, part fact. In doing so, they question and broaden understandings of eye tracking and the arts/science nexus.</p>\n<p><strong>References</strong></p>\n<p>Keathley, Christian, Mittell, Jason (2016). <em>The Videographic Essay: Criticism in Sound and Image</em>. caboose.</p>\n<p>Redmond, Sean, Batty, Craig (2015). ‘Seeing into Things: Eye Tracking the Moving Image’. <em>Refractory</em> 25. See: <a href=\"http://refractory.unimelb.edu.au/2015/02/06/redmond-batty/\">http://refractory.unimelb.edu.au/2015/02/06/redmond-batty/</a></p>\n<p>Redmond, Sean (2016). ‘The Love Particles of Eye Tracking’. <em>brief</em> 54: 111-120. Available at:   <a href=\"https://www.academia.edu/27920420/The_Love_Particles_of_Eye_Tracking\">https://www.academia.edu/27920420/The_Love_Particles_of_Eye_Tracking</a></p>"
     }
   ],
   "reviews": [
@@ -82,20 +87,38 @@
   ],
   "contributors": [
     {
+      "uid": "4693",
+      "uuid": "b967df4f-125b-4915-95c0-9e40af6d01e1",
       "name": "Claire Perkins",
       "title": "Dr in Film and Media studies",
       "mail": "claire.perkins@monash.edu",
       "picture": "http://www.gravatar.com/avatar/b70b18a2841edd09e63f4081459b62d6.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Monash University"
+      "organization": "Monash University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
+      "uid": "5000",
+      "uuid": "b4e29d0a-9a15-421d-b0ec-5b03546ee643",
       "name": "Catherine Fowler",
       "title": null,
       "mail": "catherine.fowler@otago.ac.nz",
       "picture": "http://www.gravatar.com/avatar/e4f0b2e7ae4cbc3964a43aa0e4def7b5.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Otago"
+      "organization": "University of Otago",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, September 6, 2017",

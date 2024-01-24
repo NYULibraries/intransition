@@ -1,6 +1,8 @@
 {
   "id": "1611",
   "title": "Watching The Pain of Others",
+  "article_path": "/intransition/watching-pain-others",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/298425068"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.3, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-63-2019",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-08-18%20at%2010.04.28%20AM.png",
+      "body": "<p>Welcome to issue 6.3 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All eight of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>We would also like to offer a warm welcome to the two newest members of the <em>[in]Transition </em>editorial team:  Kevin Ferguson (Associate Professor of English at Queens College, City University of New York) and Neepa Majumdar (Associate Professor of English and Film Studies, University of Pittsburgh).  We've been working with Kevin and Neepa for a couple months now and greatly appreciate their enthusiasm for diving into our editorial review process and work on this issue.  </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p>Drew Morton</p>"
     }
   ],
   "reviews": [
@@ -70,7 +75,9 @@
   ],
   "contributors": [
     {
-      "name": "Chloé Galibert-Laîné",
+      "uid": "18813",
+      "uuid": "ad99bfcc-0d49-40d9-a52d-5a59682faca2",
+      "name": null,
       "title": "Senior Researcher",
       "mail": "chloe_gl@hotmail.fr",
       "picture": "http://www.gravatar.com/avatar/716e5dadcbabeff7fa7d0921cc3414a9.jpg?d=identicon&s=150&r=G",
@@ -81,7 +88,14 @@
         "original_title": "Personal website",
         "original_url": "https://www.chloegalibertlaine.com/"
       },
-      "organization": "Lucerne School of Art and Design - Hochschule Luzern"
+      "organization": "Lucerne School of Art and Design - Hochschule Luzern",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, August 13, 2019",

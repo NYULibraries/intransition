@@ -1,6 +1,8 @@
 {
   "id": "124",
   "title": "Thinking Through Acting: Performative Indices and Philosophical Assertions",
+  "article_path": "/intransition/2016/11/22/thinking-through-acting-performative-indices-and-philosophical-assertions",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/434387478?color=c7c7c7&title=0&byline=0&portrait=0"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.4, 2016",
+      "path": "/intransition/theme-week/2016/51/journal-videographic-film-moving-image-studies-34-2016",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -37,7 +40,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-12-20%20at%2015.03.16.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. This issue publishes videos that locate themselves in a number of different emergent scholarly genres in our field, from explanatory voiceover-led work, through mash-ups, to fanvid-based approaches. It also features two works that employ digital technology in innovative ways, ones whose potential as videographic scholarship or criticism is still being imagined and shaped. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Catherine Grant and Chiara Grizzaffi<br /> Co-editors, <em>[in]Transition</em> 3.4, December 2016</strong></p>"
     }
   ],
   "reviews": [
@@ -64,6 +69,8 @@
   ],
   "contributors": [
     {
+      "uid": "3394",
+      "uuid": "0df2c2e5-d973-452b-99c7-cdb2e014716f",
       "name": "Aaron Taylor",
       "title": "Associate Professor of Cinema Studies",
       "mail": "aaron.taylor2@uleth.ca",
@@ -75,15 +82,31 @@
         "original_title": "",
         "original_url": "http://scholar.ulethbridge.ca/aarontaylor/"
       },
-      "organization": "University of Lethbridge"
+      "organization": "University of Lethbridge",
+      "biography": "<p>Aaron Taylor is an Associate Professor in the Department of New Media at the University of Lethbridge, where he specializes in Film Studies. He is the editor of “Theorizing Film Acting” and the author of numerous essays on film acting, American cinema, and comic books. His research projects including an investigation of the psychology of acting for the camera, comics and the superhero film, and the teary-eyed cult reception of “It’s a Wonderful Life.”</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "AaronTaylorPhD",
+        "aim": null,
+        "skype": null
+      }
     },
     {
+      "uid": "4455",
+      "uuid": "dcc16b22-f548-4b4b-b4a5-5e57c6993084",
       "name": "Bryn Hewko",
       "title": "Sessional Lecturer",
       "mail": "bryn@outputmedia.ca",
       "picture": "http://www.gravatar.com/avatar/a66b0b5ed18f411419c66946d84ba540.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Lethbridge"
+      "organization": "University of Lethbridge",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, November 21, 2016",

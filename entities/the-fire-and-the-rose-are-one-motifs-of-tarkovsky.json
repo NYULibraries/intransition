@@ -1,6 +1,8 @@
 {
   "id": "170",
   "title": "\"The fire and the rose are one.\" Motifs of Tarkovsky ",
+  "article_path": "/intransition/2018/01/10/fire-and-rose-are-one-motifs-tarkovsky",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/185550336"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.4, 2017",
+      "path": "/intransition/issue-4-4",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -23,7 +26,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202018-01-10%20alle%2020.54.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, <em>[in]Transition</em> 4.4, December 2017</strong></p>"
     }
   ],
   "reviews": [
@@ -66,6 +71,8 @@
   ],
   "contributors": [
     {
+      "uid": "4814",
+      "uuid": "f069b307-5e29-41db-85c5-596c07715853",
       "name": "Peter Kravanja",
       "title": "Research Fellow",
       "mail": "peterkravanja@gmail.com",
@@ -77,7 +84,14 @@
         "original_title": null,
         "original_url": "http://www.kravanja.eu"
       },
-      "organization": "KU Leuven (Belgium)"
+      "organization": "KU Leuven (Belgium)",
+      "biography": "<p>Peter Kravanja is a Research Fellow in the research unit of Literature and Culture at the Faculty of Arts, at the Katholieke Universiteit Leuven (Belgium). Mostly in collaboration with Maarten Coëgnarts, he has investigated the interplay between conceptual metaphors and cinema. The results have been published in peer reviewed journals such as Image [&amp;] Narrative, Projections: The Journal for Movies and Mind, Metaphor and the Social World, New Review of Film and Television Studies, and Metaphor and Symbol. They have also edited the special issue Metaphor, Bodily Meaning, and Cinema of Image [&amp;] Narrative as well as the book Embodied Cognition and Cinema (Leuven University Press, 2015).</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, January 10, 2018",

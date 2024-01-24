@@ -1,6 +1,8 @@
 {
   "id": "1972",
   "title": "The Television Will Not Be Summarized",
+  "article_path": "/intransition/television-will-not-be-summarized",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/385523178"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.3, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-73-2020",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -27,7 +30,7 @@
           "organization": "Aarhus Universitet"
         },
         {
-          "name": null,
+          "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
@@ -49,7 +52,9 @@
           "organization": "Queens College / CUNY"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-12-01%20at%2011.44.10%20AM.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>'s final issue of 2020: 7.3. It's a bumper collection, featuring high quality and innovative videographic scholarship on Indian, Italian, French, Australian and US cinema - fiction and documentary - as well as on television, transmedia play and remix practice.</p>\n<p>Our next issue should appear as usual in March/April. If you would like to submit your own videographic film and moving image studies work to our journal, please visit the <a href=\"http://mediacommons.org/intransition/how-it-works\" target=\"_blank\">Contribute to <em>[in]Transition</em></a> page to find out more.</p>"
     }
   ],
   "reviews": [
@@ -110,12 +115,21 @@
   ],
   "contributors": [
     {
+      "uid": "3470",
+      "uuid": "e436348c-ce4b-4721-afe6-a67b35148b90",
       "name": "Elizabeth Alsop",
       "title": "Assistant Professor",
       "mail": "elizabeth.alsop@cuny.edu",
       "picture": "http://www.gravatar.com/avatar/28ea8649e8013b41f852475151ba333a.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "CUNY School of Professional Studies"
+      "organization": "CUNY School of Professional Studies",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@elizabethalsop",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, January 18, 2020",

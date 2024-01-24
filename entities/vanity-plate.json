@@ -1,6 +1,8 @@
 {
   "id": "2137",
   "title": "Vanity Plate",
+  "article_path": "/intransition/vanity-plate",
+  "article_order_within": 7,
   "embed": [
     "https://player.vimeo.com/video/664685347?h=aba087845a"
   ],
@@ -11,9 +13,10 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 9.4, 2023",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-94-2023",
       "editors": [
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -59,7 +62,7 @@
       ],
       "coeditors": [
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -80,7 +83,9 @@
           "url": null,
           "organization": "Film University Babelsberg KONRAD WOLF"
         }
-      ]
+      ],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//landing.png",
+      "body": "<p>Welcome to issue 9.4 of <em>[in]Transition</em>, a special issue co-conceived, co-produced and co-edited by our associate editors Ariel Avissar and Evelyn Kreutzer, which features the component elements of part two of <em>Once Upon a Screen Volume 2</em>, a follow-up project to <em>Once Upon a Screen</em>, which appeared in <a href=\"http://www.thecine-files.com/issue15-audiovisual-essays/\"><em>The Cine-Files</em></a> in 2020.</p>\n<p>In <em>The Cine-Files</em> collection, the project editors asked their contributors to create videographic explorations of personal, “traumatic” screen memories from their childhoods. For the second iteration, proudly published here at <em>[in]Transition</em>, Ariel and Evelyn decided to go one step further in bringing together personal and collective memories and to experiment more radically with notions of collaborative authorship in videographic practices. This time, they asked colleagues first to submit a short text, describing a formative screen memory from any point in their lives, without naming the media source to which they referred. This resulted in the production of sixteen texts, which they then re-shuffled and distributed anonymously among the group, so that each participant received a text that was not their own, along with an invitation to make a video based on that text. The editors did not specify how closely or loosely the video needed to adhere to the text. The identities of the authors were only revealed to the video makers after the videos were finished.</p>\n<p>The resulting videos have been published in two installments, beginning with <a href=\"http://mediacommons.org/intransition/journal-videographic-film-moving-image-studies-93-2022\">issue 9.3</a> and ending with the current issue of <em>[in]Transition</em>, which also features Ariel and Evelyn's introduction and a response by one of the editors of <em>[in]Transition</em>, Katie Bird.</p>\n<p>We invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission <a href=\"https://mediacommons.org/intransition/how-it-works\">guidelines</a>.</p>\n"
     }
   ],
   "reviews": [
@@ -115,7 +120,9 @@
   ],
   "contributors": [
     {
-      "name": "Will Webb",
+      "uid": "20806",
+      "uuid": "4c2ae118-5684-4b64-badc-25c32f92a123",
+      "name": null,
       "title": "Director",
       "mail": "willwebb1@hotmail.co.uk",
       "picture": "http://www.gravatar.com/avatar/78cadc060794c9b5f748008de63fc216.jpg?d=identicon&s=150&r=G",
@@ -126,7 +133,14 @@
         "original_title": "Personal Site",
         "original_url": "www.willwebbful.com"
       },
-      "organization": "Mountain Way Pictures"
+      "organization": "Mountain Way Pictures",
+      "biography": "<p>Will is a writer-director based in London. His shorts have played at BAFTA-qualifying festivals including Aesthetica, London Short Film Festival, PÖFF Shorts, and Leeds International Film Festival. He was awarded the BFI Future Film Award for Fiction in 2015, selected as a Hospital Club Emerging Creative in 2017, and a member of BAFTA Crew 2017- 2021. He’s also made essay films for the British Film Institute and Little White Lies, and charity films for the Royal Opera House. Outside of filmmaking, he’s programmed for the Chronic Youth Festival (Barbican) and Sheffield Doc/Fest, devised and delivered workshops for the BFI, and spoken on panels for Into Film.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "willwebbful",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, February 8, 2023",

@@ -1,6 +1,8 @@
 {
   "id": "2034",
   "title": "Shoot to Kill: The Weaponized Gaze of the American Action Film",
+  "article_path": "/intransition/shoot-kill-weaponized-gaze-american-action-film",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/564532812"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 8.2, 2021",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-82-2021",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202021-06-24%20at%2011.00.15%20AM.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>’s second issue of 2021, 8.2. This issue features a variety of peer-reviewed videographic work focused on a diverse array of topics from video games and virtual reality to horror films and documentary film practice. </p>\n<p>Our usual editorial operations and publishing schedule have undoubtedly been affected by the pandemic. We especially appreciate all of our contributors' and reviewers' work, therefore, and also our readers' patience. We enthusiastically look forward to viewing and engaging with future submissions of videographic work.  You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n<p>Finally, some news that we're expanding our editorial team here at <em>[in]Transition</em> in two ways! First off, we have appointed three new co-editors who will be joining the journal fully over the next few months: these are Katie Bird (Assistant Professor in Film Studies and Digital Media Production in the Department of Communication at the University of Texas at El Paso), Eva Hageman (Assistant Professor at the University of Maryland in American Studies and the Harriet Tubman Dept. of Women, Gender and Sexuality Studies), and Juan Llamas-Rodríguez (Assistant Professor in the School of Arts, Technology and Emerging Communication at the University of Texas at Dallas). We are really thrilled that these great scholars and video makers will be joining us and bringing their many talents, specialties, and interests to bear on our editorial processes.</p>\n<p>The second expansion we're engaged in and are very happy to announce is the introduction of a team of Associate Editors for the journal, a group of nine dynamic early career academics, post-doctoral researchers, and several more junior scholars, from around the world (all making or thinking about videographic scholarship and criticism) who will help support the journal in a variety of ways: Ariel Avissar; Cormac Donnelly; Libertad Gills; Cydnii Wilde Harris; Evelyn Kreutzer; Hoi Lun Law; Nike Nivar Ortiz; Jordan Schönig; and Maryam Tafakory. </p>\n"
     }
   ],
   "reviews": [
@@ -70,12 +75,21 @@
   ],
   "contributors": [
     {
-      "name": "Lennart Soberon",
+      "uid": "20424",
+      "uuid": "90aecc56-b8e8-4302-9c9b-6cceebb636d4",
+      "name": null,
       "title": "Post-doctoral researcher",
       "mail": "Lennart.soberon@vub.be",
       "picture": "http://www.gravatar.com/avatar/8f744d050cbd5a837cccdd5b896e0790.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Vrije Universiteit Brussel"
+      "organization": "Vrije Universiteit Brussel",
+      "biography": "<p>Bio:<br />\nLennart Soberon is a post-doctoral researcher at the Vrije Universiteit Brussel (VUB) and artistic coordinator of non-profit arthouse KASKcinema, Ghent (BE). His prior research project focused on enemy image construction in the American action film. In this research he combined a longitudinal study of Hollywood screen villains since the 1980 with a neoformalist analysis on cinematic practices of vilification. Apart from working on themes of enemy making and ‘othering’, he has also published on themes of genre, emotion, masculinity, trauma and spectacle. He is currently part of an ERC-funded project on the cinematic representation of European border regions.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, June 19, 2021",

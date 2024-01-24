@@ -1,6 +1,8 @@
 {
   "id": "38",
   "title": "The Inward/Outward Turn",
+  "article_path": "/intransition/2014/09/14/inwardoutward-turn",
+  "article_order_within": 2,
   "embed": [
     "//player.vimeo.com/video/103797365?title=0&byline=0&portrait=0&color=6b1307",
     "//player.vimeo.com/video/103411896?title=0&byline=0&portrait=0&color=6b1307"
@@ -23,6 +25,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 1.3, 2014",
+      "path": "/intransition/theme-week/2014/35/journal-videographic-film-moving-image-studies-13-2014",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -39,12 +42,16 @@
           "organization": "Aarhus Universitet"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Metaslider%20audiovisual_Intransition_crop2.jpg",
+      "body": "<p>Welcome to the latest issue of <strong>[in]Transition</strong>. A collaboration between MediaCommons and the Society for Cinema and Media Studies’ official publication, <em>Cinema Journal</em>, <strong>[in]Transition</strong> is the first peer-reviewed academic periodical specifically given over to videographic film and moving image studies.</p>\n<p>In this our first year of publication, the <strong>[in]Transition</strong> co-editors are taking turns editing special themed issues in which guest curators offer critical reflections on selected videographic work. Issue #1.3 is devoted to reflections on the practice and theory of the audiovisual essay form, with particular reference to its emerging procedures and uses in film and moving image criticism and research. You may also like to visit the <a href=\"http://reframe.sussex.ac.uk/audiovisualessay/\">companion website</a> to this issue, created to house further reflections on the matters it raises.</p>\n<p>We are delighted to announce that <strong>[in]Transition </strong>is now accepting submissions of videographic work for peer-reviewed publication in subsequent issues, beginning with issue #2.1 (2015). You can find out further information about this by clicking on the <a href=\"http://mediacommons.futureofthebook.org/intransition/node/6\"><em>Contribute to </em><strong>[in]Transition</strong> tab</a> above.</p>\n<p><strong>Catherine Grant</strong></p>\n<p><strong>Editor, [in]Transition 1.3, September 2014</strong></p>\n<p><em>IMAGE CREDIT:</em> Design by <a href=\"http://www.sussex.ac.uk/mediaandfilm/people/list/person/174167\"><strong>Tanya Kant</strong></a> based on a cropped frame grab image of Lauren Bacall and Hoagy Carmichael in <em>To Have and Have Not</em> (Howard Hawks, 1944)</p>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3571",
+      "uuid": "96cdf899-73b4-4563-b448-a6a36cf2258c",
       "name": "Adrian Martin",
       "title": "Professor of Film Studies",
       "mail": "adrian.martin@monash.edu",
@@ -56,7 +63,14 @@
         "original_title": "",
         "original_url": "www.lolajournal.com"
       },
-      "organization": "Monash and Goethe Universities"
+      "organization": "Monash and Goethe Universities",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, August 26, 2014",

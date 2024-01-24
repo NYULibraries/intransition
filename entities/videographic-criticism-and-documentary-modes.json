@@ -1,6 +1,8 @@
 {
   "id": "134",
   "title": "Videographic Criticism and Documentary Modes",
+  "article_path": "/intransition/2017/videographic-criticism-and-documentary-modes",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/142425249"
   ],
@@ -13,19 +15,31 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
+      "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202017-03-13%20at%208.39.01%20AM.png",
+      "body": "<p>To celebrate the inauguration of the <a href=\"http://www.cmstudies.org/group/digital_hum\" target=\"_blank\">SCMS Scholarly Interest Group on Digital Humanities and Videographic Criticism</a>, we offer this curated issue of videographic works from the first three years of the journal. The pieces selected for (re)presentation here feature some of the most imaginative and innovative work yet produced in the still developing form of videographic criticism.</p>\n<p>As an academic journal, these curated pieces have been selected largely because of their scholarly merit, presenting ideas and arguments that help us see their subjects in enlightening new ways. They also represent a mode of videographic practice that counters what <a href=\"http://fourthreefilm.com/2017/02/publish-and-perish-video-essays-in-the-age-of-social-media/\" target=\"_blank\">Conor Bateman calls the \"Facebook-first\" video essay</a>: short, attention-grabbing snacks striving for click counts more than ongoing reflection. As academics, we are committed to the latter, believing that videographic criticism has the possibility to create lasting scholarly works that bear rewatching and reconsideration, much like great written essays do.</p>\n<p>In that spirit, we offer a curated collection of videos that we believe warrant rewatching after their moment of publication. Each of us has selected one (or more) video, presented with a statement exploring what can be learned by rewatching it, even a year or more after its initial publication.</p>\n<p>-- The Editors</p>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3359",
+      "uuid": "84f11416-0436-42d5-86da-877db82d803f",
       "name": "Drew Morton",
       "title": null,
       "mail": "damorton@ucla.edu",
       "picture": "http://www.gravatar.com/avatar/cfd46eb3e2b30d286260e5253b9b466f.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Texas A&M University - Texarkana"
+      "organization": "Texas A&M University - Texarkana",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, March 13, 2017",

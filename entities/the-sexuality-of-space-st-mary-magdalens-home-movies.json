@@ -1,6 +1,8 @@
 {
   "id": "174",
   "title": "The Sexuality of Space: St Mary Magdalen’s Home Movies",
+  "article_path": "/intransition/2018/01/10/sexuality-space-st-mary-magdalen-s-home-movies",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/234097742"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.4, 2017",
+      "path": "/intransition/issue-4-4",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -23,7 +26,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202018-01-10%20alle%2020.54.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, <em>[in]Transition</em> 4.4, December 2017</strong></p>"
     }
   ],
   "reviews": [
@@ -84,18 +89,27 @@
   ],
   "contributors": [
     {
+      "uid": "4813",
+      "uuid": "e5d99ace-bcdc-4cf6-a993-a46df9312f64",
       "name": "William Brown",
-      "title": "Dr",
+      "title": "Assistant Professor of Film",
       "mail": "wjrcbrown@gmail.com",
       "picture": "http://www.gravatar.com/avatar/64b7d0cd4513cbbefd48fc66b97ade36.jpg?d=identicon&s=150&r=G",
       "url": {
-        "url": "https://wjrcbrown.wordpress.com/",
-        "title": null,
+        "url": "https://begstealborrowfilms.com",
+        "title": "",
         "attributes": [],
-        "original_title": null,
-        "original_url": "https://wjrcbrown.wordpress.com/"
+        "original_title": "",
+        "original_url": "https://begstealborrowfilms.com"
       },
-      "organization": "University of Roehampton, London"
+      "organization": "University of British Columbia",
+      "biography": "<p>William Brown is an Assistant Professor of Film at the University of British Columbia. He is the author of several books, including Navigating from the White Anthropocene to the Black Chthulucene (Zer0 Books, 2023), The Squid Cinema from Hell: Kinoteuthis Infernalis and the Emergence of Chthulumedia (with David H. Fleming, Edinburgh University Press, 2020) and Non-Cinema: Global Digital Filmmaking and the Multitude(Bloomsbury, 2018). He is also a maker of no-budget films, including This is Cinema (2018) and Mantis(forthcoming).</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "wjrcbrown",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, January 10, 2018",

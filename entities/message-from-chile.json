@@ -1,6 +1,8 @@
 {
   "id": "978",
   "title": "Message from Chile",
+  "article_path": "/intransition/message-chile",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/292787317"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.1, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-61-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -21,7 +24,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-03-11%20at%2011.32.49%20AM.png",
+      "body": "<p>Welcome to issue 6.1 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>"
     }
   ],
   "reviews": [
@@ -49,6 +54,20 @@
           "picture": "http://www.gravatar.com/avatar/c78d08aea4c83cf1bdf39f07c89f2871.jpg?d=identicon&s=150&r=G",
           "url": null,
           "organization": "University of Sussex"
+        },
+        {
+          "name": "Jeffrey Romero Middents",
+          "title": "Associate Professor of Literature",
+          "mail": "middents@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/bd7133f760dbe53705c0fc2644aa419a.jpg?d=identicon&s=150&r=G",
+          "url": {
+            "url": "http://www.american.edu/cas/faculty/middents.cfm",
+            "title": "",
+            "attributes": [],
+            "original_title": "",
+            "original_url": "http://www.american.edu/cas/faculty/middents.cfm"
+          },
+          "organization": "American University"
         }
       ],
       "body": "<p dir=\"ltr\">While watching this video essay, I kept being reminded of Fernando Solanas’ <em>Tangos: El Exilio de Gardel</em>/<em>Tangos: The Exile of Gardel</em>, a mid-1980s film exploring the fragmented lives of Argentine exiles in Paris, desperately attempting to communicate their pain to people (the French) who cannot possibly understand. Throughout the film, the teenage children of the exiles, displaced enough to have fewer attachments or memories of their homeland, rehearse a street performance (in Spanish) about their lives; <a href=\"https://youtu.be/2SEPadnnRTs?t=110\"><u>“Act 2” of the film</u></a> begins with the girls facing the camera and singing about “<em>tangos de papel</em>,” a phrase which can be translated as both “paper tangos” and “everyday tangos”: “Letters of exile come and go/Bringing us emotions like daily bread/Errands and news that give us/The proof that everyone is still there.” The sequence also shows nearly the entire cast writing, sending and receiving letters – so many letters that they fall down a staircase, or erupt in a flourish from the back of a mail truck.</p>\n<p dir=\"ltr\">Letters are an everyday occurrence – and yet they are desperately special, because they are objects that, for the exile in particular, provide tangible <em>proof</em> of a life that persists. Like letters, however, cinema also travels and offers “proof of life” from afar. The story of post-Allende Chile and its cinema depends on countries being far, far apart; as the quoted passage from Hamid Naficy states, “distance and absence drives them both.” The premiere cinematic document from the Pinochet years remains Patricio Guzmán’s documentary <em>La batalla de Chile/The Battle of Chile</em>, a movie which would never have been made were it not for many reels of celluloid escaping via Swedish diplomatic pouches bound for Europe.</p>\n<p dir=\"ltr\">Palacios and Ramírez-Soto’s essay crafts a new document from old documents <em>about</em> documents, exploring the exilic necessity for tangible objects as proof of a life. I particularly like how the videoessay treats the polylingual nature of these letters: in Spanish, of course, but also German, Finnish, and French, proof (once again) that the exilic is implicitly multi-directional.</p>\n<p dir=\"ltr\">A final thought: The video essay does a spectacular job of unearthing films that have fallen out of circulation and might be very unfamiliar to those outside of Chilean cinema; there is no need, for example, for Guzmán’s internationally recognized work in this piece. The materiality of these films, in videotape and celluloid formats, has been transferred into the digital in order to craft the essay – but that the films survived at all depends on the original materials existing as objects in the first place. This is much like the letters-as-objects themselves. This begs the question of representation within the contemporary exilic situation: “proof of life” comes from more ephemeral messages via text and YouTube. In the end, Palacios and Ramírez-Soto might be asking another question: what happens to the exiled – and their representation – when there are no pieces of paper or plastic videotapes to physically hold and treasure?</p>\n<p> </p>"
@@ -56,6 +75,8 @@
   ],
   "contributors": [
     {
+      "uid": "17629",
+      "uuid": "90f25c2a-c68f-4549-a2f1-a41b40ffbd80",
       "name": "José Miguel Palacios",
       "title": null,
       "mail": "josepalaciosdel@gmail.com",
@@ -67,15 +88,31 @@
         "original_title": "",
         "original_url": "https://uahurtado.academia.edu/JoseMiguelPalacios"
       },
-      "organization": "Universidad Alberto Hurtado"
+      "organization": "Universidad Alberto Hurtado",
+      "biography": "<p>José Miguel Palacios is a postdoctoral fellow in the Art Department at Universidad Alberto Hurtado in Santiago, Chile. His essays have appeared in Jump Cut, Archivos de la Filmoteca, la Fuga, Iberoamericana: América Latina-España-Portugal, and in the collections Cinematic Homecomings: Exile and Return in Transnational Cinema (2015) and New Documentaries in Latin America (2014). He received a Ph.D. in Cinema Studies from New York University in 2017.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@josempalacios",
+        "aim": null,
+        "skype": null
+      }
     },
     {
-      "name": "Elizabeth Ramirez-Soto",
+      "uid": "17860",
+      "uuid": "080287e8-9fa5-4a92-b252-3f420a7bfaee",
+      "name": null,
       "title": "Assistant Professor ",
       "mail": "eramirezsoto@sfsu.edu",
       "picture": "http://www.gravatar.com/avatar/411eb29f59e405b70fb9ab0c2a33e42b.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "San Francisco State University"
+      "organization": "San Francisco State University",
+      "biography": "<p>Elizabeth Ramírez-Soto is an Assistant Professor in the School of Cinema at San Francisco State University. She is the coeditor of Nomadías: El cine de Marilú Mallet, Valeria Sarmiento y Angelina Vázquez (2016). Her essays have appeared in Quarterly Review of Film and Video, Journal of Latin American Cultural Studies, Rethinking History, and in the collection Doing Women’s Film History (2015). She received a Ph.D. in Film and Television Studies from the University of Warwick in 2014.<br />\n<a href=\"mailto:eramirezsoto@sfsu.edu\">eramirezsoto@sfsu.edu</a></p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, March 8, 2019",

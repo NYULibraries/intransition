@@ -1,6 +1,8 @@
 {
   "id": "96",
   "title": "ADAPTATION.'s Anomalies",
+  "article_path": "/intransition/2016/03/18/adaptations-anomalies",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/142425249"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.1, 2016",
+      "path": "/intransition/issue-3-1",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -29,7 +32,9 @@
           "organization": "Aarhus Universitet"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/%5Bin%5DTransition-3-1-theme-week-image-450-x-175_0.jpg",
+      "body": "<p>Welcome to the latest issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work. The videos in this issue were all screened at a <a href=\"http://www.essayfilmfestival.com/session-3-the-academic-audiovisual-essay-intransition-preview-screenings/\" target=\"_blank\">special preview event</a> devoted to the academic audiovisual essay held at the annual <a href=\"http://www.essayfilmfestival.com/\" target=\"_blank\">Essay Film Festival</a> (Birkbeck Institute for the Moving Image, University of London/Institute of Contemporary Arts, UK) on March 19, 2016.</p>\n<p>As usual, each video is accompanied by a curatorial statement from the maker, as well as peer reviewer evaluations. We publish these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid and valuable scholarship in this emerging form. We invite readers and viewers to join this conversation in the same spirit. Just register as a member of the MediaCommons network and leave a comment in the thread at the foot of each entry.</p>\n<p><strong>[in]Transition</strong> welcomes submissions of videographic work for peer-reviewed publication in subsequent issues. To find out  how to submit your work please click on the Contribute to <strong>[in]Transition</strong> tab above. To learn about new issues, calls for special issue submissions, and other news, <a href=\"https://groups.google.com/forum/#!forum/intransition-announcements\" target=\"_blank\">please subscribe</a> to our announcement email list! And follow us on <a href=\"https://twitter.com/inTransitionCMS\">Twitter</a> and <a href=\"https://www.facebook.com/intransitionjournal/\" target=\"_blank\">Facebook</a>:</p>\n<p>Catherine Grant<br /> Editor, <strong>[in]Transition</strong> 3.1, March/April 2016</p>"
     }
   ],
   "reviews": [
@@ -90,6 +95,8 @@
   ],
   "contributors": [
     {
+      "uid": "133",
+      "uuid": "60f82e19-a370-4479-9908-23410a020f4a",
       "name": "Jason Mittell",
       "title": "Professor of Film & Media Culture and American Studies",
       "mail": "jmittell@middlebury.edu",
@@ -101,7 +108,14 @@
         "original_title": "",
         "original_url": "http://justtv.wordpress.com"
       },
-      "organization": "Middlebury College"
+      "organization": "Middlebury College",
+      "biography": "<p>Jason Mittell is Professor of Film &amp; Media Culture at Middlebury College, and Project Manager of <em>[in]Transition</em>. He is the author of <em>Genre and Television: From Cop Shows to Cartoons in American Culture</em> (Routledge, 2004), <em>Television and American Culture</em> (Oxford University Press, 2009), <em>Complex TV: The Poetics of Contemporary Television Storytelling</em>, <em>Narrative Theory and </em>Adaptation. (Bloomsbury, 2019), and <a href=\"http://videographicessay.org\" target=\"_blank\"><em>The Videographic Essay: Pedagogic and Practice</em></a> (with Christian Keathley and Catherine Grant, 2019), and co-editor with Ethan Thompson of <em>How to Watch Television</em> (NYU Press, 2013, revised 2020).</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "jmittell",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, March 18, 2016",

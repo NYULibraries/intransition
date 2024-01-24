@@ -1,6 +1,8 @@
 {
   "id": "2004",
   "title": "The Coffee Set",
+  "article_path": "/intransition/coffee-set",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/415342909"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 8.1, 2021",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-81-2021",
       "editors": [
         {
           "name": "Kevin L. Ferguson",
@@ -27,7 +30,9 @@
           "organization": "Queens College / CUNY"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Banner%202%202.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>’s first issue of 2021, 8.1. This issue features a variety of peer-reviewed videographic work, ranging from topics such as segregation and coffee sets in Brazil in <em>Que horas ela volta</em> (<em>The Second Mother</em>, Anna Muylaert, 2015); decay in essay films such as <em>Journey to Italy</em> (Roberto Rossellini, 1954), <em>Rock Hudson’s Home Movies</em> (Mark Rappaport, 1992), and <em>Decasia</em> (Bill Morrison, 2002); metaphorical nymphs in both <em>Mnemosyne Atlas</em> (Aby Warburg, 1924–1929) and <em>Histoire(s) du Cinéma</em> (Jean-Luc Godard, 1998); sleeping figures in Wong Kar-wai’s films; and desktop documentary on the newly-restored <em>Distant Journey</em> (<em>Daleká cesta</em>, Alfréd Radok, 1948).</p>\n<p>Due to delays around the global pandemic, we were able to publish three issues last year, ending with issue 7.3. We appreciate all of our contributors', reviewers', and readers' patience as the editors have worked on a delayed pandemic schedule, and we enthusiastically look forward to viewing and engaging with future submissions of videographic work. </p>"
     }
   ],
   "reviews": [
@@ -82,12 +87,21 @@
   ],
   "contributors": [
     {
-      "name": "Barbara Zecchi",
+      "uid": "20270",
+      "uuid": "a5e6c941-c8aa-4cb3-9d24-a02926642a97",
+      "name": null,
       "title": "Professor, Director Film Studies Program",
       "mail": "bzecchi@umass.edu",
       "picture": "http://www.gravatar.com/avatar/919db73611b3f3f2f9c0a8c0dead7bbe.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University Massachusetts Amherst"
+      "organization": "University Massachusetts Amherst",
+      "biography": "<p>Zecchi is Professor and Director of the Film Studies Program at the University of Massachusetts Amherst.  She is a feminist film scholar, film festival curator, and video-essayist. She has taught at various universities across Europe and the U.S. lecturing as well as publishing on an extensive range of topics, such as women in film, feminist film theory, and videographic criticism. In addition to over 100 articles and 50 video essays, she is the author, editor, or co-editor of ten volumes, such as _La pantalla sexuada_ and _Teoría y práctica de la adaptación fílmica_. She has organized international conferences as well as co-founded the international research network CinemAGEnder. She also currently directs her open access project &quot;Gynocine: Women Filmmakers, Feminism, and Film Studies&quot; she launched in 2011 that offers an online database with unique resources related to those studying the works of global women filmmakers. Her book _Desenfocadas: Cineastas españolas y discursos de género_ was selected by El Diario as one of the &quot;13 books that have defined the decade&quot;. In 2017, she was elected Associate Member of the Film Academy of Spain.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, March 31, 2021",

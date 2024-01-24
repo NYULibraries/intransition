@@ -1,6 +1,8 @@
 {
   "id": "104",
   "title": "Quantum Haunting",
+  "article_path": "/intransition/quantum-haunting",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/152032713"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.2, 2016",
+      "path": "/intransition/issue-3-2",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -23,7 +26,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-06-15%20at%203.23.09%20PM.png",
+      "body": "<p>Welcome to the newest issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. <em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p> </p>\n<p>Christian Keathley<br /> Editor, <em>[in]Transition</em> 3.2, June 2016</p>"
     }
   ],
   "reviews": [
@@ -84,6 +89,8 @@
   ],
   "contributors": [
     {
+      "uid": "3769",
+      "uuid": "ff6e8892-a608-443e-b805-fae684ec26bc",
       "name": "Kevin L. Ferguson",
       "title": "Associate Professor",
       "mail": "kevinlferguson9@gmail.com",
@@ -95,7 +102,14 @@
         "original_title": "",
         "original_url": "http://english.qc.cuny.edu/quick-links/kevin-ferguson/"
       },
-      "organization": "Queens College / CUNY"
+      "organization": "Queens College / CUNY",
+      "biography": "<p>Kevin L. Ferguson is associate professor of English at Queens College, City University of New York, where he directs Writing at Queens and teaches undergraduate and graduate courses on digital humanities, film adaptation, college writing, and contemporary American literature.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, June 13, 2016",

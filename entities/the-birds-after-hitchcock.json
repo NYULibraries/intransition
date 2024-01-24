@@ -1,6 +1,8 @@
 {
   "id": "857",
   "title": "The Birds After Hitchcock",
+  "article_path": "/intransition/birds-after-hitchcock",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/280188287"
   ],
@@ -15,6 +17,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-54-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -25,7 +28,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202019-01-12%20alle%2016.15.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, [in]Transition 5.4, December 2018</strong></p>"
     }
   ],
   "reviews": [
@@ -68,12 +73,21 @@
   ],
   "contributors": [
     {
+      "uid": "14020",
+      "uuid": "514b8397-1f76-49da-b5ac-c423c61d6ca4",
       "name": "Miguel Mesquita Duarte",
       "title": "Researcher",
       "mail": "duartethegreat@hotmail.com",
       "picture": "http://www.gravatar.com/avatar/2b89e834fc874cffb6a3b5c4de27ea22.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Institute of Art History - Universidade NOVA de Lisboa"
+      "organization": "Institute of Art History - Universidade NOVA de Lisboa",
+      "biography": "<p>Miguel Mesquita Duarte (PhD) is a member of the Institute of Art History, Universidade NOVA de Lisboa. His research interests include archival art, memory and history, voyeurism, counter-narrativity in documentary films, and the relationship between moving images, photography and writing. He published on Gerhard Richter’s Atlas in the RIHA Journal, the ethics of remembering and the cinema of Heddy Honigmann in Studies in Documentary Film, and archive, memory and Portuguese photography in Photographies (with Bruno Marques). He is the author of the book Imagem de Arquivo e Tempo Mnemotécnico: Para um Projecto de Arquiviologia na História da Arte / Archival Image and Mnemonic Time: For an Archiviology Project in Art History, Covilhã: LabCom.IFP Books, University of Beira Interior, 2018.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, December 31, 2018",

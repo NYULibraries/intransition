@@ -1,6 +1,8 @@
 {
   "id": "2180",
   "title": "Rain: A Phenomenal Catalogue",
+  "article_path": "/intransition/rain-phenomenal-catalogue",
+  "article_order_within": 7,
   "embed": [
     "https://player.vimeo.com/video/789553588?h=e69abcb474"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 10.1, 2023",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-101-2023",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -27,7 +30,7 @@
           "organization": "Aarhus Universitet"
         },
         {
-          "name": null,
+          "name": "Barbara Zecchi",
           "title": "Professor, Director Film Studies Program",
           "mail": "bzecchi@umass.edu",
           "picture": "http://www.gravatar.com/avatar/919db73611b3f3f2f9c0a8c0dead7bbe.jpg?d=identicon&s=150&r=G",
@@ -73,7 +76,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Hudelet%201.png",
+      "body": "<p>Welcome to an extended, 'open-call' issue 10.1 of <em>[in]Transition</em>, which features eight pieces of peer-reviewed videographic work on the following, very wide-ranging topics: geolocation-based games and the films of Chris Marker, intertextuality and complex U.S. television drama, the work of Joris Ivens, feminist documentary strategies, color and Palestinian cinema, liveness and the interstitial spaces between nineteen COVID-era virtual musical performances, and the depiction of home by Turkish women filmmakers.</p>\n<p>As always, we invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n"
     }
   ],
   "reviews": [
@@ -116,7 +121,9 @@
   ],
   "contributors": [
     {
-      "name": "Stephen Broomer",
+      "uid": "20638",
+      "uuid": "e8f9d43a-4313-46d6-bdf3-7e1ced1de251",
+      "name": null,
       "title": null,
       "mail": "stephen.broomer@gmail.com",
       "picture": "http://www.gravatar.com/avatar/34ac683df4e64a9a4273f6b20af5dc23.jpg?d=identicon&s=150&r=G",
@@ -127,7 +134,14 @@
         "original_title": "stephenbroomer.com",
         "original_url": "artandtrash.ca"
       },
-      "organization": "Art & Trash"
+      "organization": "Art & Trash",
+      "biography": "<p>Stephen Broomer is a filmmaker and author from Toronto, Canada. He is the host of Art &amp; Trash, a video essay series on underground &amp; cult cinema / outsider media.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "StephenBroomer",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, April 24, 2023",

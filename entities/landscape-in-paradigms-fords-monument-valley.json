@@ -1,6 +1,8 @@
 {
   "id": "126",
   "title": "Landscape in Paradigms: Ford’s Monument Valley",
+  "article_path": "/intransition/2016/12/20/landscape-paradigms-ford-s-monument-valley",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/185038203"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.4, 2016",
+      "path": "/intransition/theme-week/2016/51/journal-videographic-film-moving-image-studies-34-2016",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -37,7 +40,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-12-20%20at%2015.03.16.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. This issue publishes videos that locate themselves in a number of different emergent scholarly genres in our field, from explanatory voiceover-led work, through mash-ups, to fanvid-based approaches. It also features two works that employ digital technology in innovative ways, ones whose potential as videographic scholarship or criticism is still being imagined and shaped. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Catherine Grant and Chiara Grizzaffi<br /> Co-editors, <em>[in]Transition</em> 3.4, December 2016</strong></p>"
     }
   ],
   "reviews": [
@@ -80,6 +85,8 @@
   ],
   "contributors": [
     {
+      "uid": "4482",
+      "uuid": "8cb617ce-6409-4046-b057-244dd4ab7ea4",
       "name": "Booth Wilson",
       "title": "Lecturer in General Education",
       "mail": "boothwilson@cuhk.edu.cn",
@@ -91,7 +98,14 @@
         "original_title": "",
         "original_url": "http://hss.cuhk.edu.cn/en/content/4244"
       },
-      "organization": "Chinese University of Hong Kong (Shenzhen)"
+      "organization": "Chinese University of Hong Kong (Shenzhen)",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, December 20, 2016",

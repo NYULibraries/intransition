@@ -1,6 +1,8 @@
 {
   "id": "198",
   "title": "Suffering In Rhythm:  The ‘Haunting Melody’ in Film Noir",
+  "article_path": "/intransition/2018/05/02/suffering-rhythm",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/241488381"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.2, 2018",
+      "path": "/intransition/theme-week/2018/18/journal-videographic-film-moving-image-studies-52-2018",
       "editors": [
         {
           "name": "Drew Morton",
@@ -29,7 +32,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202018-05-15%20at%208.08.06%20AM.png",
+      "body": "<p>Welcome to this second 2018 issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.</p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Drew Morton</strong></p>\n<p><strong>Editor, [in]Transition 5.2, June 2018</strong></p>"
     }
   ],
   "reviews": [
@@ -78,12 +83,21 @@
   ],
   "contributors": [
     {
+      "uid": "4384",
+      "uuid": "7efb0121-e53e-42c6-b3a3-9f4eda48460c",
       "name": "Padraic Killeen",
       "title": "Lecturer in Digital Humanities",
       "mail": "padraic.killeen@nuigalway.ie",
       "picture": "http://www.gravatar.com/avatar/8ebcf1a6de283bae94e3208e8a972a01.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "National University of Ireland Galway"
+      "organization": "National University of Ireland Galway",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, May 2, 2018",

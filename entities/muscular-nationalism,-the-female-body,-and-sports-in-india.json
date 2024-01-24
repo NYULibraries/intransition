@@ -1,6 +1,8 @@
 {
   "id": "1996",
   "title": "Muscular Nationalism, the Female Body, and Sports in India ",
+  "article_path": "/intransition/muscular-nationalism-female-body-and-sports-india",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/391610145"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.3, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-73-2020",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -27,7 +30,7 @@
           "organization": "Aarhus Universitet"
         },
         {
-          "name": null,
+          "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
@@ -49,7 +52,9 @@
           "organization": "Queens College / CUNY"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-12-01%20at%2011.44.10%20AM.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>'s final issue of 2020: 7.3. It's a bumper collection, featuring high quality and innovative videographic scholarship on Indian, Italian, French, Australian and US cinema - fiction and documentary - as well as on television, transmedia play and remix practice.</p>\n<p>Our next issue should appear as usual in March/April. If you would like to submit your own videographic film and moving image studies work to our journal, please visit the <a href=\"http://mediacommons.org/intransition/how-it-works\" target=\"_blank\">Contribute to <em>[in]Transition</em></a> page to find out more.</p>"
     }
   ],
   "reviews": [
@@ -92,15 +97,26 @@
   ],
   "contributors": [
     {
+      "uid": "20176",
+      "uuid": "cb741c70-919f-481a-81af-becba60ec9fb",
       "name": "Sikata Banerjee",
       "title": "Professor",
       "mail": "sikatab@uvic.ca",
       "picture": "http://www.gravatar.com/avatar/e462b7d3ec5aad64b0814081022755b8.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Victoria"
+      "organization": "University of Victoria",
+      "biography": "<p>Sikata Banerjee is Professor of Gender Studies Her work focuses on gender and nationalism. She is the author of Warriors in Politics: Hinduism, Nationalism, Violence, and the Shiv Sena in India (Westview 2000), Make Me a Man!  Masculinity, Hinduism, and Nationalism in India (SUNY 2005) and Muscular Nationalism: Gender, Violence, and Empire in India and Ireland (NYU 2012), Gender, Nation, and Popular Film in India (Routledge, 2016).</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
-      "name": "Rachel Malia Newkirk",
+      "uid": "20206",
+      "uuid": "e0bb02b4-b013-47bc-9577-dc18570dc197",
+      "name": null,
       "title": null,
       "mail": "maliavideography@gmail.com",
       "picture": "http://www.gravatar.com/avatar/b8fc621492ab49627407d5d25dc9c1d6.jpg?d=identicon&s=150&r=G",
@@ -111,15 +127,31 @@
         "original_title": "Video Portfolio",
         "original_url": "https://vimeo.com/maliavideography"
       },
-      "organization": "Independent editor"
+      "organization": "Independent editor",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
+      "uid": "4918",
+      "uuid": "23dafb06-090d-42b1-8361-e3191eab6f7b",
       "name": "Niall Ó Murchú",
       "title": "Associate Professor",
       "mail": "omurchu72@hotmail.com",
       "picture": "http://www.gravatar.com/avatar/cd01f0e4d4303077f9d9620bcf68ad20.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Western Washington University"
+      "organization": "Western Washington University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, December 19, 2020",

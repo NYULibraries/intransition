@@ -1,6 +1,8 @@
 {
   "id": "180",
   "title": "Berlin Moves",
+  "article_path": "/intransition/2018/03/07/berlin-moves",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/244029363"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.1, 2018",
+      "path": "/intransition/theme-week/2018/10/journal-videographic-film-mloving-image-studies-51-2018",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -37,7 +40,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/Screen%20Shot%202018-03-07%20at%209.02.37%20AM_1.png",
+      "body": "<p>This special issue of <em>[in]Transition </em>features five videos that emerged from the June 2017 workshop <a href=\"http://go.middlebury.edu/videographic\">Scholarship in Sound &amp; Image</a>, hosted at Middlebury College and generously funded by the National Endowment for the Humanities Office of Digital Humanities. ﻿﻿As in 2015, the workshop brought 15 participants -- graduate students this time -- in film and media from the United States and Europe to work with a team of experts to collectively explore how to produce and conceptualize videographic criticism. The participants had a range of video production experience, but the majority were novices. By the end of the two weeks, all participants had started producing a piece of videographic criticism based on their research area.</p>\n<p>We invited participants to continue working on their pieces beyond the workshop, and to submit them to <em>[in]Transition</em> to undergo our standard open peer review process. This issue publishes five projects, on a range of topics and employing an array of styles, all representing the first videographic works for each of these scholars. The accompanying statements and peer reviews highlight the various ways that their work both builds on traditional scholarship and offers innovations in film and media studies. Beyond these five exemplary projects, other workshop participants from 2017 have submitted videographic work to <em>[in]Transition</em> for future publication -- so stay tuned!</p>\n<p>Special thanks to the NEH and Middlebury College for their generous support for this workshop, and to our co-conspirators Ethan Murphy, Catherine Grant, August Laska, Corey Creekmur, and Liz Greene, all of whom contributed insight and inspiration to these five videos and many other works in progress.</p>\n<p>Christian Keathley and Jason Mittell, Co-Editors and Workshop Co-Conveners</p>"
     }
   ],
   "reviews": [
@@ -72,12 +77,21 @@
   ],
   "contributors": [
     {
-      "name": "Evelyn Kreutzer",
+      "uid": "4853",
+      "uuid": "28f1265e-f234-4217-a82a-8a53af618c56",
+      "name": "Evelyn Kreutzer ",
       "title": null,
       "mail": "evelynkreutzer@gmail.com",
       "picture": "http://www.gravatar.com/avatar/1954699475ee69dea865bc8fe831bc26.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Film University Babelsberg KONRAD WOLF"
+      "organization": "Film University Babelsberg KONRAD WOLF",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, March 7, 2018",

@@ -1,6 +1,8 @@
 {
   "id": "2122",
   "title": "Can I Remember It Differently?",
+  "article_path": "/intransition/can-i-remember-it-differently",
+  "article_order_within": 6,
   "embed": [
     "https://player.vimeo.com/video/666098921?h=684f0e8772"
   ],
@@ -11,9 +13,10 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 9.3, 2022",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-93-2022",
       "editors": [
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -51,7 +54,7 @@
       ],
       "coeditors": [
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -72,7 +75,9 @@
           "url": null,
           "organization": "Film University Babelsberg KONRAD WOLF"
         }
-      ]
+      ],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//6180B68F-C0ED-4C3B-8EE3-BD9F9B088EAA.png",
+      "body": "<p>Welcome to issue 9.3 of <em>[in]Transition</em>, a special issue co-conceived, co-produced and co-edited by our associate editors Ariel Avissar and Evelyn Kreutzer, which features the component elements of part one of <em>Once Upon a Screen Volume 2</em>, a follow up project to <em>Once Upon a Screen</em>, which appeared in <a href=\"http://www.thecine-files.com/issue15-audiovisual-essays/\"><em>The Cine-Files</em> in 2020</a>.</p>\n<p>In <em>The Cine-Files</em> collection, the project editors asked their contributors to create videographic explorations of personal, “traumatic” screen memories from their childhoods. For the second iteration, proudly published here at <em>[in]Transition</em>, Ariel and Evelyn decided to go one step further in bringing together personal and collective memories and to experiment more radically with notions of collaborative authorship in videographic practices. This time, they asked colleagues first to submit a short text, describing a formative screen memory from any point in their lives, without naming the media source to which they referred. This resulted in the production of sixteen texts, which they then re-shuffled and distributed anonymously among the group, so that each participant received a text that was not their own, along with an invitation to make a video based on that text. The editors did not specify how closely or loosely the video needed to adhere to the text. The identities of the authors were only revealed to the video makers after the videos were finished.</p>\n<p>The resulting videos will be published in two installments, beginning with the current issue of <em>[in]Transition</em>, which also features Ariel and Evelyn's introduction to the project and a response by one of the editors of <em>[in]Transition</em>, Catherine Grant.</p>\n<p>As always, we invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n<p dir=\"ltr\"> </p>\n"
     }
   ],
   "reviews": [
@@ -99,12 +104,21 @@
   ],
   "contributors": [
     {
-      "name": "Cormac Donnelly",
+      "uid": "18805",
+      "uuid": "4a8bac9a-55be-4ded-b623-55d2f7506736",
+      "name": null,
       "title": "Senior Lecturer in Film",
       "mail": "cormac@restrikestudios.co.uk",
       "picture": "http://www.gravatar.com/avatar/acc1c4803dbe8c95249a2671cc027718.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Liverpool John Moores University"
+      "organization": "Liverpool John Moores University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@cormacrestrike",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, October 22, 2022",

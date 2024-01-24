@@ -1,6 +1,8 @@
 {
   "id": "2131",
   "title": "Once Upon a Screen Vol. 2, Part 2, Introduction by Co-Guest Editors",
+  "article_path": "/intransition/once-upon-screen-vol-2-part-2-introduction-co-guest-editors",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/737707048?h=b209e02b5f"
   ],
@@ -11,9 +13,10 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 9.4, 2023",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-94-2023",
       "editors": [
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -59,7 +62,7 @@
       ],
       "coeditors": [
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -80,7 +83,9 @@
           "url": null,
           "organization": "Film University Babelsberg KONRAD WOLF"
         }
-      ]
+      ],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//landing.png",
+      "body": "<p>Welcome to issue 9.4 of <em>[in]Transition</em>, a special issue co-conceived, co-produced and co-edited by our associate editors Ariel Avissar and Evelyn Kreutzer, which features the component elements of part two of <em>Once Upon a Screen Volume 2</em>, a follow-up project to <em>Once Upon a Screen</em>, which appeared in <a href=\"http://www.thecine-files.com/issue15-audiovisual-essays/\"><em>The Cine-Files</em></a> in 2020.</p>\n<p>In <em>The Cine-Files</em> collection, the project editors asked their contributors to create videographic explorations of personal, “traumatic” screen memories from their childhoods. For the second iteration, proudly published here at <em>[in]Transition</em>, Ariel and Evelyn decided to go one step further in bringing together personal and collective memories and to experiment more radically with notions of collaborative authorship in videographic practices. This time, they asked colleagues first to submit a short text, describing a formative screen memory from any point in their lives, without naming the media source to which they referred. This resulted in the production of sixteen texts, which they then re-shuffled and distributed anonymously among the group, so that each participant received a text that was not their own, along with an invitation to make a video based on that text. The editors did not specify how closely or loosely the video needed to adhere to the text. The identities of the authors were only revealed to the video makers after the videos were finished.</p>\n<p>The resulting videos have been published in two installments, beginning with <a href=\"http://mediacommons.org/intransition/journal-videographic-film-moving-image-studies-93-2022\">issue 9.3</a> and ending with the current issue of <em>[in]Transition</em>, which also features Ariel and Evelyn's introduction and a response by one of the editors of <em>[in]Transition</em>, Katie Bird.</p>\n<p>We invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission <a href=\"https://mediacommons.org/intransition/how-it-works\">guidelines</a>.</p>\n"
     }
   ],
   "reviews": [
@@ -107,15 +112,26 @@
   ],
   "contributors": [
     {
-      "name": "Evelyn Kreutzer",
+      "uid": "4853",
+      "uuid": "28f1265e-f234-4217-a82a-8a53af618c56",
+      "name": "Evelyn Kreutzer ",
       "title": null,
       "mail": "evelynkreutzer@gmail.com",
       "picture": "http://www.gravatar.com/avatar/1954699475ee69dea865bc8fe831bc26.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Film University Babelsberg KONRAD WOLF"
+      "organization": "Film University Babelsberg KONRAD WOLF",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
-      "name": "Ariel Avissar",
+      "uid": "20432",
+      "uuid": "9220060d-329e-43e5-999d-998684330d46",
+      "name": null,
       "title": "Lecturer and PhD student",
       "mail": "arielavissar24@gmail.com",
       "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -126,21 +142,14 @@
         "original_title": "Website",
         "original_url": "tinyurl.com/Ariel-Avissar"
       },
-      "organization": "Tel Aviv University"
-    },
-    {
-      "name": "Katie Bird",
-      "title": "Assistant Professor Film Studies/Digital Media Production",
-      "mail": "kebird@utep.edu",
-      "picture": "http://www.gravatar.com/avatar/1d52ab9907cddf6c08f82ec6bfb4771d.jpg?d=identicon&s=150&r=G",
-      "url": {
-        "url": "https://vimeo.com/katiebird",
-        "title": "Vimeo Page",
-        "attributes": [],
-        "original_title": "Vimeo Page",
-        "original_url": "https://vimeo.com/katiebird"
-      },
-      "organization": "The University of Texas at El Paso"
+      "organization": "Tel Aviv University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@ariel_avissar",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, February 8, 2023",

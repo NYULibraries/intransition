@@ -2,7 +2,7 @@ import { slugify } from "https://deno.land/x/slugify/mod.ts";
 
 const { writeTextFile } = Deno
 
-const res = await fetch('http://localhost/intransition/api/v1/spokes')
+const res = await fetch('https://mediacommons.org/intransition/api/v1/spokes')
 
 const body = await res.text()
 

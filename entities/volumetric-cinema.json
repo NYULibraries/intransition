@@ -1,6 +1,8 @@
 {
   "id": "52",
   "title": "Volumetric Cinema",
+  "article_path": "/intransition/2015/03/10/volumetric-cinema",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/119790662"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
+      "path": "/intransition/theme-week/2015/11/peer-review-kick",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -23,7 +26,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/Screen%20Shot%202015-03-09%20at%2010.37.13%20AM_0.png",
+      "body": "<p>Welcome to the first issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.</p>\n<p><strong>[in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <strong>[in]Transition</strong> tab above.</p>\n<p>Christian Keathley<br /> Editor, <strong>[in]Transition</strong> 2.1, March 2015</p>"
     }
   ],
   "reviews": [
@@ -84,6 +89,8 @@
   ],
   "contributors": [
     {
+      "uid": "3769",
+      "uuid": "ff6e8892-a608-443e-b805-fae684ec26bc",
       "name": "Kevin L. Ferguson",
       "title": "Associate Professor",
       "mail": "kevinlferguson9@gmail.com",
@@ -95,7 +102,14 @@
         "original_title": "",
         "original_url": "http://english.qc.cuny.edu/quick-links/kevin-ferguson/"
       },
-      "organization": "Queens College / CUNY"
+      "organization": "Queens College / CUNY",
+      "biography": "<p>Kevin L. Ferguson is associate professor of English at Queens College, City University of New York, where he directs Writing at Queens and teaches undergraduate and graduate courses on digital humanities, film adaptation, college writing, and contemporary American literature.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, March 10, 2015",

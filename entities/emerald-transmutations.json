@@ -1,6 +1,8 @@
 {
   "id": "156",
   "title": "Emerald Transmutations",
+  "article_path": "/intransition/2017/06/01/emerald-transmutations",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/199974073"
   ],
@@ -13,17 +15,20 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.2b, 2017",
+      "path": "/intransition/2017/issue-4-2b",
       "editors": [
         {
           "name": "Richard Misek",
-          "title": "Lecturer in Media",
-          "mail": "r.e.misek@kent.ac.uk",
-          "picture": "http://www.gravatar.com/avatar/631e41c764722cced8b0fa0c0a189193.jpg?d=identicon&s=150&r=G",
+          "title": "Professor in Screen Media",
+          "mail": "richardmisek@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Kent"
+          "organization": "University of Bergen"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202017-05-31%20at%2011.37.23%20AM.png",
+      "body": "<p>The editors of <strong><em>[in]Transition</em></strong> are pleased to present this double issue — a specially curated dossier of videographic work produced by participants in the Indefinite Visions conference and workshop, orgainzed by Richard Misek and held in June 2016 at the Whitechapel Gallery, London. This event brought together experienced videographic producers and first-time makers in a wonderful spirit of collaboration and innovation. We are proud to have the opportunity to showcase the resulting work — most of it produced in a very short period of time and in less than perfect circumstances — which is wide-ranging in approach and bristling with imagination and ideas.</p>\n<p>The videos span across this page and <a href=\"http://mediacommons.futureofthebook.org/intransition/theme-week/2017/22/journal-videographic-film-moving-image-studies-42a-2017\">the first half of the issue</a>, which includes <a href=\"http://mediacommons.futureofthebook.org/intransition/2017/05/31/indefinite-visions-introduction\">Richard Misek's overview of the project</a>.</p>"
     }
   ],
   "reviews": [
@@ -44,6 +49,8 @@
   ],
   "contributors": [
     {
+      "uid": "3868",
+      "uuid": "332908dc-c2c9-4733-b388-e5acdf0b9ed8",
       "name": "Patricia Pisters",
       "title": "Professor of Film Studies",
       "mail": "p.pisters@uva.nl",
@@ -55,7 +62,14 @@
         "original_title": null,
         "original_url": "http://www.patriciapisters.com"
       },
-      "organization": "University of Amsterdam"
+      "organization": "University of Amsterdam",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Thursday, June 1, 2017",

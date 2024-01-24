@@ -1,6 +1,8 @@
 {
   "id": "132",
   "title": "Videographic Telephilia",
+  "article_path": "/intransition/2017/videographic-telephilia",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/136604988",
     "https://player.vimeo.com/video/161978180"
@@ -14,13 +16,18 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
+      "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202017-03-13%20at%208.39.01%20AM.png",
+      "body": "<p>To celebrate the inauguration of the <a href=\"http://www.cmstudies.org/group/digital_hum\" target=\"_blank\">SCMS Scholarly Interest Group on Digital Humanities and Videographic Criticism</a>, we offer this curated issue of videographic works from the first three years of the journal. The pieces selected for (re)presentation here feature some of the most imaginative and innovative work yet produced in the still developing form of videographic criticism.</p>\n<p>As an academic journal, these curated pieces have been selected largely because of their scholarly merit, presenting ideas and arguments that help us see their subjects in enlightening new ways. They also represent a mode of videographic practice that counters what <a href=\"http://fourthreefilm.com/2017/02/publish-and-perish-video-essays-in-the-age-of-social-media/\" target=\"_blank\">Conor Bateman calls the \"Facebook-first\" video essay</a>: short, attention-grabbing snacks striving for click counts more than ongoing reflection. As academics, we are committed to the latter, believing that videographic criticism has the possibility to create lasting scholarly works that bear rewatching and reconsideration, much like great written essays do.</p>\n<p>In that spirit, we offer a curated collection of videos that we believe warrant rewatching after their moment of publication. Each of us has selected one (or more) video, presented with a statement exploring what can be learned by rewatching it, even a year or more after its initial publication.</p>\n<p>-- The Editors</p>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "133",
+      "uuid": "60f82e19-a370-4479-9908-23410a020f4a",
       "name": "Jason Mittell",
       "title": "Professor of Film & Media Culture and American Studies",
       "mail": "jmittell@middlebury.edu",
@@ -32,7 +39,14 @@
         "original_title": "",
         "original_url": "http://justtv.wordpress.com"
       },
-      "organization": "Middlebury College"
+      "organization": "Middlebury College",
+      "biography": "<p>Jason Mittell is Professor of Film &amp; Media Culture at Middlebury College, and Project Manager of <em>[in]Transition</em>. He is the author of <em>Genre and Television: From Cop Shows to Cartoons in American Culture</em> (Routledge, 2004), <em>Television and American Culture</em> (Oxford University Press, 2009), <em>Complex TV: The Poetics of Contemporary Television Storytelling</em>, <em>Narrative Theory and </em>Adaptation. (Bloomsbury, 2019), and <a href=\"http://videographicessay.org\" target=\"_blank\"><em>The Videographic Essay: Pedagogic and Practice</em></a> (with Christian Keathley and Catherine Grant, 2019), and co-editor with Ethan Thompson of <em>How to Watch Television</em> (NYU Press, 2013, revised 2020).</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "jmittell",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, March 13, 2017",

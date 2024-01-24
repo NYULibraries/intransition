@@ -1,6 +1,8 @@
 {
   "id": "1869",
   "title": "Feeling and Thought as They Take Form: Early Steadicam, Labor, and Technology (1974-1985)",
+  "article_path": "/intransition/feeling-and-thought-they-take-form-early-steadicam-labor-and-technology-1974-1985",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/340764943"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.1, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-71-2020",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-04-14%20at%201.59.55%20PM.png",
+      "body": "<p>Welcome to issue 7.1 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>As the editor on duty, I just want to take a moment to thank all of the editors, contributors, and peer reviewers for assisting me in shepherding this issue through to publication. Initially slated for publication during the annual Society for Cinema and Media Studies Conference to launch into our seventh year as a journal, the issue was delayed due to the COVID-19 pandemic and all of the moving parts that seem to be part of our new normal (getting online courses ready, taking care of children who may be home from school, etc.). Yet, all of our personnel felt proud of the work that had already been done and shared the sentiment that it might be a nice repreive from the news to focus on a project for a bit. I appreciate all your hard work. Thank you. </p>\n<p>As always, <em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. However, please note that due to the recent developments related to COVID-19 and how it is affecting our work, it might take longer than usual for us to make a decision regarding your submission. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>"
     }
   ],
   "reviews": [
@@ -70,6 +75,8 @@
   ],
   "contributors": [
     {
+      "uid": "19165",
+      "uuid": "2da40316-f007-42b4-9691-9c2acfca98ee",
       "name": "Katie Bird",
       "title": "Assistant Professor Film Studies/Digital Media Production",
       "mail": "kebird@utep.edu",
@@ -81,7 +88,14 @@
         "original_title": "Vimeo Page",
         "original_url": "https://vimeo.com/katiebird"
       },
-      "organization": "The University of Texas at El Paso"
+      "organization": "The University of Texas at El Paso",
+      "biography": "<p>Katie Bird is an Assistant Professor of digital media production and film studies at the University of Texas at El Paso in the department of Communication. She holds degrees in Film Production as well as Cultural Studies and completed her PhD in Film and Media Studies at the University of Pittsburgh. Katie has published articles on historical below-the- line craft labor in The Velvet Light Trap, The Spectator, and The Journal for Cinema and Media Studies. She is currently completing a book manuscript Embodied Hollywood: How Craft Workers Made Their Labor<br />\nMatter to the Movies, 1919–1985 which explores technical film production workers’ craft histories and embodied film theories. This videographic project originated at the Scholarship for Sound and Image workshop at Middlebury College in 2017.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "arthousedirectr",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, March 30, 2020",

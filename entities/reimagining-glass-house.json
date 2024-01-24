@@ -1,6 +1,8 @@
 {
   "id": "1673",
   "title": "Reimagining Glass House",
+  "article_path": "/intransition/reimagining-glass-house",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/107971112?color=db3602&title=0&byline=0&portrait=0"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-64-2019",
       "editors": [
         {
           "name": "Julia Vassilieva",
@@ -27,7 +30,9 @@
           "organization": "Monash University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sergei.png",
+      "body": "<p>Special Issue: <strong>Montage Reloaded</strong></p>\n<p>Welcome to a special issue of <em>[in]Transition</em> that examines the legacy of the Russian avant-garde and the pioneering masters of the Russian montage school. The issue comprises four audio-visual works presented at the Symposium “Eisenstein for the Twenty First Century”, which took place in Prato in June 2018 and was supported by Monash University and the Australian Research Council. We extend our thanks to Julia Vassilieva for coordinating this outsatnding collection of work.</p>\n<p>Christian Keathley</p>\n<p>co-editor, <em>[in]Transition</em></p>"
     }
   ],
   "reviews": [
@@ -48,7 +53,9 @@
   ],
   "contributors": [
     {
-      "name": "Zoe Beloff",
+      "uid": "19000",
+      "uuid": "f39c3f37-daba-46e9-906c-2c2b64973a32",
+      "name": null,
       "title": "Professor",
       "mail": "zoe.beloff@qc.cuny.edu",
       "picture": "http://www.gravatar.com/avatar/7a59c3726072c835b88ad1857e027050.jpg?d=identicon&s=150&r=G",
@@ -59,7 +66,14 @@
         "original_title": "Home page",
         "original_url": "http://www.zoebeloff.com"
       },
-      "organization": "Queens College CUNY"
+      "organization": "Queens College CUNY",
+      "biography": "<p>Zoe Beloff grew up in Edinburgh, Scotland where she studied painting and drawing. In 1980 she moved to New York to study at Columbia University where she received an MFA in Film. She is an artist and filmmaker. Her projects often involve a range of media including films, drawings and archival documents organized around a theme. They include proposals for new forms of community; “The Coney Island Amateur Psychoanalytic Society and its Circle 1926 – 1972” and “The Days of the Commune”, projects that explore relationships between labor, technology and mental states in “The Infernal Dream of Mutt and Jeff” and “Emotions go to Work” as well as the exploration of the orgins of cinema from a feminist perspective in &quot;Charming Augustine&quot; and &quot;Shadowland or Light from the Other Side&quot;.</p>\n<p>Her current work address the relationship between American fascism in the 1930’s and its resurgence today. . Both thematically and formally Beloff draws timelines between past and present helping us to imagine a future against the grain of reactionary ideology. She aims to make radical art that educates, entertains, and provokes discussion. Most importantly, as her work attests, she believes protest should be vibrant, humorous and colorful, a carnival of resistance to light the way in dark times.</p>\n<p>Zoe’s work has been featured in international exhibitions and screenings; venues include the Whitney Museum Biennales 1997 and 2002, Site Santa Fe, the M HKA museum in Antwerp, and the Pompidou Center in Paris. However she particularly enjoys working in alternative venues that are free and open to the community for events and conversations. These have included in New York City; The Coney Island Museum, Participant, Momenta and The James Gallery at the CUNY Graduate Center. She has been awarded fellowships from. The Graham Foundation, the Guggenheim Foundation, The Foundation for Contemporary Arts, The Radcliffe Institute at Harvard and the New York Foundation for the Arts. She is a professor at Queens College CUNY.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": "ec.cherryt"
+      }
     }
   ],
   "date": "Friday, January 3, 2020",

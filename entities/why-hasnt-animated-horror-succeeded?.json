@@ -1,6 +1,8 @@
 {
   "id": "1917",
   "title": "Why Hasn't Animated Horror Succeeded?",
+  "article_path": "/intransition/why-hasnt-animated-horror-succeeded",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/311567730"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.2, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-72-2020",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -21,7 +24,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-08-31%20at%202.10.19%20PM.png",
+      "body": "<p>Welcome back -- and welcome to issue 7.2 of <em><strong>[in]Transition</strong></em>. We hit pause for a while back in the spring, but we are pleased to return with more new videographic scholarship.</p>"
     }
   ],
   "reviews": [
@@ -42,7 +47,9 @@
   ],
   "contributors": [
     {
-      "name": "Tuakana Metuarau",
+      "uid": "19640",
+      "uuid": "ac02515a-b23e-4b4b-a8fe-808a3320e9b0",
+      "name": null,
       "title": "Lecturer",
       "mail": "tuakana.metuarau@vuw.ac.nz",
       "picture": "http://www.gravatar.com/avatar/8e9c4d8111ac3e12db87d4ef7b3e879e.jpg?d=identicon&s=150&r=G",
@@ -53,7 +60,14 @@
         "original_title": "Website",
         "original_url": "https://tuakanametuarau.com/"
       },
-      "organization": "Victoria University Te Herenga Waka"
+      "organization": "Victoria University Te Herenga Waka",
+      "biography": "<p>Tuakana Metuarau is a filmmaker, animator and game developer. He graduated from the School of Design in 2015 with a BDI specializing in Media Design before completing his Masters of Design Innovation in 2017, focusing on the history of video game home consoles and how that data could be stored and catalogued through the video game medium itself.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, September 16, 2020",

@@ -1,6 +1,8 @@
 {
   "id": "78",
   "title": "Observe-Engage-Adapt: Hulot's Method in Playtime",
+  "article_path": "/intransition/2015/08/03/observe-engage-adapt-hulots-method-playtime",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/117857587"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.3, 2015",
+      "path": "/intransition/theme-week/2015/32/journal-videographic-film-moving-image-studies-23-2015",
       "editors": [
         {
           "name": "Drew Morton",
@@ -29,7 +32,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//playtime.jpg",
+      "body": "<p>Welcome to the second issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.<strong> [in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the <a href=\"http://mediacommons.futureofthebook.org/intransition/contribute\">Contribute to <strong>[in]Transition</strong> tab</a> above. Additionally, we have issued a <a href=\"http://mediacommons.futureofthebook.org/intransition/call-special-issue\">call for videos for a special issue on Latin American cinema</a>.</p>\n<p>Drew Morton</p>\n<p>Editor, <strong>[in]Transition</strong> 2.3, September 2015</p>"
     }
   ],
   "reviews": [
@@ -60,11 +65,11 @@
         },
         {
           "name": "Jennifer Porst",
-          "title": "Lecturer",
+          "title": "Associate Professor",
           "mail": "jenporst@mac.com",
           "picture": "http://www.gravatar.com/avatar/a9ecb070bf345d29cc303ec260460439.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Emerson College"
+          "organization": "University of North Texas"
         }
       ],
       "body": "<p>In <em>Observe-Engage-Adapt: Hulot’s Method in Playtime</em>, Glenn Stillar has created a formally beautiful and engaging essay using audio of Jacques Tati discussing Hulot and the film; sound effects and clips from the film; and written text to guide the viewer’s understanding of individual clips.<em> </em>Stillar’s stated goal was to “manifest a specific, observable or experiential pattern” to the viewer, and in that he has succeeded. The chosen clips from the film provide clear illustration of the stages Stillar identified in his structure of observe-engage-adapt. I particularly liked the section where he uses multiple frames from the film stacked on top of one another, but has only kept in focus the single frame on which he wants the viewer to focus. By blurring the other frames and shifting our attention from one frame to another through focus (or lack thereof), he creates a dynamic and visually compelling essay on the ways Hulot experiences the world of the film.</p>\n<p>Another of Stillar’s stated goals was to try to move from the ideational to the conceptual and elevate the audiovisual essay beyond a mere collection of clips used to demonstrate, prove, or serve as examples of a point; however, I am not sure that Stillar has accomplished that here. The clips he utilizes illustrate his construct of observe-engage-adapt and serve as clear examples of his method, but by the end I am left wondering what Stillar might argue about the significance of that pattern and its function in the film. </p>\n<p>In proposing this method of observe-engage-adapt, the essay does provoke a number of questions. One question this work raises for me is the relation of this pattern of observe-engage-adapt to narrative structure and theory more generally speaking. It seems that Stillar’s pattern could be overlaid with the basic three act structure of exposition, rising action, and resolution. That structure can be applied to a film as a whole as well as individual scenes within a film. So how does observe-engage-adapt set itself apart from this more traditional narrative structure? </p>\n<p>Stillar’s essay also evokes questions about the relationship between the pattern of observe-engage-adapt and issues of spectatorship. If Tati’s goal in the film is to make the audience see the world differently, then could this pattern of observe-engage-adapt potentially apply to both the audience’s experience of watching the film as well as to their newly adapted experience of the real world outside of the theatre?</p>\n<p>While I would like to hear more from Stillar in terms of clarifying the argument he has in mind that moves his piece from ideational to conceptual, it may not be necessary to amend the essay as its open ended nature could spur discussion about the larger questions related to the purpose and function of the method Stillar has identified.</p>\n"
@@ -82,11 +87,11 @@
         },
         {
           "name": "Jennifer Porst",
-          "title": "Lecturer",
+          "title": "Associate Professor",
           "mail": "jenporst@mac.com",
           "picture": "http://www.gravatar.com/avatar/a9ecb070bf345d29cc303ec260460439.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Emerson College"
+          "organization": "University of North Texas"
         },
         {
           "name": "Miklos Kiss",
@@ -95,9 +100,9 @@
           "picture": "http://www.gravatar.com/avatar/11e49f6ff62481c42e94061bd7e6858a.jpg?d=identicon&s=150&r=G",
           "url": {
             "url": "http://www.rug.nl/staff/m.kiss/",
-            "title": null,
+            "title": "",
             "attributes": [],
-            "original_title": null,
+            "original_title": "",
             "original_url": "http://www.rug.nl/staff/m.kiss/"
           },
           "organization": "University of Groningen (NL)"
@@ -108,12 +113,21 @@
   ],
   "contributors": [
     {
+      "uid": "4007",
+      "uuid": "93f57547-e3cb-4d6c-819b-516d6bb721c4",
       "name": "Glenn Stillar",
       "title": "Professor and Director, Digital Arts Communication",
       "mail": "gstillar@uwaterloo.ca",
       "picture": "http://www.gravatar.com/avatar/0a0bfead6cf5d702e77fbc1164f763b0.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Waterloo"
+      "organization": "University of Waterloo",
+      "biography": "<p>Dr. Glenn Stillar is the Director of the Digital Arts Communication program in the Faculty of Arts, University of Waterloo. His research explores both the theory and practice of how we tell stories with digital media to entertain, inform, persuade, and involve viewers. He is particularly interested in the constantly evolving role of video in communications, given communicating via video is now as important as, and nearly as widespread as, text-based communications. He has directed and produced a wide range of film, video, and audio productions, ranging from research documentation to feature films to multimedia art installations. In addition to his interests in multimedia theory and production, Dr. Stillar has an extensive background in social semiotics, discourse analysis, and linguistics and has published widely in those fields.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, August 3, 2015",

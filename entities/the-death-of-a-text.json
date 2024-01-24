@@ -1,6 +1,8 @@
 {
   "id": "858",
   "title": "The Death of a Text",
+  "article_path": "/intransition/death-text",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/190405282"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-54-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -21,7 +24,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202019-01-12%20alle%2016.15.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, [in]Transition 5.4, December 2018</strong></p>"
     }
   ],
   "reviews": [
@@ -56,11 +61,11 @@
           "mail": "tom.brown@kcl.ac.uk",
           "picture": "http://www.gravatar.com/avatar/ed579ce2cebd406562be4a982239d0c6.jpg?d=identicon&s=150&r=G",
           "url": {
-            "url": "https://www.kcl.ac.uk/artshums/depts/filmstudies/people/acad/brown/index.aspx",
+            "url": "https://www.kcl.ac.uk/people/tom-brown",
             "title": "KCL staff webpage",
             "attributes": [],
             "original_title": "KCL staff webpage",
-            "original_url": "https://www.kcl.ac.uk/artshums/depts/filmstudies/people/acad/brown/index.aspx"
+            "original_url": "https://www.kcl.ac.uk/people/tom-brown"
           },
           "organization": "King's College London"
         }
@@ -70,8 +75,10 @@
   ],
   "contributors": [
     {
+      "uid": "4405",
+      "uuid": "7bb9badb-69ad-4bbf-ad62-478f7265fc69",
       "name": "David Safin",
-      "title": "Assistant Professor of Communication",
+      "title": "Associate Professor of Digital Art + Media",
       "mail": "david.safin@stvincent.edu",
       "picture": "http://www.gravatar.com/avatar/5af710d8abcff446c1fbef900b2e14e0.jpg?d=identicon&s=150&r=G",
       "url": {
@@ -81,7 +88,14 @@
         "original_title": "",
         "original_url": "http://www.stvincent.edu"
       },
-      "organization": "Saint Vincent College"
+      "organization": "Saint Vincent College",
+      "biography": "<p>I am an Assistant Professor of Communication at Saint Vincent College in Latrobe. I have a Bachelor’s degree in Communication from Saint Vincent, a Master’s degree in Multimedia Technology from California University of PA, and a Master of Fine Arts in Film and Digital Technology from Chatham University. I live in Jeannette, PA with my wife, Kate, my daughter, Lily, and my son, Andy.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, December 31, 2018",

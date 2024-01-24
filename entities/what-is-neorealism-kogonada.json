@@ -1,6 +1,8 @@
 {
   "id": "20",
   "title": "WHAT IS NEOREALISM (Kogonada)",
+  "article_path": "/intransition/2014/02/28/what-neorealism-kogonada",
+  "article_order_within": 2,
   "embed": [
     "//player.vimeo.com/video/68514760"
   ],
@@ -18,6 +20,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 1.1, 2014",
+      "path": "/intransition/theme-week/2014/10/issue-title-no-etc",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -56,18 +59,29 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mc.dlib.nyu.edu.intransition/theme-weeks/%5Bin%5DTransition-1_1-cover-2.0_1.jpg",
+      "body": "<p>Welcome to <strong>[in]Transition</strong>. A collaboration between MediaCommons and the Society for Cinema and Media Studies’ official publication, <em>Cinema Journal</em>, <strong>[in]Transition</strong> is the first peer-reviewed academic periodical specifically given over to videographic film and moving image studies.</p>\n<p>In this, the first issue of the journal, each <strong>[in]Transition</strong> co-editor has curated his or her individual choice of a video or video series in order to reflect, across the issue as a whole, a range of different approaches to this evolving format.</p>\n<p>We are also delighted to be able to <a href=\"http://mediacommons.futureofthebook.org/intransition/2014/03/04/intransition-editors-introduction\" target=\"_blank\">present</a>, for the first time in an integral version online, Laura Mulvey’s 2013 remix of her 2003 visual analysis of a fragment of <em>Gentlemen Prefer Blondes</em> (Howard Hawks 1953).</p>\n<div>\n<p><a href=\"http://mediacommons.futureofthebook.org/intransition/users/cgrant\" target=\"_blank\"><strong>Catherine Grant</strong></a>, <a class=\"ext\" href=\"http://www.middlebury.edu/academics/es/faculty/node/424993\" target=\"_blank\"><strong>Christian Keathley</strong> </a>and <a href=\"http://mediacommons.futureofthebook.org/users/drew-morton\" target=\"_blank\"><strong>Drew Morton</strong></a><br /> <em><strong>Co-editors of </strong></em><strong>[in]Transition</strong><br /> <em><strong>March 2014</strong></em></p>\n</div>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "105",
+      "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
       "name": "Christian Keathley",
       "title": null,
       "mail": "ckeathle@middlebury.edu",
       "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Middlebury College"
+      "organization": "Middlebury College",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, February 28, 2014",

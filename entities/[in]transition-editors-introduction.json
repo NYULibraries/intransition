@@ -1,6 +1,8 @@
 {
   "id": "22",
   "title": "[in]Transition: Editors' Introduction",
+  "article_path": "/intransition/2014/03/04/intransition-editors-introduction",
+  "article_order_within": 1,
   "embed": [
     "//player.vimeo.com/video/88661178?title=0&byline=0&portrait=0&color=85071e"
   ],
@@ -20,6 +22,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 1.1, 2014",
+      "path": "/intransition/theme-week/2014/10/issue-title-no-etc",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -58,12 +61,16 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mc.dlib.nyu.edu.intransition/theme-weeks/%5Bin%5DTransition-1_1-cover-2.0_1.jpg",
+      "body": "<p>Welcome to <strong>[in]Transition</strong>. A collaboration between MediaCommons and the Society for Cinema and Media Studies’ official publication, <em>Cinema Journal</em>, <strong>[in]Transition</strong> is the first peer-reviewed academic periodical specifically given over to videographic film and moving image studies.</p>\n<p>In this, the first issue of the journal, each <strong>[in]Transition</strong> co-editor has curated his or her individual choice of a video or video series in order to reflect, across the issue as a whole, a range of different approaches to this evolving format.</p>\n<p>We are also delighted to be able to <a href=\"http://mediacommons.futureofthebook.org/intransition/2014/03/04/intransition-editors-introduction\" target=\"_blank\">present</a>, for the first time in an integral version online, Laura Mulvey’s 2013 remix of her 2003 visual analysis of a fragment of <em>Gentlemen Prefer Blondes</em> (Howard Hawks 1953).</p>\n<div>\n<p><a href=\"http://mediacommons.futureofthebook.org/intransition/users/cgrant\" target=\"_blank\"><strong>Catherine Grant</strong></a>, <a class=\"ext\" href=\"http://www.middlebury.edu/academics/es/faculty/node/424993\" target=\"_blank\"><strong>Christian Keathley</strong> </a>and <a href=\"http://mediacommons.futureofthebook.org/users/drew-morton\" target=\"_blank\"><strong>Drew Morton</strong></a><br /> <em><strong>Co-editors of </strong></em><strong>[in]Transition</strong><br /> <em><strong>March 2014</strong></em></p>\n</div>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3360",
+      "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
       "name": "Catherine Grant",
       "title": "Honorary Research Fellow",
       "mail": "catherine.grant1@gmail.com",
@@ -75,7 +82,14 @@
         "original_title": "Website",
         "original_url": "https://catherinegrant.org"
       },
-      "organization": "Aarhus Universitet"
+      "organization": "Aarhus Universitet",
+      "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@filmstudiesff",
+        "aim": null,
+        "skype": "@filmstudiesff"
+      }
     }
   ],
   "date": "Tuesday, March 4, 2014",

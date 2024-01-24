@@ -1,7 +1,11 @@
 {
   "id": "1910",
   "title": "Clem",
-  "embed": [],
+  "article_path": "/intransition/clem",
+  "article_order_within": 3,
+  "embed": [
+    "https://player.vimeo.com/video/365941247?h=f36f19bf54"
+  ],
   "body": "<p>By William Brown</p>\n<p><em>Clem</em> is an essay-film that is an exploration of the relationship between the filmmaker and their eponymous, now-dead cat. As such, the film is partially a self-portrait, while also being about the relationship between the filmmaker, cats and images, including paintings, sculpture and cinema.</p>\n<p>While that relationship involves a problematic moment of ‘objectification,’ in which I confess to having masturbated over an image of Demi Moore taken by Annie Leibovitz in 1992, the moment is nonetheless one of complication. For, not only is there a ‘queer’ aspect to the objectification, in that Moore is dressed in a ‘suit’ that might in some senses be coded as ‘male,’ while also sporting a ‘boyish’ haircut, but the moment also involved a moment of unexpected intimate contact with the cat, Clem. At this moment, a strange link is/was created between images and desire, whereby images are not just drivers of desire, but are also capable themselves of ‘touching back.’</p>\n<p>The relationship with images, then, is not a one-way relationship that involves objectification, but it is one in which the image ‘looks back.’ And yet, the history of patriarchy might be a history defined precisely by the objectification and the removal of subjectivity of various ‘others’ to its system, including women, the so-called subaltern/the postcolonial subject, animals, and technology – including image and sound technologies such as cinema.</p>\n<p>And yet, as all of these otherwise excluded ‘others’ each in fact has the capacity to look back and thus to cease to be an object and instead to become a subject, so might we begin to recognise that each, including technology, <em>thinks</em>.</p>\n<p>For patriarchy to concede thought to women, subalterns, animals and technology is for patriarchy to end, since its centrality is predicated upon the objectification and exploitation of those others. In some senses, it is for patriarchy to die.</p>\n<p>And yet, the self-portrait is also a moment of othering the self, or of finding the other in the self. At what is supposed to be a masturbatory, objectifying moment of being-man, then, there is an intervention that queers that process, and perhaps leads not to a being, but to a becoming. By being a moment of becoming, it is a moment that involves a death (of the old) and the birth (of a new consciousness). It is, then, a moment of auto-critique. And so <em>Clem</em> tries to offer up an example of, and perhaps a working through, of that moment of auto-critique, via the self-portrait, which thus emerges as a ‘queer’ (failing and essayistic) art that involves the self looking back, and the realisation that the other in the self is capable of thought, of thinking differently. A moment of schizophrenia, then, that perhaps calls for schizoanalysis.</p>\n<p>In this way, <em>Clem</em> attempts/essays to offer us an example, following many filmmakers but perhaps especially the late Agnès Varda, of cinema as self-portrait, cinema as thought, cinema as thinking, cinema not as the exposition of another theory, but cinema as a machine that generates a new type of theory, bringing death to an old world and leading to the birth of new realities.</p>\n<p>Or, to put it differently, the aim of this film, as is implied by its connection to portraiture, is not to be a study of cats in cinema or of, say, Agnès Varda’s work, even as Varda clearly makes the connection between cats and technology by filming a cat on her computer at the start of <em>Les glaneurs et la glaneuse/The Gleaners &amp; I</em> (France, 2000), and even as Varda also makes a connection between digital cameras and herself as she reaches repeatedly into the frame, suggesting a haptic as much as an optical cinema. Rather, the aim is to follow Varda’s example and to produce a work of art. This is not without academic relevance; perhaps it is only by becoming an artist (by becoming Varda?!) that one can truly understand art, to <em>feel</em> what art is rather than simply to observe it from a distance. Indeed, if to understand cinema is to understand that cinema looks back, then cinema is another ‘other’ that we must no longer objectify and study in a detached and ‘scientific’ manner, and cinema is thus something with which we must become conscientiously and ethically entangled. We must learn to allow cinema to help us to become other, to become wise about others, even if this leads to the dissolution (and thus in many respects the death) of our old selves and the old (white, western, patriarchal) world that those old selves created. In this sense, we do not just study art or cats or Varda, but we allow art, cats and Varda to help us to become. To become art. To become other-wise.</p>\n<p>BIO:<strong> </strong>William Brown is an independent scholar. He is also an Honorary Fellow for the School of Arts and Humanities at the University of Roehampton, London, which benefits from his otherwise-unpaid research for the purposes of economic recompense in the UK's Research Excellence Framework. He is in solidarity with his former colleagues in the School of Arts and Humanities at the University of Roehampton, who at the time of the publication of <em>Clem</em> are facing announced staff cuts of £3.2 million to 'rebalance' university resources. Otherwise, William is, among other things, the author of <em>The Squid Cinema from Hell: Kinoteuthis Infernalis and The Emergence of Chthulumedia</em> (with David H Fleming, Edinburgh University Press, 2020), <em>Non-Cinema: Global Digital Filmmaking and the Multitude</em> (Bloomsbury, 2018) and <em>Supercinema: Film-Philosophy for the Digital Age</em>(Berghahn, 2013). He is also the maker of various films, including <em>En Attendant Godard</em> (2009), <em>Selfie</em> (2014), <em>#randomaccessmemory </em>(2017) and <em><s>This is Cinema</s></em> (2019).</p>",
   "tags": null,
   "attached_images": [],
@@ -9,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.2, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-72-2020",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -19,7 +24,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-08-31%20at%202.10.19%20PM.png",
+      "body": "<p>Welcome back -- and welcome to issue 7.2 of <em><strong>[in]Transition</strong></em>. We hit pause for a while back in the spring, but we are pleased to return with more new videographic scholarship.</p>"
     }
   ],
   "reviews": [
@@ -80,12 +87,27 @@
   ],
   "contributors": [
     {
+      "uid": "4813",
+      "uuid": "e5d99ace-bcdc-4cf6-a993-a46df9312f64",
       "name": "William Brown",
-      "title": null,
-      "mail": "william.brown@roehampton.ac.uk",
-      "picture": "http://www.gravatar.com/avatar/1783bc631f18d04ba576a799b1ea3cd4.jpg?d=identicon&s=150&r=G",
-      "url": null,
-      "organization": "University of Roehampton"
+      "title": "Assistant Professor of Film",
+      "mail": "wjrcbrown@gmail.com",
+      "picture": "http://www.gravatar.com/avatar/64b7d0cd4513cbbefd48fc66b97ade36.jpg?d=identicon&s=150&r=G",
+      "url": {
+        "url": "https://begstealborrowfilms.com",
+        "title": "",
+        "attributes": [],
+        "original_title": "",
+        "original_url": "https://begstealborrowfilms.com"
+      },
+      "organization": "University of British Columbia",
+      "biography": "<p>William Brown is an Assistant Professor of Film at the University of British Columbia. He is the author of several books, including Navigating from the White Anthropocene to the Black Chthulucene (Zer0 Books, 2023), The Squid Cinema from Hell: Kinoteuthis Infernalis and the Emergence of Chthulumedia (with David H. Fleming, Edinburgh University Press, 2020) and Non-Cinema: Global Digital Filmmaking and the Multitude(Bloomsbury, 2018). He is also a maker of no-budget films, including This is Cinema (2018) and Mantis(forthcoming).</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "wjrcbrown",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, August 28, 2020",

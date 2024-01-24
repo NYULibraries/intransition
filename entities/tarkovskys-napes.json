@@ -1,6 +1,8 @@
 {
   "id": "1918",
   "title": "Tarkovsky's Napes",
+  "article_path": "/intransition/tarkovskys-napes",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/322046904"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.2, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-72-2020",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -21,7 +24,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-08-31%20at%202.10.19%20PM.png",
+      "body": "<p>Welcome back -- and welcome to issue 7.2 of <em><strong>[in]Transition</strong></em>. We hit pause for a while back in the spring, but we are pleased to return with more new videographic scholarship.</p>"
     }
   ],
   "reviews": [
@@ -64,7 +69,9 @@
   ],
   "contributors": [
     {
-      "name": "Pavel Tavares",
+      "uid": "19641",
+      "uuid": "5a4814b2-dcdd-42dc-81e8-c7abefd35f5b",
+      "name": null,
       "title": "Filmmaker",
       "mail": "paveluiz@gmail.com",
       "picture": "http://www.gravatar.com/avatar/620982d6e36d2f135a8a2892d4db79bf.jpg?d=identicon&s=150&r=G",
@@ -75,7 +82,14 @@
         "original_title": "",
         "original_url": "paveltavares.com"
       },
-      "organization": "Cultivamos Cultura"
+      "organization": "Cultivamos Cultura",
+      "biography": "<p>Pavel Tavares is a Brazilian filmmaker and video artist. He studied Design of Image and Sound at the University of Buenos Aires (UBA). He began as teacher of Audiovisual Project in the same university, lecturing documentary. He received a scholarship as an audiovisual archivist in the same institution. He was distinguished several times for his achievements as student and teacher. He holds a postgraduate diploma in Cinema from the University Torquato Ditella (UTDT). He was selected for the Talents BAFICI, VGKI summer school, Looking China Program, the Young Art Bienal (Argentina) and won a scholarship to be Fellow in the Flaherty Seminar (NY, USA). Some of his documentaries are Jasy Porã (Argentina), Алексндр (Russia), 小寨 (China), Tarkovsky Napes (video-essay) and Ojo de Mar (Argentina). His work has been presented internationally in exhibitions, festivals and articles. He has won prizes like best short movie, best experimental video and best photography. Interested in the distinctiveness of each culture, identities, borders and their crosses, he seeks a distinctive perception of time and space through experimental audiovisual art.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, September 16, 2020",

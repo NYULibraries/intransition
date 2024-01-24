@@ -1,6 +1,8 @@
 {
   "id": "1935",
   "title": "La Cupola: Revisiting L'Avventura through 'building' and 'dwelling'",
+  "article_path": "/intransition/la-cupola-revisiting-lavventura-through-building-and-dwelling",
+  "article_order_within": 6,
   "embed": [
     "https://player.vimeo.com/video/382780180"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.2, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-72-2020",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -21,7 +24,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-08-31%20at%202.10.19%20PM.png",
+      "body": "<p>Welcome back -- and welcome to issue 7.2 of <em><strong>[in]Transition</strong></em>. We hit pause for a while back in the spring, but we are pleased to return with more new videographic scholarship.</p>"
     }
   ],
   "reviews": [
@@ -82,6 +87,8 @@
   ],
   "contributors": [
     {
+      "uid": "19868",
+      "uuid": "ccb5c186-5c8b-42e5-b17a-0f2503382fe4",
       "name": "Peter Spence",
       "title": "Senior Lecturer",
       "mail": "peter@naturalcinema.co.uk",
@@ -93,7 +100,14 @@
         "original_title": "Staff Profile",
         "original_url": "https://www.shu.ac.uk/about-us/our-people/staff-profiles/peter-spence"
       },
-      "organization": "Sheffield Hallam University, UK"
+      "organization": "Sheffield Hallam University, UK",
+      "biography": "<p>Peter is Course Leader of the Foundation Year in Media Arts and Communications, and Module Leader for a number of film theory modules on the BA Film and Media Production. He holds an MA Screen Arts (Producing and Directing) from Sheffield Hallam University and BA (Hons) Politics and History from Queen Mary University of London. He is also a Fellow of the Higher Education Academy.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "naturalcinema",
+        "aim": null,
+        "skype": "petespence74"
+      }
     }
   ],
   "date": "Tuesday, September 29, 2020",

@@ -1,6 +1,8 @@
 {
   "id": "1882",
   "title": "Santa y Teresa: A Walking Dialogue between two Cuban Characters",
+  "article_path": "/intransition/santa-y-teresa-walking-dialogue-between-two-cuban-characters",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/351206225"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.1, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-71-2020",
       "editors": [
         {
           "name": "Drew Morton",
@@ -29,7 +32,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-04-14%20at%201.59.55%20PM.png",
+      "body": "<p>Welcome to issue 7.1 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>As the editor on duty, I just want to take a moment to thank all of the editors, contributors, and peer reviewers for assisting me in shepherding this issue through to publication. Initially slated for publication during the annual Society for Cinema and Media Studies Conference to launch into our seventh year as a journal, the issue was delayed due to the COVID-19 pandemic and all of the moving parts that seem to be part of our new normal (getting online courses ready, taking care of children who may be home from school, etc.). Yet, all of our personnel felt proud of the work that had already been done and shared the sentiment that it might be a nice repreive from the news to focus on a project for a bit. I appreciate all your hard work. Thank you. </p>\n<p>As always, <em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. However, please note that due to the recent developments related to COVID-19 and how it is affecting our work, it might take longer than usual for us to make a decision regarding your submission. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>"
     }
   ],
   "reviews": [
@@ -72,12 +77,21 @@
   ],
   "contributors": [
     {
+      "uid": "19104",
+      "uuid": "d0d52d24-fcd7-4227-b16a-b7de1912c673",
       "name": "Michelle Leigh Farrell",
       "title": "Associate professor of Spanish",
       "mail": "mfarrell3@fairfield.edu",
       "picture": "http://www.gravatar.com/avatar/04d510bf36a0ec76eea9cb2bcfd4f888.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Fairfield University"
+      "organization": "Fairfield University",
+      "biography": "<p>Michelle Leigh Farrell is an associate professor of Spanish at Fairfield University, in the Department of Modern Languages and Literatures. In her research she focuses on the contemporary changes in Cuban and Venezuelan audiovisual landscapes through national cultural initiatives and emerging independent cinemas. She has published on the young and independent Cuban filmmakers, contemporary women filmmakers in Cuba, the Muestra Joven film showcase, Cuban film made off the island, the offline Internet and audiovisual distribution platform el paquete semanal, and contemporary Venezuelan film under the Chávez administration. Currently she is working on a book manuscript about Cuba’s nuevos realizadores – young digital filmmakers whose films often occupy the space of independent media on and off the island. She has received generous research support from the American Association of University Women, the American Philosophical Society, and the Fairfield University Humanities Institute. Additionally, she has served as film juror for the Havana Film Festival NYC, the Americas Film Festival, and the Cinema Tropical Annual Film Awards.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, March 31, 2020",

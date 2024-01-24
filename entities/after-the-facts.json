@@ -1,6 +1,8 @@
 {
   "id": "1676",
   "title": "After the Facts",
+  "article_path": "/intransition/after-facts",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/383683839"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-64-2019",
       "editors": [
         {
           "name": "Julia Vassilieva",
@@ -27,7 +30,9 @@
           "organization": "Monash University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sergei.png",
+      "body": "<p>Special Issue: <strong>Montage Reloaded</strong></p>\n<p>Welcome to a special issue of <em>[in]Transition</em> that examines the legacy of the Russian avant-garde and the pioneering masters of the Russian montage school. The issue comprises four audio-visual works presented at the Symposium “Eisenstein for the Twenty First Century”, which took place in Prato in June 2018 and was supported by Monash University and the Australian Research Council. We extend our thanks to Julia Vassilieva for coordinating this outsatnding collection of work.</p>\n<p>Christian Keathley</p>\n<p>co-editor, <em>[in]Transition</em></p>"
     }
   ],
   "reviews": [
@@ -48,8 +53,10 @@
   ],
   "contributors": [
     {
+      "uid": "18994",
+      "uuid": "1f1619b7-0fc4-41cb-b5f9-8ab31fee60d6",
       "name": "Karen Pearlman",
-      "title": "Senior Lecturer",
+      "title": "Filmmaker and Associate Professor",
       "mail": "Karen.Pearlman@mq.edu.au",
       "picture": "http://www.gravatar.com/avatar/53fc4e3e2d85e6c6b6ecc7c99362a627.jpg?d=identicon&s=150&r=G",
       "url": {
@@ -59,7 +66,14 @@
         "original_title": "research publications",
         "original_url": "https://researchers.mq.edu.au/en/persons/karen-pearlman/publications/"
       },
-      "organization": "Macquarie University"
+      "organization": "Macquarie University",
+      "biography": "<p>Karen Pearlman’s  <a href=\"https://filmartsview.com/#d84b6f74-252f-43a2-aa30-75c6cf9bc897\" rel=\"nofollow\">trilogy of short films about historical women editors</a> (2016, 2018 &amp; 2020) have won 32 highly competitive national and international awards from peak industry bodies and film festivals, including 3 for best editing, 4 for best directing and 7 for best documentary. Her 2020 film, ‘<em>I want to make a film about women’</em>, was longlisted for an Oscar and nominated for an Australian Academy Award. The special jury prize citation from the Sebastopol Documentary Film Festival reads: \"a film of innovative brilliance, celebrating the inexhaustible, essential tenacity of suppressed artists everywhere\". Karen is the author of the widely used textbook on editing, ‘Cutting Rhythms’ (Focal Press) now in its 2nd edition and with translations into Chinese, Korean, Arabic and Turkish.  Her work has reached audiences of over one million people through collaboratively made research communication videos on YouTube called <a href=\"https://www.youtube.com/playlist?list=PLNEhn13QqMlbcgiXkyF58LnJ_Ss6fLQhD\" rel=\"nofollow\">‘The Science of Editing’.</a></p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "karen_pearlman",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, January 6, 2020",

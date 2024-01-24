@@ -1,6 +1,8 @@
 {
   "id": "1617",
   "title": "Dr. Caligari’s Francis: A Sane Reading",
+  "article_path": "/intransition/dr-caligaris-francis-sane-reading",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/312315489"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.3, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-63-2019",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-08-18%20at%2010.04.28%20AM.png",
+      "body": "<p>Welcome to issue 6.3 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All eight of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>We would also like to offer a warm welcome to the two newest members of the <em>[in]Transition </em>editorial team:  Kevin Ferguson (Associate Professor of English at Queens College, City University of New York) and Neepa Majumdar (Associate Professor of English and Film Studies, University of Pittsburgh).  We've been working with Kevin and Neepa for a couple months now and greatly appreciate their enthusiasm for diving into our editorial review process and work on this issue.  </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p>Drew Morton</p>"
     }
   ],
   "reviews": [
@@ -76,6 +81,8 @@
   ],
   "contributors": [
     {
+      "uid": "18825",
+      "uuid": "56c6eaed-d205-4a05-a745-1b1da30d2984",
       "name": "Alan Blanchard",
       "title": "Graduate Student",
       "mail": "alan.blanchard.phd@gmail.com",
@@ -87,7 +94,14 @@
         "original_title": "Vimeo",
         "original_url": "https://vimeo.com/alanblanchard"
       },
-      "organization": "University of South Florida"
+      "organization": "University of South Florida",
+      "biography": "<p>Alan Blanchard is presently a full-time graduate student in the Humanities and Cultural Studies Department at the University of South Florida seeking a Master of Arts in Liberal Arts degree with a focus in American Studies while also pursuing a certificate in Film Studies.  He holds BS, MS, and PhD degrees in mechanical engineering with an emphasis in experimental fluid dynamics and conducted his graduate research at the NASA-Langley Research Center as a NASA Graduate Student Researchers Program fellow while attending Old Dominion University. He is also a graduate of the USAF Test Pilot School and spent several years conducting flight tests before shifting to program management work.  He has held positions as an environmental engineer, a medical research manager, and an assistant professor teaching leadership and management.  His current research interests focus on the individual’s creation of and responses to digital media, especially music videos.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, August 13, 2019",

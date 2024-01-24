@@ -1,6 +1,8 @@
 {
   "id": "58",
   "title": "Frames of Mind",
+  "article_path": "/intransition/2015/03/12/frames-mind",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/108281987?portrait=0"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
+      "path": "/intransition/theme-week/2015/11/peer-review-kick",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -23,7 +26,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/Screen%20Shot%202015-03-09%20at%2010.37.13%20AM_0.png",
+      "body": "<p>Welcome to the first issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.</p>\n<p><strong>[in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <strong>[in]Transition</strong> tab above.</p>\n<p>Christian Keathley<br /> Editor, <strong>[in]Transition</strong> 2.1, March 2015</p>"
     }
   ],
   "reviews": [
@@ -72,12 +77,21 @@
   ],
   "contributors": [
     {
+      "uid": "3865",
+      "uuid": "eda19f25-2a77-4a4e-9e3c-f5d6fccdadea",
       "name": "Jordan Tynes and Maurizio Viano",
       "title": null,
       "mail": "jtynes@wellesley.edu",
       "picture": "http://www.gravatar.com/avatar/e567dbf3a332bd4f71e418417aa17df1.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Wellesley College"
+      "organization": "Wellesley College",
+      "biography": "<p><strong>Jordan Tynes</strong> Jordan currently works as a Research and Instructional Technologist at Wellesley College, specializing in creative media production. He received a BFA from the University of California, Santa Cruz and a MFA from the School of the Museum of Fine Arts, Boston. Jordan has internationally exhibited projects that explore the intersection of art, technology, and activism. His experience with a wide variety of media allows him to choose the medium that best articulates the message. As such, Jordan has developed a visual art practice that is driven by concepts.<br />\n</p><dl>\n<dt></dt>\n<dd></dd>\n</dl>\n<p> <strong>Maurizio Viano</strong> After about of two years in medical school (enough to get a taste of the hard sciences), Maurizio Viano got a Laurea in Lettere Moderne (Bachelor in Modern Literatures) at the University of Genova, and a PhD in Comparative Literature at the University of Oregon.  Hired to teach in the Italian department at Wellesley College in 1984, he would soon become one of the main actors behind the creation of the Cinema and Media Studies program in 2000- a program that he currently co-directs.  In addition to a book length study on Pier Paolo Pasolini’s  film theory and practice, he has published on a variety of topics, ranging from philosophy to Italian-American cinema.  His lifelong passion for global film history and ‘art cinema’ (yes, the elitist kind) is today taking the form of an active interest in animation, videography and pedagogy’s vicissitudes.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Thursday, March 12, 2015",

@@ -1,6 +1,8 @@
 {
   "id": "122",
   "title": "Hunger and Rotten Flesh: Cinema Novo, Pasolini, Eisenstein",
+  "article_path": "/intransition/2016/hunger-and-rotten-flesh",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/184666547"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.3, 2016",
+      "path": "/intransition/theme-week/issue-3-3",
       "editors": [
         {
           "name": "Nicolas Poppe",
@@ -31,7 +34,9 @@
           "organization": "Castleton University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-10-30%20at%205.16.01%20PM.png",
+      "body": "<p><strong>Special Issue: Latin American Cinema</strong></p>\n<p>This guest-edited special issue of <em>[in]Transition</em> is devoted to videographic work on Latin American cinema. While some of the contributors had prior video-editing experience, others were first-time makers. The first four videos are accompanied by a curatorial statement from the maker, as well as peer reviewer evaluations.  The final video is a selection that has been specially curated for this issue.</p>\n<p>Nicolas Poppe (Middlebury College) and Michael Talbott (Castleton University) - Guest Editors</p>\n<p>(with support from Christian Keathley for <em>[in]Transition)</em></p>"
     }
   ],
   "reviews": [
@@ -86,6 +91,8 @@
   ],
   "contributors": [
     {
+      "uid": "4423",
+      "uuid": "b3ef31f5-5267-4701-8042-e8e78856c10c",
       "name": "Albert Elduque",
       "title": "Postdoctoral Researcher in Brazilian Cinema",
       "mail": "a.elduquebusquets@reading.ac.uk",
@@ -97,7 +104,14 @@
         "original_title": null,
         "original_url": "https://www.reading.ac.uk/ftt/about/staff/A-ElduqueBusquets.aspx"
       },
-      "organization": "University of Reading"
+      "organization": "University of Reading",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, October 18, 2016",

@@ -1,6 +1,8 @@
 {
   "id": "1640",
   "title": "Reproductive Futurism and the Politics of the Sequel",
+  "article_path": "/intransition/reproductive-futurism-and-politics-sequel",
+  "article_order_within": 8,
   "embed": [
     "https://player.vimeo.com/video/334617286"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.3, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-63-2019",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-08-18%20at%2010.04.28%20AM.png",
+      "body": "<p>Welcome to issue 6.3 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All eight of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>We would also like to offer a warm welcome to the two newest members of the <em>[in]Transition </em>editorial team:  Kevin Ferguson (Associate Professor of English at Queens College, City University of New York) and Neepa Majumdar (Associate Professor of English and Film Studies, University of Pittsburgh).  We've been working with Kevin and Neepa for a couple months now and greatly appreciate their enthusiasm for diving into our editorial review process and work on this issue.  </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p>Drew Morton</p>"
     }
   ],
   "reviews": [
@@ -88,7 +93,9 @@
   ],
   "contributors": [
     {
-      "name": "Kathleen Loock",
+      "uid": "3163",
+      "uuid": "41dae484-8da6-459e-9eb0-42f138fb72d4",
+      "name": null,
       "title": null,
       "mail": "Kathleen.Loock@engsem.uni-hannover.de",
       "picture": "http://www.gravatar.com/avatar/f8ca3b47c2c205e16b6cbbd175706ddb.jpg?d=identicon&s=150&r=G",
@@ -99,7 +106,14 @@
         "original_title": "Faculty Profile",
         "original_url": "https://www.engsem.uni-hannover.de/en/seminar/personenverzeichnis/kathleen-loock/"
       },
-      "organization": "Leibniz University Hannover"
+      "organization": "Leibniz University Hannover",
+      "biography": "<p>Kathleen Loock is a postdoctoral researcher at the John F. Kennedy Institute for North American Studies, Freie Universität Berlin (Germany). Her research focuses on Hollywood’s remaking practice, seriality, and the role memory and cultural repetition perform on the level of identity formation and imagined collectivization. She is author of <em>Kolumbus in den USA</em> (Transcript-Verlag, 2014), a book that studies the commemorative constructions and deconstructions of Christopher Columbus in the nineteenth- and twentieth-century United States. Her other publications include the co-edited collection <em>Film Remakes, Adaptations, and Fan Productions </em>(with Constantine Verevis, Palgrave Macmillan, 2012), and several special issues: <em>Serial Narratives</em> (<em>LWU: Literatur in Wissenschaft und Unterricht</em>, 2014), <em>Exploring Film Seriality</em> (<em>Film Studies</em>, co-edited with Frank Krutnik, 2017), and <em>American TV Series Revivals</em> (<em>Television &amp; New Media</em>, 2018).</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@kalliloo",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Sunday, August 25, 2019",

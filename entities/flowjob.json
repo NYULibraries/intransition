@@ -1,6 +1,8 @@
 {
   "id": "172",
   "title": "Flow/Job",
+  "article_path": "/intransition/2018/01/10/flowjob",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/221432840"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 4.4, 2017",
+      "path": "/intransition/issue-4-4",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -23,7 +26,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202018-01-10%20alle%2020.54.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <em>[in]Transition</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, <em>[in]Transition</em> 4.4, December 2017</strong></p>"
     }
   ],
   "reviews": [
@@ -44,6 +49,8 @@
   ],
   "contributors": [
     {
+      "uid": "4815",
+      "uuid": "a0520df5-eb46-484b-b222-df355b4ba0db",
       "name": "Darren Elliott-Smith",
       "title": "Senior Lecturer in Film and Gender",
       "mail": "darren.elliott-smith@stir.ac.uk",
@@ -55,7 +62,14 @@
         "original_title": "",
         "original_url": "http://researchprofiles.herts.ac.uk/portal/en/persons/darren-elliottsmith(b71948e0-8287-45bb-a6e5-1e03478c6e64)/publications.html"
       },
-      "organization": "university of stirling"
+      "organization": "university of stirling",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, January 10, 2018",

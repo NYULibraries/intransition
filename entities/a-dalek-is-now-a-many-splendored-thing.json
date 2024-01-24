@@ -1,6 +1,8 @@
 {
   "id": "983",
   "title": "A Dalek is (now) a many-splendored thing",
+  "article_path": "/intransition/dalek-now-many-splendored-thing",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/292668285"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.1, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-61-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -21,7 +24,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-03-11%20at%2011.32.49%20AM.png",
+      "body": "<p>Welcome to issue 6.1 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>"
     }
   ],
   "reviews": [
@@ -64,6 +69,8 @@
   ],
   "contributors": [
     {
+      "uid": "4257",
+      "uuid": "21e61cf2-2f86-4b53-99fa-4e3bc343bb7c",
       "name": "Keith M. Johnston",
       "title": "Reader in Film & Television",
       "mail": "keith.johnston@uea.ac.uk",
@@ -75,7 +82,14 @@
         "original_title": "",
         "original_url": "https://www.uea.ac.uk/film-television-media/home"
       },
-      "organization": "University of East Anglia"
+      "organization": "University of East Anglia",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@keithmjohnton",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, March 9, 2019",

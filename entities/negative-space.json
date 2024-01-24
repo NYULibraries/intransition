@@ -1,6 +1,8 @@
 {
   "id": "854",
   "title": "Negative Space",
+  "article_path": "/intransition/negative-space",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/290695635"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-54-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -21,7 +24,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202019-01-12%20alle%2016.15.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, [in]Transition 5.4, December 2018</strong></p>"
     }
   ],
   "reviews": [
@@ -70,6 +75,8 @@
   ],
   "contributors": [
     {
+      "uid": "4904",
+      "uuid": "03ccc030-a29f-49a6-8631-85612a9848ff",
       "name": "Allain Daigle",
       "title": "PhD Student - Arts, Media and Games",
       "mail": "allain.daigle@gmail.com",
@@ -81,7 +88,14 @@
         "original_title": null,
         "original_url": "https://allaindaigle.com"
       },
-      "organization": "University of Wisconsin-Milwaukee"
+      "organization": "University of Wisconsin-Milwaukee",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, January 1, 2019",

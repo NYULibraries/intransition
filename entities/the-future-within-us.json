@@ -1,6 +1,8 @@
 {
   "id": "1667",
   "title": "The Future Within Us",
+  "article_path": "/intransition/future-within-us",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/275199613"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-64-2019",
       "editors": [
         {
           "name": "Julia Vassilieva",
@@ -27,7 +30,9 @@
           "organization": "Monash University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sergei.png",
+      "body": "<p>Special Issue: <strong>Montage Reloaded</strong></p>\n<p>Welcome to a special issue of <em>[in]Transition</em> that examines the legacy of the Russian avant-garde and the pioneering masters of the Russian montage school. The issue comprises four audio-visual works presented at the Symposium “Eisenstein for the Twenty First Century”, which took place in Prato in June 2018 and was supported by Monash University and the Australian Research Council. We extend our thanks to Julia Vassilieva for coordinating this outsatnding collection of work.</p>\n<p>Christian Keathley</p>\n<p>co-editor, <em>[in]Transition</em></p>"
     }
   ],
   "reviews": [
@@ -54,7 +59,9 @@
   ],
   "contributors": [
     {
-      "name": "Helen Grace",
+      "uid": "19001",
+      "uuid": "9eb6303e-4adf-435d-8caa-0c4e516fda2b",
+      "name": null,
       "title": "Adjunct Professor/Research Associate",
       "mail": "hmgrace2011@gmail.com",
       "picture": "http://www.gravatar.com/avatar/b3ff4adfc9d063f1b05d59be96eb5f38.jpg?d=identicon&s=150&r=G",
@@ -65,7 +72,14 @@
         "original_title": "Helen Grace Projects",
         "original_url": "https://www.helengraceprojects.com"
       },
-      "organization": "Chinese University of Hong Kong/University of Sydney"
+      "organization": "Chinese University of Hong Kong/University of Sydney",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, January 4, 2020",

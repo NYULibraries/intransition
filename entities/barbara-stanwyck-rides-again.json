@@ -1,6 +1,8 @@
 {
   "id": "2049",
   "title": "Barbara Stanwyck Rides Again",
+  "article_path": "/intransition/barbara-stanwyck-rides-again",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/582248412?h=a22ea0688f"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 8.3, 2021",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-83-2021",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -35,7 +38,7 @@
           "organization": "Middlebury College"
         },
         {
-          "name": null,
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -49,7 +52,9 @@
           "organization": "Tel Aviv University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screenshot%202021-10-07%20at%2014.11.04.png",
+      "body": "<p>Welcome to <em>[in]Transition</em>’s third issue of 2021, 8.3. This issue features a variety of peer-reviewed videographic work focused on a fascinating array of film and moving image studies topics: the opening seconds of <em>The Wire</em>, women and filmic figurations of the home, the cinematic mise-en-scène of moments of recognition, Barbara Stanwyck's horseback riding, and a consideration of how the stethoscope might reveal something about the medium of cinema.  </p>\n<p>As always, we invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n"
     }
   ],
   "reviews": [
@@ -104,6 +109,8 @@
   ],
   "contributors": [
     {
+      "uid": "3018",
+      "uuid": "b68f8e38-6ca3-4e5f-a72b-5ba55fc56a7f",
       "name": "Catherine Russell",
       "title": "Professor",
       "mail": "katie.russell@concordia.ca",
@@ -115,15 +122,31 @@
         "original_title": null,
         "original_url": "http://catherinerussell.ca"
       },
-      "organization": "Concordia University, Montreal"
+      "organization": "Concordia University, Montreal",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
-      "name": "Shannon Harris",
+      "uid": "20489",
+      "uuid": "09658247-06a0-4af6-8e30-51777c0a478d",
+      "name": null,
       "title": null,
       "mail": "kinoesque@gmail.com",
       "picture": "http://www.gravatar.com/avatar/e325f5e92c544f772122122e57ff4a0c.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": null
+      "organization": null,
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, October 5, 2021",

@@ -1,6 +1,8 @@
 {
   "id": "856",
   "title": "Gone Estray",
+  "article_path": "/intransition/gone-estray",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/247684471"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 5.4, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-54-2019",
       "editors": [
         {
           "name": "Chiara Grizzaffi",
@@ -21,7 +24,9 @@
           "organization": "Università IULM - Milan"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Schermata%202019-01-12%20alle%2016.15.19.png",
+      "body": "<p>Welcome to this end of year issue of <em>[in]Transition</em> devoted exclusively to peer-reviewed videographic work. All five of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p><strong>Chiara Grizzaffi<br /> Editor, [in]Transition 5.4, December 2018</strong></p>"
     }
   ],
   "reviews": [
@@ -64,8 +69,10 @@
   ],
   "contributors": [
     {
+      "uid": "4621",
+      "uuid": "db3c91dc-fcb1-4dba-b82a-06f59aadefb4",
       "name": "Melissa Dollman, PhD",
-      "title": null,
+      "title": "Co-founder",
       "mail": "msdollman@yahoo.com",
       "picture": "http://www.gravatar.com/avatar/823a6893b7028927d0c77c3f7b85d7c3.jpg?d=identicon&s=150&r=G",
       "url": {
@@ -75,7 +82,14 @@
         "original_title": "CV",
         "original_url": "http://melissadollman.com/"
       },
-      "organization": "Tribesourcing Southwest Film Project (formerly University of North Carolina at Chapel Hill)"
+      "organization": "Deserted Films",
+      "biography": "<p> </p>\n<p>Melissa Dollman, PhD, is co-founder of Deserted Films, a locally-focused home movie collection based in Palm Springs. Her publications include a fully digital dissertation, <em>Changing Lanes: A Reanimation of Shell Oil’s Carol Lane</em>; “Tribesourcing Southwest Films: Counter-Narrations and Reclamation,” <em>KULA: Knowledge Creation, Dissemination, and Preservation Studies on Indigenous Knowledges </em>(June 2021, co-author); “Opening The Can: Home Movies In The Public Sphere,” in <em>Amateur Movie Making: Aesthetics of the Everyday in New England, 1915-1960</em> (Indiana University Press, 2017), and “Gone Estray” in <em>[in]Transition: Journal of Videographic Film &amp; Moving Image Studies, 5.4, 2019. </em></p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "mellydollred",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, December 31, 2018",

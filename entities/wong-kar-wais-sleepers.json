@@ -1,6 +1,8 @@
 {
   "id": "2014",
   "title": "Wong Kar-wai’s Sleepers",
+  "article_path": "/intransition/wong-kar-wai’s-sleepers",
+  "article_order_within": 4,
   "embed": [
     "https://player.vimeo.com/video/375153909"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 8.1, 2021",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-81-2021",
       "editors": [
         {
           "name": "Kevin L. Ferguson",
@@ -27,7 +30,9 @@
           "organization": "Queens College / CUNY"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Banner%202%202.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>’s first issue of 2021, 8.1. This issue features a variety of peer-reviewed videographic work, ranging from topics such as segregation and coffee sets in Brazil in <em>Que horas ela volta</em> (<em>The Second Mother</em>, Anna Muylaert, 2015); decay in essay films such as <em>Journey to Italy</em> (Roberto Rossellini, 1954), <em>Rock Hudson’s Home Movies</em> (Mark Rappaport, 1992), and <em>Decasia</em> (Bill Morrison, 2002); metaphorical nymphs in both <em>Mnemosyne Atlas</em> (Aby Warburg, 1924–1929) and <em>Histoire(s) du Cinéma</em> (Jean-Luc Godard, 1998); sleeping figures in Wong Kar-wai’s films; and desktop documentary on the newly-restored <em>Distant Journey</em> (<em>Daleká cesta</em>, Alfréd Radok, 1948).</p>\n<p>Due to delays around the global pandemic, we were able to publish three issues last year, ending with issue 7.3. We appreciate all of our contributors', reviewers', and readers' patience as the editors have worked on a delayed pandemic schedule, and we enthusiastically look forward to viewing and engaging with future submissions of videographic work. </p>"
     }
   ],
   "reviews": [
@@ -54,20 +59,38 @@
   ],
   "contributors": [
     {
+      "uid": "3408",
+      "uuid": "94eea6f8-1792-417a-8f8f-47b3aa74ce65",
       "name": "Ken Provencher",
       "title": null,
       "mail": "kprovenc@gmail.com",
       "picture": "http://www.gravatar.com/avatar/ff5a773fbb2f7829dd4adc3620f04e4c.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Loyola Marymount University"
+      "organization": "Loyola Marymount University",
+      "biography": "<p>Ken Provencher teaches film and media studies at Loyola Marymount University, Los Angeles. His work focuses on the transnational Hollywood industry, especially in relation to East Asian media industries and popular cultures. He is the co-editor of <em>Exploiting East Asian Cinemas</em> (Bloomsbury, 2018), and has previously published in <em>The Companion to Wong Kar-wai</em> (Wiley-Blackwell, 2016), <em>The Quarterly Review of Film and Video</em>, <em>The Velvet Light Trap</em>, and <em>Film Quarterly</em>.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
-      "name": "Jiro Plutschow",
+      "uid": "20298",
+      "uuid": "deb85667-350f-4d45-a0cb-1d6b43b44860",
+      "name": null,
       "title": null,
       "mail": "jazzbassist@me.com",
       "picture": "http://www.gravatar.com/avatar/8c8ed227c2586ade2b5d6670bb6a42db.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Josai International University"
+      "organization": "Josai International University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Wednesday, March 31, 2021",

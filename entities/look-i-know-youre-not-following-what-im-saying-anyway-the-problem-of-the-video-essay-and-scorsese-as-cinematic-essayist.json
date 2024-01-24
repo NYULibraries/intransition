@@ -1,6 +1,8 @@
 {
   "id": "44",
   "title": "\"Look. I Know You're Not Following What I'm Saying Anyway.\": The Problem of the \"Video Essay\" and Scorsese as Cinematic Essayist",
+  "article_path": "/intransition/2014/12/12/look-i-know-youre-not-following-what-im-saying-anyway-problem-video-essay-and-scorsese-ci",
+  "article_order_within": 1,
   "embed": [
     "https://www.youtube.com/embed/yztx8qfoNu0",
     "//www.youtube.com/embed/ZN6mp2NjMhs",
@@ -17,6 +19,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 1.4, 2014",
+      "path": "/intransition/theme-week/2014/50/journal-videographic-film-moving-image-studies-14-2014",
       "editors": [
         {
           "name": "Drew Morton",
@@ -33,18 +36,29 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//love-hate-do-the-right-thing.jpg",
+      "body": "<p>A collaboration between MediaCommons and the Society for Cinema and Media Studies’ official publication, <em>Cinema Journal</em>, <strong>[in]Transition</strong> is the first peer-reviewed academic periodical specifically given over to videographic film and moving image studies.</p>\n<p>In this our first year of publication, the <strong>[in]Transition</strong> co-editors are taking turns editing special themed issues in which guest curators offer critical reflections on selected videographic work. Issue #1.4 is devoted to reflections on the overlap between the video essay and Hollywood.</p>\n<p>We are delighted to announce that <strong>[in]Transition</strong> is now accepting submissions of videographic work for peer-reviewed publication in subsequent issues, beginning with issue #2.1 (2015). You can find out further information about this by clicking on the <a href=\"http://mediacommons.futureofthebook.org/intransition/node/6\">Contribute to <strong>[in]Transition</strong> tab</a> above.</p>\n<p><strong>Drew Morton</strong></p>\n<p><strong>Editor, [in]Transition 1.4, December 2014</strong></p>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3359",
+      "uuid": "84f11416-0436-42d5-86da-877db82d803f",
       "name": "Drew Morton",
       "title": null,
       "mail": "damorton@ucla.edu",
       "picture": "http://www.gravatar.com/avatar/cfd46eb3e2b30d286260e5253b9b466f.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Texas A&M University - Texarkana"
+      "organization": "Texas A&M University - Texarkana",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, December 12, 2014",

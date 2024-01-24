@@ -1,6 +1,8 @@
 {
   "id": "28",
   "title": "On Video Tributes",
+  "article_path": "/intransition/2014/06/23/video-tributes",
+  "article_order_within": 3,
   "embed": [
     "//player.vimeo.com/video/95773735",
     "//player.vimeo.com/video/92554823",
@@ -15,6 +17,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 1.2, 2014",
+      "path": "/intransition/theme-week/2014/25/journal-videographic-film-moving-image-studies-12-2014",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -25,18 +28,29 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/chinatown_0.png",
+      "body": "<p>Welcome back to <strong>[in]Transition</strong>! A collaboration between MediaCommons and the Society for Cinema and Media Studies’ official publication, <em>Cinema Journal</em>, <strong>[in]Transition</strong> is the first peer-reviewed academic periodical specifically given over to videographic film and moving image studies.</p>\n<p>For issues #1.2, 1.3, and 1.4 of the journal, the <strong>[in]Transition</strong> co-editors will take turns editing special themed issues, and guest curators will offer critical appreciations of selected videographic work. This fall, we will begin accepting submissions of videographic work for peer-reviewed publication in subsequent issues, beginning with issue #2.1 (2015). Look for more information about this in issue #1.3.</p>\n<p>Christian Keathley</p>\n<p><strong>Editor, [in]Transition 1.2, June 2014</strong></p>"
     }
   ],
   "reviews": [],
   "contributors": [
     {
+      "uid": "3387",
+      "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
       "name": "Chiara Grizzaffi",
       "title": "Dr",
       "mail": "chiara.grizzaffi@gmail.com",
       "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Università IULM - Milan"
+      "organization": "Università IULM - Milan",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, June 23, 2014",

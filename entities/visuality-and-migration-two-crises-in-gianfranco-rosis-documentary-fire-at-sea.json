@@ -1,6 +1,8 @@
 {
   "id": "1985",
   "title": "Visuality and Migration: Two Crises in Gianfranco Rosi’s Documentary “Fire at Sea”",
+  "article_path": "/intransition/visuality-and-migration-two-crises-gianfranco-rosi’s-documentary-“fire-sea”",
+  "article_order_within": 6,
   "embed": [
     "https://player.vimeo.com/video/354243108?color=ffffff&byline=0&portrait=0"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.3, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-73-2020",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -29,7 +32,7 @@
           "organization": "Aarhus Universitet"
         },
         {
-          "name": null,
+          "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
@@ -51,7 +54,9 @@
           "organization": "Queens College / CUNY"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-12-01%20at%2011.44.10%20AM.png",
+      "body": "<p>Welcome to<em> [in]Transition</em>'s final issue of 2020: 7.3. It's a bumper collection, featuring high quality and innovative videographic scholarship on Indian, Italian, French, Australian and US cinema - fiction and documentary - as well as on television, transmedia play and remix practice.</p>\n<p>Our next issue should appear as usual in March/April. If you would like to submit your own videographic film and moving image studies work to our journal, please visit the <a href=\"http://mediacommons.org/intransition/how-it-works\" target=\"_blank\">Contribute to <em>[in]Transition</em></a> page to find out more.</p>"
     }
   ],
   "reviews": [
@@ -94,6 +99,8 @@
   ],
   "contributors": [
     {
+      "uid": "4845",
+      "uuid": "cfbaea8e-c78a-438a-a6d2-946eaee0c723",
       "name": "Erik Scaltriti",
       "title": "Graduate Student / Filmmaker",
       "mail": "scaltriti.1@osu.edu",
@@ -105,7 +112,14 @@
         "original_title": "Personal Website",
         "original_url": "https://u.osu.edu/scaltriti.1/"
       },
-      "organization": "The Ohio State University"
+      "organization": "The Ohio State University",
+      "biography": "<p>Erik Scaltriti is a doctoral candidate at The Ohio State University and his investigation focuses on contemporary representations of migration in the Global Mediterranean. </p>\n<p>Scaltriti has worked as a freelance filmmaker in Italy, France, Spain and the US for over a decade. He has directed and produced documentaries, television programs, and short movies which include a variety of topics and testimonials: from war veterans and NGO volunteers to refugees and photographers of the Arab Uprising of 2011. </p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@scaltriti_1",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, December 7, 2020",

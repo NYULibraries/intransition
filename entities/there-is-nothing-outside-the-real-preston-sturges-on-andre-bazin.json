@@ -1,6 +1,8 @@
 {
   "id": "72",
   "title": "There Is Nothing Outside the Real: Preston Sturges on André Bazin",
+  "article_path": "/intransition/2015/07/29/there-nothing-outside-real",
+  "article_order_within": 5,
   "embed": [
     "https://player.vimeo.com/video/123825683"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.3, 2015",
+      "path": "/intransition/theme-week/2015/32/journal-videographic-film-moving-image-studies-23-2015",
       "editors": [
         {
           "name": "Drew Morton",
@@ -29,18 +32,49 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//playtime.jpg",
+      "body": "<p>Welcome to the second issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.<strong> [in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the <a href=\"http://mediacommons.futureofthebook.org/intransition/contribute\">Contribute to <strong>[in]Transition</strong> tab</a> above. Additionally, we have issued a <a href=\"http://mediacommons.futureofthebook.org/intransition/call-special-issue\">call for videos for a special issue on Latin American cinema</a>.</p>\n<p>Drew Morton</p>\n<p>Editor, <strong>[in]Transition</strong> 2.3, September 2015</p>"
     }
   ],
   "reviews": [
     {
       "title": "Review of NOR 1",
-      "reviewers": null,
+      "reviewers": [
+        {
+          "name": "Kevin Lee",
+          "title": "Video Essayist",
+          "mail": "alsolikelife@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/ef06586f424980bf3f375c9aa4b4d067.jpg?d=identicon&s=150&r=G",
+          "url": {
+            "url": "https://vimeo.com/kevinblee",
+            "title": "",
+            "attributes": [],
+            "original_title": "",
+            "original_url": "https://vimeo.com/kevinblee"
+          },
+          "organization": "Università della Svizzera Italiana"
+        }
+      ],
       "body": "<p>I greatly appreciate and admire the radical approach towards videographic scholarship taken by David Sorfa's video. This video exemplifies the kind of brave experimentation and innovative approach towards film studies that makes <strong>[in]Transition</strong> a vital site for contemporary cinema and media scholarship. It has the potential to generate a lot of interest and discussion on how scholarship can be represented visually not just as a finished work but as a <strong>process</strong>.</p>\n<p>Having said this, I am uncertain if this abridged version of an original presentation is meant to be complemented by a text or meant to stand on its own. If it is the latter, then it entices more than it elucidates. The prioritizing of the Sturges clips is unclear in intention and becomes visually frustrating in the instances when it seems to overlap and compete with the desktop activity. If we want to see a sped up version of the presentation for illustrative purposes, perhaps we should just see that, without the film clips. I think this is especially true if the aim of the video is \"to show the actual writing of an academic paper on film\" as stated in the video's description. If that's the case, why not just show the desktop?</p>\n<p>I am somewhat more inclined to watch the full 43 minute version of the presentation with voiceover of the talk. It would allow a more vivid sense of how the presenter moved through the desktop in real time and utlized it as part of his academic presentation. This would be of true value to academics in radically rethinking their approach to presenting their scholarship, especially in revealing and exploring the process by which scholarship is generated.</p>\n"
     },
     {
       "title": "Review of NOR 2",
       "reviewers": [
+        {
+          "name": "Kevin Lee",
+          "title": "Video Essayist",
+          "mail": "alsolikelife@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/ef06586f424980bf3f375c9aa4b4d067.jpg?d=identicon&s=150&r=G",
+          "url": {
+            "url": "https://vimeo.com/kevinblee",
+            "title": "",
+            "attributes": [],
+            "original_title": "",
+            "original_url": "https://vimeo.com/kevinblee"
+          },
+          "organization": "Università della Svizzera Italiana"
+        },
         {
           "name": "Patricia Pisters",
           "title": "Professor of Film Studies",
@@ -61,6 +95,8 @@
   ],
   "contributors": [
     {
+      "uid": "4022",
+      "uuid": "e80c8c22-b27e-4bbc-9ae4-3806d5420236",
       "name": "David Sorfa",
       "title": "Senior Lecturer in Film Studies",
       "mail": "david.sorfa@ed.ac.uk",
@@ -72,7 +108,14 @@
         "original_title": null,
         "original_url": "http://www.ed.ac.uk/schools-departments/literatures-languages-cultures/film/staff/david-sorfa"
       },
-      "organization": "University of Edinburgh"
+      "organization": "University of Edinburgh",
+      "biography": "<p>Dr David Sorfa is a Senior Lecturer and Programme Director of the MSc Film Studies at the University of Edinburgh. He was previously Head of Film Studies at Liverpool John Moores University and is managing editor of the journal Film-Philosophy. He has written on Michael Haneke, Jan Švankmajer and Czech cinema as well as a broad range of other film subjects and has a particular interest in film-philosophy and film adaptation.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Thursday, July 30, 2015",

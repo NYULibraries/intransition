@@ -1,8 +1,10 @@
 {
   "id": "60",
   "title": "Busting Out",
+  "article_path": "/intransition/2015/03/23/busting-out-caged-heat-and-women-prison-film",
+  "article_order_within": 5,
   "embed": [
-    "http://www.criticalcommons.org/Members/DawnFratini/clips/busting-out-caged-heat-and-the-women-in-prison/embed_view"
+    "https://criticalcommons.org/embed?m=deHAMyEhq"
   ],
   "body": "<p>In this video essay, “Busting Out: <em>Caged Heat</em> and the Women-in-Prison Film,” we examine the 1974 exploitation film <em>Caged Heat</em>. An example of the women-in-prison film, it was the directorial debut of Jonathan Demme and produced for Roger Corman’s off-Hollywood studio, New World Pictures. Our research aim was to situate the movie in historical and genre terms in order to demonstrate how women-in-prison films like <em>Caged Heat</em> both exploit and objectify women’s bodies even as they offer potentially empowering depictions of agency, queerness, cooperation, and rebellion.</p>\n<p>We trace the history of the genre through its “social problem” era, the 1930s-1950s, and into its “exploitation” era, the 1960s-1970s. Our preliminary research included primary and secondary sources, including PCA files, reviews, promotional materials, and, of course, the films themselves. The visual sensationalism of these movies – which at once exploit women’s bodies as sites of spectacle and depict potentially empowering characterizations – led us to create a visual argument using the films themselves.</p>\n<p>In our first section, “Incarcerated Women in Film,” we use clips from women-in-prison films from 1929 to 1955 to situate this genre within the realm of the “social problem” picture. With their stark mise-en-scene and harsh photography, their unglamorous make-up and costumes, and their often tragic endings, these movies convey cynical messages about the cycles of violence and incarceration perpetuated by the prison industrial complex, depicting women as being particularly vulnerable to all manner of abuses within it.</p>\n<p>In our second section, “Exploitation Cinema: The Roger Corman Years,” we narrow our focus to an exploitation “auteur” whose career paralleled both an increase in cinematic sensationalism and tumultuous off-screen social changes. On their lurid surface, the Corman women-in-prison films appear to forgo social messages in favor of raw exploitation. We argue, however, that that even as these women-in-prison films exploit the spectacle of confined and brutalized female bodies, they also encourage the viewer to root for female insurrection and emancipation.</p>\n<p>In our third section, “<em>Caged Heat</em>: A Case Study,” we further narrow our focus to argue that this film embodies the extremes of both the genre’s exploitation and emancipation tendencies. We examine its salacious depiction of – as the trailer promised – “the female jungle of women’s prison USA, a seething hell of steel and stone where […] caged passions ignite in carnal confinement and explode into violence,” and explore its subversive ending, in which the women team up for a successful prison break.</p>\n<p>With its volatile combination of exploitative and empowering impulses, the women-in-prison film lays bare, as it were, fascinating, complex contradictions about genre, gender and the representation of the female body both chained and unchained.</p>\n<p><strong>Note</strong>: The authors would like to thank Janet Bergstrom for inspiring us to create this video for her seminar on Contemporary Film Criticism in 2008, and for her guidance and support during its production. In attempting to revise the video for publication, we found that we no longer had the original source files, so we could not “unmix” any of the original tracks (sound mix, image dissolves, etc.). Additionally, in trying to add even minor edits, we were unpleasantly surprised by audio artifacts and aspect ratio conundrums due to changes in audio codecs and software functionality in the seven years since the original production. So we have decided to post the video in its original, unrevised condition, as an artifact of video essay production from 2008.</p>\n<p> </p>\n<p> </p>",
   "tags": null,
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
+      "path": "/intransition/theme-week/2015/11/peer-review-kick",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -23,7 +26,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/Screen%20Shot%202015-03-09%20at%2010.37.13%20AM_0.png",
+      "body": "<p>Welcome to the first issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work! Each video is accompanied by a curatorial statement from the maker, as well as the peer reviewer evaluations. We are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit.</p>\n<p><strong>[in]Transition</strong> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the Contribute to <strong>[in]Transition</strong> tab above.</p>\n<p>Christian Keathley<br /> Editor, <strong>[in]Transition</strong> 2.1, March 2015</p>"
     }
   ],
   "reviews": [
@@ -50,6 +55,8 @@
   ],
   "contributors": [
     {
+      "uid": "3530",
+      "uuid": "0917ca4e-9642-4acc-8514-9e56011db6d8",
       "name": "Manohla Dargis",
       "title": "Various",
       "mail": "dawnfratini@gmail.com",
@@ -61,17 +68,35 @@
         "original_title": "",
         "original_url": "http://www.mediacademia.wordpress.com"
       },
-      "organization": "UCLA"
+      "organization": "UCLA",
+      "biography": "<p><strong>Manohla Dargis</strong> is a PhD candidate in Cinema and Media Studies at the University of California, Los Angeles. Her research project focuses on the representation of women in contemporary American cinema. She is a film critic for <em>The New York Times</em>.</p>",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
+      "uid": "3892",
+      "uuid": "6f3ece5a-7493-4b4e-b059-96f6904f8bc2",
       "name": "Jennifer Moorman",
       "title": "Lecturer in Film and TV",
       "mail": "jmoorman@ucla.edu",
       "picture": "http://www.gravatar.com/avatar/cc4574772f221193f5f060bf91606997.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "UCLA, CSULB, Otis College"
+      "organization": "UCLA, CSULB, Otis College",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     },
     {
+      "uid": "3974",
+      "uuid": "b6d61aab-2a0a-4fa4-8632-ed77fd2d2461",
       "name": "Dawn Fratini",
       "title": "Adjunct Professor",
       "mail": "dawn-fratini@alumni.ucla.edu",
@@ -83,7 +108,14 @@
         "original_title": null,
         "original_url": "cinemamediations.wordpress.com"
       },
-      "organization": "Chapman University"
+      "organization": "Chapman University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Sunday, March 22, 2015",

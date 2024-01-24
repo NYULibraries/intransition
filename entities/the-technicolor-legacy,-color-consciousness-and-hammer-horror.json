@@ -1,6 +1,8 @@
 {
   "id": "1623",
   "title": "The Technicolor Legacy, Color Consciousness and Hammer Horror",
+  "article_path": "/intransition/technicolor-legacy-color-consciousness-and-hammer-horror",
+  "article_order_within": 7,
   "embed": [
     "https://player.vimeo.com/video/321951922"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 6.3, 2019",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-63-2019",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202019-08-18%20at%2010.04.28%20AM.png",
+      "body": "<p>Welcome to issue 6.3 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All eight of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>We would also like to offer a warm welcome to the two newest members of the <em>[in]Transition </em>editorial team:  Kevin Ferguson (Associate Professor of English at Queens College, City University of New York) and Neepa Majumdar (Associate Professor of English and Film Studies, University of Pittsburgh).  We've been working with Kevin and Neepa for a couple months now and greatly appreciate their enthusiasm for diving into our editorial review process and work on this issue.  </p>\n<p><em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>\n<p>Drew Morton</p>"
     }
   ],
   "reviews": [
@@ -76,12 +81,21 @@
   ],
   "contributors": [
     {
+      "uid": "18808",
+      "uuid": "7852ca32-6c37-42e2-bd89-6b3c2a92595f",
       "name": "Paul Frith",
       "title": "Senior Research Associate",
       "mail": "paul.frith@uea.ac.uk",
       "picture": "http://www.gravatar.com/avatar/0795c0291441fd4f32692b2859cdccaf.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of East Anglia, UK"
+      "organization": "University of East Anglia, UK",
+      "biography": "<p>Paul Frith is a post-doctoral research associate on the AHRC funded project ‘The Eastmancolor Revolution and British Cinema, 1955-1985’, based at the University of East Anglia (UK). In 2014, he completed his thesis on horror and realism in Britain during the 1940s, with publications on this subject appearing in The Journal of British Cinema and Television and Horror Studies. His research specialism is in British cinema with an emphasis upon censorship, horror, and amateur filmmaking. He is also the co-author of Colour Films in Britain: The Eastmancolor Revolution to be published by Bloomsbury in 2021.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, August 13, 2019",

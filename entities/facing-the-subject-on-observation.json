@@ -1,6 +1,8 @@
 {
   "id": "92",
   "title": "Facing the Subject (On Observation) ",
+  "article_path": "/intransition/2016/03/14/facing-subject-observation",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/137801312"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.1, 2016",
+      "path": "/intransition/issue-3-1",
       "editors": [
         {
           "name": "Catherine Grant",
@@ -29,7 +32,9 @@
           "organization": "Aarhus Universitet"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//sites/mediacommons.futureofthebook.org.intransition/theme-weeks/%5Bin%5DTransition-3-1-theme-week-image-450-x-175_0.jpg",
+      "body": "<p>Welcome to the latest issue of <strong>[in]Transition</strong> devoted exclusively to peer-reviewed videographic work. The videos in this issue were all screened at a <a href=\"http://www.essayfilmfestival.com/session-3-the-academic-audiovisual-essay-intransition-preview-screenings/\" target=\"_blank\">special preview event</a> devoted to the academic audiovisual essay held at the annual <a href=\"http://www.essayfilmfestival.com/\" target=\"_blank\">Essay Film Festival</a> (Birkbeck Institute for the Moving Image, University of London/Institute of Contemporary Arts, UK) on March 19, 2016.</p>\n<p>As usual, each video is accompanied by a curatorial statement from the maker, as well as peer reviewer evaluations. We publish these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid and valuable scholarship in this emerging form. We invite readers and viewers to join this conversation in the same spirit. Just register as a member of the MediaCommons network and leave a comment in the thread at the foot of each entry.</p>\n<p><strong>[in]Transition</strong> welcomes submissions of videographic work for peer-reviewed publication in subsequent issues. To find out  how to submit your work please click on the Contribute to <strong>[in]Transition</strong> tab above. To learn about new issues, calls for special issue submissions, and other news, <a href=\"https://groups.google.com/forum/#!forum/intransition-announcements\" target=\"_blank\">please subscribe</a> to our announcement email list! And follow us on <a href=\"https://twitter.com/inTransitionCMS\">Twitter</a> and <a href=\"https://www.facebook.com/intransitionjournal/\" target=\"_blank\">Facebook</a>:</p>\n<p>Catherine Grant<br /> Editor, <strong>[in]Transition</strong> 3.1, March/April 2016</p>"
     }
   ],
   "reviews": [
@@ -60,11 +65,11 @@
         },
         {
           "name": "Richard Misek",
-          "title": "Lecturer in Media",
-          "mail": "r.e.misek@kent.ac.uk",
-          "picture": "http://www.gravatar.com/avatar/631e41c764722cced8b0fa0c0a189193.jpg?d=identicon&s=150&r=G",
+          "title": "Professor in Screen Media",
+          "mail": "richardmisek@gmail.com",
+          "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Kent"
+          "organization": "University of Bergen"
         }
       ],
       "body": "<p>This is really a strong piece of work that demonstrates the potential of the longer-duration video essay to articulate and develop an argument of equivalent complexity to a conventional article.</p>\n<p> </p>\n<p>It’s certainly not a video to skim over breakfast – not only because of its length but also because of the mode of viewing that it encourages. The video makes the case for ‘observation’ as a reflexive form of looking, distinguished from the gaze by an acknowledgement of the fact that the object of your look always literally or figuratively looks back at you. The argument, developed through an exploration of various clips of filmmakers observing animals, is clearly articulated, and culminates in a powerful assertion of the importance of filming at research centers that experiment with animals. What I find most impressive about the video, however, is the way in which it supports viewers’ own acts of ‘observation’. It does so in various ways – for example, through the studied rhythm of its editing, through its carefully paced voice over, and through its willingness on occasion to leave the viewer alone with an image. All of these techniques provide space for me to reflect on what I was seeing and hearing, to engage in a mental dialog with the author with the same reciprocity that distinguishes observation from the gaze, and so utilize precisely the ‘visual thinking’ that the video advocates. </p>\n<p> </p>\n<p>It was especially interesting to look at animals in the process of looking – trying to get to grips with an image of an animal trying to get to grips with what it was seeing, and so seeing my own look doubled. At times, I even imagined my own scrutiny of the animal faces in the video scrutinized in turn by those I was observing. Was the orangutan in Nicolas Philibert’s <em>Nénette</em> also engaging in visual thinking? Of course, these reflexive thoughts did not occur by chance. They came about as a result of the video’s rhetorical structure. If its ultimate aim is to make the viewer engage more actively with animal consciousness, then – in my own experience of watching at least – the video was wholly effective. It articulated empathetic ‘observation’, exemplified it, and helped me to engage in it myself. </p>\n"
@@ -72,6 +77,8 @@
   ],
   "contributors": [
     {
+      "uid": "4198",
+      "uuid": "145837b3-386d-4b15-a2ac-ddc17f98492a",
       "name": "Irene Gustafson",
       "title": "Associate Professor",
       "mail": "ireneg@ucsc.edu",
@@ -83,7 +90,14 @@
         "original_title": "",
         "original_url": "http://film.ucsc.edu/"
       },
-      "organization": "University of California Santa Cruz"
+      "organization": "University of California Santa Cruz",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, March 14, 2016",

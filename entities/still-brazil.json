@@ -1,6 +1,8 @@
 {
   "id": "118",
   "title": "Still Brazil",
+  "article_path": "/intransition/2016/still-brazil",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/181277090"
   ],
@@ -13,6 +15,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 3.3, 2016",
+      "path": "/intransition/theme-week/issue-3-3",
       "editors": [
         {
           "name": "Nicolas Poppe",
@@ -31,7 +34,9 @@
           "organization": "Castleton University"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202016-10-30%20at%205.16.01%20PM.png",
+      "body": "<p><strong>Special Issue: Latin American Cinema</strong></p>\n<p>This guest-edited special issue of <em>[in]Transition</em> is devoted to videographic work on Latin American cinema. While some of the contributors had prior video-editing experience, others were first-time makers. The first four videos are accompanied by a curatorial statement from the maker, as well as peer reviewer evaluations.  The final video is a selection that has been specially curated for this issue.</p>\n<p>Nicolas Poppe (Middlebury College) and Michael Talbott (Castleton University) - Guest Editors</p>\n<p>(with support from Christian Keathley for <em>[in]Transition)</em></p>"
     }
   ],
   "reviews": [
@@ -74,6 +79,8 @@
   ],
   "contributors": [
     {
+      "uid": "4390",
+      "uuid": "1ab6215c-6ce5-4018-a2b7-0d22b5b08a3a",
       "name": "Stefan Solomon",
       "title": "Senior Lecturer in Media Studies",
       "mail": "stefan.solomon@mq.edu.au",
@@ -85,7 +92,14 @@
         "original_title": "",
         "original_url": "https://researchers.mq.edu.au/en/persons/stefan-solomon"
       },
-      "organization": "Macquarie University"
+      "organization": "Macquarie University",
+      "biography": "",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@StefanSolomon7",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Friday, October 7, 2016",

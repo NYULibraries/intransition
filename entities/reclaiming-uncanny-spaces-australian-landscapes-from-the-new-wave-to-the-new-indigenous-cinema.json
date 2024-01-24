@@ -1,6 +1,8 @@
 {
   "id": "1873",
   "title": "Reclaiming Uncanny Spaces: Australian Landscapes from the New Wave to the New Indigenous Cinema",
+  "article_path": "/intransition/reclaiming-uncanny-spaces-australian-landscapes-new-wave-new-indigenous-cinema",
+  "article_order_within": 2,
   "embed": [
     "https://player.vimeo.com/video/367517102"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.1, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-71-2020",
       "editors": [
         {
           "name": "Drew Morton",
@@ -27,7 +30,9 @@
           "organization": "Texas A&M University-Texarkana"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-04-14%20at%201.59.55%20PM.png",
+      "body": "<p>Welcome to issue 7.1 of <em>[in]Transition</em>, a journal devoted exclusively to peer-reviewed videographic work. All of the issue's videos are accompanied by curatorial statements from their makers, as well as peer reviewers' evaluations. As usual, we are publishing these peer reviews in the spirit of openness, to encourage scholarship as conversation, and to help our discipline establish a set of criteria for what constitutes valid scholarship in this emerging form. We welcome readers and viewers to join this conversation in the same spirit. </p>\n<p>As the editor on duty, I just want to take a moment to thank all of the editors, contributors, and peer reviewers for assisting me in shepherding this issue through to publication. Initially slated for publication during the annual Society for Cinema and Media Studies Conference to launch into our seventh year as a journal, the issue was delayed due to the COVID-19 pandemic and all of the moving parts that seem to be part of our new normal (getting online courses ready, taking care of children who may be home from school, etc.). Yet, all of our personnel felt proud of the work that had already been done and shared the sentiment that it might be a nice repreive from the news to focus on a project for a bit. I appreciate all your hard work. Thank you. </p>\n<p>As always, <em>[in]Transition</em> is accepting submissions of videographic work for peer-reviewed publication in subsequent issues. However, please note that due to the recent developments related to COVID-19 and how it is affecting our work, it might take longer than usual for us to make a decision regarding your submission. You can find out further information about this by clicking on the \"Contribute to<em> [in]Transition\"</em> tab above.</p>"
     }
   ],
   "reviews": [
@@ -76,12 +81,21 @@
   ],
   "contributors": [
     {
+      "uid": "19103",
+      "uuid": "4f451f59-f7a7-4a2b-884c-53688009d31e",
       "name": "Matthew Campora",
       "title": "Head of Screen Studies",
       "mail": "m.campora@outlook.com",
       "picture": "http://www.gravatar.com/avatar/9614754d5314ef5fb61ea9fc30238a0c.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "Australian Film Television and Radio School"
+      "organization": "Australian Film Television and Radio School",
+      "biography": "<p>Matthew Campora is the Head of Screen Studies at the Australian Film Television and Radio School. He is the author of &quot;Subjective Realist Cinema: From Expressionism to Inception&quot; (2014) and completed an MPhil in literature and a PhD in film studies at the University of Queensland.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Monday, March 30, 2020",

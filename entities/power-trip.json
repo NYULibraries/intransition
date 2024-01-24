@@ -1,6 +1,8 @@
 {
   "id": "1909",
   "title": "Power Trip",
+  "article_path": "/intransition/power-trip",
+  "article_order_within": 1,
   "embed": [
     "https://player.vimeo.com/video/256548928?title=0&byline=0&portrait=0"
   ],
@@ -11,6 +13,7 @@
   "part_of": [
     {
       "title": "Journal of Videographic Film & Moving Image Studies, 7.2, 2020",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-72-2020",
       "editors": [
         {
           "name": "Christian Keathley",
@@ -21,7 +24,9 @@
           "organization": "Middlebury College"
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screen%20Shot%202020-08-31%20at%202.10.19%20PM.png",
+      "body": "<p>Welcome back -- and welcome to issue 7.2 of <em><strong>[in]Transition</strong></em>. We hit pause for a while back in the spring, but we are pleased to return with more new videographic scholarship.</p>"
     }
   ],
   "reviews": [
@@ -70,6 +75,8 @@
   ],
   "contributors": [
     {
+      "uid": "18984",
+      "uuid": "bf1630da-e519-493c-ae6b-0d7fcb72cce9",
       "name": "Christopher Boulton",
       "title": "Associate Professor",
       "mail": "cboulton@ut.edu",
@@ -81,7 +88,14 @@
         "original_title": "Online Portfolio",
         "original_url": "https://cboulton.weebly.com"
       },
-      "organization": "The University of Tampa"
+      "organization": "The University of Tampa",
+      "biography": "<p>Boulton began his career at Mister Rogers&#039; Neighborhood, then taught documentary film production in Ecuador before returning to write and produce for Travel Channel, CourtTV (now TruTV) and Discovery Channel. His writings appear in Howard Journal of Communications, tripleC: Communication, Capitalism &amp; Critique, International Journal of Communication, Advertising &amp; Society Review, Communication Review, Journal of Media Literacy Education, Debates for the Digital Age, Media Education for a Digital Generation, and The Routledge Companion to Advertising and Promotional Culture. His films have shown at festivals all over the world including Filmwinter in Germany, Percé in Canada, Girona in Spain, Rincon in Puerto Rico, Revelation in Australia, On Art in Poland, Besides the Screen in Brazil, and the Fort Lauderdale, Sarasota, Santa Cruz, Chagrin, and Cinema on the Bayou film festivals in the United States.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": "@DocBoulton",
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Saturday, August 29, 2020",
