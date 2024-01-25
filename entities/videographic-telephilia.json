@@ -1,5 +1,6 @@
 {
   "id": "132",
+  "uuid": "fc722396-bf9d-4c25-b702-bbedc7cce339",
   "title": "Videographic Telephilia",
   "article_path": "/intransition/2017/videographic-telephilia",
   "article_order_within": 4,
@@ -15,6 +16,8 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-03-22%20at%2012.43.06%20PM.png",
   "part_of": [
     {
+      "id": "274",
+      "uuid": "210db712-c413-442d-89d0-828116bd7d64",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
       "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],

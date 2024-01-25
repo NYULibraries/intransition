@@ -1,5 +1,6 @@
 {
   "id": "2293",
+  "uuid": "6b9214ce-3227-4105-b010-06f67036cb8a",
   "title": "TV Dictionary - Maid ",
   "article_path": "/intransition/tv-dictionary-maid",
   "article_order_within": 7,
@@ -15,10 +16,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/7_1.png",
   "part_of": [
     {
+      "id": "2280",
+      "uuid": "7eb734c7-e32d-43ca-982b-28c892caa340",
       "title": "Journal of Videographic Film & Moving Image Studies, 10.4B, 2024",
       "path": "/intransition/journal-videographic-film-moving-image-studies-104b-2024",
       "editors": [
         {
+          "uid": "20432",
+          "uuid": "9220060d-329e-43e5-999d-998684330d46",
           "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
@@ -30,19 +35,37 @@
             "original_title": "Website",
             "original_url": "tinyurl.com/Ariel-Avissar"
           },
-          "organization": "Tel Aviv University"
+          "organization": "Tel Aviv University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@ariel_avissar",
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [
         {
+          "uid": "3387",
+          "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
           "name": "Chiara Grizzaffi",
           "title": "Dr",
           "mail": "chiara.grizzaffi@gmail.com",
           "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Università IULM - Milan"
+          "organization": "Università IULM - Milan",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -54,7 +77,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//landing%20image_0.png",

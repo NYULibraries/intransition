@@ -1,5 +1,6 @@
 {
   "id": "44",
+  "uuid": "fcdd9a62-25ee-4fe9-a1af-54ae968e1b17",
   "title": "\"Look. I Know You're Not Following What I'm Saying Anyway.\": The Problem of the \"Video Essay\" and Scorsese as Cinematic Essayist",
   "article_path": "/intransition/2014/12/12/look-i-know-youre-not-following-what-im-saying-anyway-problem-video-essay-and-scorsese-ci",
   "article_order_within": 1,
@@ -18,10 +19,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/2013-THE-WOLF-OF-WALL-STR-009.jpg",
   "part_of": [
     {
+      "id": "220",
+      "uuid": "5c5e4381-c02a-4e6c-976f-5a404ecb885a",
       "title": "Journal of Videographic Film & Moving Image Studies, 1.4, 2014",
       "path": "/intransition/theme-week/2014/50/journal-videographic-film-moving-image-studies-14-2014",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -33,7 +38,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

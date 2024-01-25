@@ -1,5 +1,6 @@
 {
   "id": "166",
+  "uuid": "b8d441aa-ddb6-4100-93cf-46846bddc823",
   "title": "The Ear That Dreams: Eye Tracking Sound in the Moving Image",
   "article_path": "/intransition/2017/09/07/ear-dreams-eye-tracking-sound-moving-image",
   "article_order_within": 3,
@@ -14,32 +15,61 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/All%20SPR%20inner%20perspective%20no%20sound%20heatmap.jpg",
   "part_of": [
     {
+      "id": "291",
+      "uuid": "14ae25c3-307b-4c59-b880-b2b58542b5f3",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.3, 2017",
       "path": "/intransition/theme-week/2017/36/poetics-eye-tracking",
       "editors": [
         {
+          "uid": "4189",
+          "uuid": "36bf4b3b-0030-46cf-b8d1-03cb33bb118f",
           "name": "Tessa Dwyer",
           "title": null,
           "mail": "trdwyer@unimelb.edu.au",
           "picture": "http://www.gravatar.com/avatar/eb4f316f7b547479c099adbc2d6fdb3f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Monash University"
+          "organization": "Monash University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "4267",
+          "uuid": "1649906e-4dc9-48ce-a79c-22d90b5da078",
           "name": "Sean Redmond",
           "title": "Assoc Professor of Screen and Design",
           "mail": "s.redmond@deakin.edu.au",
           "picture": "http://www.gravatar.com/avatar/43c2214f97aa431c1c5497aec0fe06cd.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Deakin University"
+          "organization": "Deakin University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "4693",
+          "uuid": "b967df4f-125b-4915-95c0-9e40af6d01e1",
           "name": "Claire Perkins",
           "title": "Dr in Film and Media studies",
           "mail": "claire.perkins@monash.edu",
           "picture": "http://www.gravatar.com/avatar/b70b18a2841edd09e63f4081459b62d6.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Monash University"
+          "organization": "Monash University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

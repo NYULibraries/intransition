@@ -1,5 +1,6 @@
 {
   "id": "148",
+  "uuid": "c75eefb7-3398-48a5-b707-716eaea1007d",
   "title": "The Blackout Period",
   "article_path": "/intransition/2017/06/01/blackout-period",
   "article_order_within": 5,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-07-20%20at%2011.28.01%20AM.png",
   "part_of": [
     {
+      "id": "280",
+      "uuid": "edb624f4-c44d-4803-9d53-4482a812677f",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.2a, 2017",
       "path": "/intransition/2017/issue-4-2a",
       "editors": [
         {
+          "uid": "3552",
+          "uuid": "b30e46c2-9cb0-4582-b379-29824b5d6089",
           "name": "Richard Misek",
           "title": "Professor in Screen Media",
           "mail": "richardmisek@gmail.com",
           "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Bergen"
+          "organization": "University of Bergen",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

@@ -1,5 +1,6 @@
 {
   "id": "72",
+  "uuid": "36194488-3366-485d-a8f8-3196a3626c1d",
   "title": "There Is Nothing Outside the Real: Preston Sturges on André Bazin",
   "article_path": "/intransition/2015/07/29/there-nothing-outside-real",
   "article_order_within": 5,
@@ -14,10 +15,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202015-08-05%20at%209.07.43%20AM.png",
   "part_of": [
     {
+      "id": "238",
+      "uuid": "44a2e903-e262-4e0a-8cad-b62a49a1ccf1",
       "title": "Journal of Videographic Film & Moving Image Studies, 2.3, 2015",
       "path": "/intransition/theme-week/2015/32/journal-videographic-film-moving-image-studies-23-2015",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -29,7 +34,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

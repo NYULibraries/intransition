@@ -1,6 +1,9 @@
 {
   "id": "2042",
+  "uuid": "fca33d34-a601-4426-b29a-6dd41fbac62f",
   "title": "Setting the Scene: The Opening 164 Seconds of The Wire",
+  "article_path": "/intransition/setting-scene-opening-164-seconds-wire",
+  "article_order_within": 3,
   "embed": [
     "https://player.vimeo.com/video/431446696?h=e0558514ee"
   ],
@@ -10,9 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screenshot%202021-10-12%20at%2012.20.33.png",
   "part_of": [
     {
+      "id": "2038",
+      "uuid": "086883fe-ce53-403b-9be8-5bc753b2c035",
       "title": "Journal of Videographic Film & Moving Image Studies, 8.3, 2021",
+      "path": "/intransition/journal-videographic-film-moving-image-studies-83-2021",
       "editors": [
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -24,18 +32,36 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         },
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
-          "name": null,
+          "uid": "20432",
+          "uuid": "9220060d-329e-43e5-999d-998684330d46",
+          "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
           "picture": "http://www.gravatar.com/avatar/d37f4ebbfa2b2d5bc270c1da8f6bd741.jpg?d=identicon&s=150&r=G",
@@ -46,10 +72,19 @@
             "original_title": "Website",
             "original_url": "tinyurl.com/Ariel-Avissar"
           },
-          "organization": "Tel Aviv University"
+          "organization": "Tel Aviv University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@ariel_avissar",
+            "aim": null,
+            "skype": null
+          }
         }
       ],
-      "coeditors": []
+      "coeditors": [],
+      "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//Screenshot%202021-10-07%20at%2014.11.04.png",
+      "body": "<p>Welcome to <em>[in]Transition</em>’s third issue of 2021, 8.3. This issue features a variety of peer-reviewed videographic work focused on a fascinating array of film and moving image studies topics: the opening seconds of <em>The Wire</em>, women and filmic figurations of the home, the cinematic mise-en-scène of moments of recognition, Barbara Stanwyck's horseback riding, and a consideration of how the stethoscope might reveal something about the medium of cinema.  </p>\n<p>As always, we invite our readers to add their own reflective comments to the entries in this issue as well as to consider submitting their own videographic scholarship and criticism to our journal. You can review our submission guidelines <a href=\"https://nam10.safelinks.protection.outlook.com/?url=http%3A%2F%2Fmediacommons.org%2Fintransition%2Fhow-it-works&amp;data=04%7C01%7Cdmorton%40tamut.edu%7C315721a24b3949ef698a08d93be7535d%7C5f2c2bb0aacd4a1da7ede3173a841ab0%7C0%7C0%7C637606687444098718%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=VziMUQjh1J0%2FrywzWHRRHWAqX7C7A1yEWpSbAtPfCwc%3D&amp;reserved=0\">here</a>.  </p>\n"
     }
   ],
   "reviews": [
@@ -104,12 +139,21 @@
   ],
   "contributors": [
     {
-      "name": "Erlend Lavik",
+      "uid": "20491",
+      "uuid": "5da5b975-e0f2-4a14-9382-055205cd0dfd",
+      "name": null,
       "title": "Professor",
       "mail": "erlend.lavik@uib.no",
       "picture": "http://www.gravatar.com/avatar/1274c302ce5eaf26766a67c0de684c2c.jpg?d=identicon&s=150&r=G",
       "url": null,
-      "organization": "University of Bergen"
+      "organization": "University of Bergen",
+      "biography": "<p>Erlend Lavik is professor of media studies at the Department of Information Science and Media Studies, University of Bergen, where he is Head of the BA program in TV Production. He has published video essays, books, and articles mainly in the field of film and television studies, though also written on aesthetic philosophy, authorship/copyright, and the public sphere.</p>\n",
+      "research_interests": [],
+      "social_links": {
+        "twitter": null,
+        "aim": null,
+        "skype": null
+      }
     }
   ],
   "date": "Tuesday, October 5, 2021",

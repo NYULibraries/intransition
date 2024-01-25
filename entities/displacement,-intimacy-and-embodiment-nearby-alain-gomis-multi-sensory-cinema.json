@@ -1,5 +1,6 @@
 {
   "id": "2093",
+  "uuid": "d0b41afb-9334-4309-9acc-d0b55662b6b9",
   "title": "Displacement, Intimacy & Embodiment: Nearby Alain Gomis’ Multi Sensory Cinema",
   "article_path": "/intransition/displacement-intimacy-embodiment-nearby-alain-gomis’-multi-sensory-cinema",
   "article_order_within": 2,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screenshot%202022-09-02%20at%2013.41.30.png",
   "part_of": [
     {
+      "id": "2088",
+      "uuid": "8635e154-4a69-4577-9acc-e8ebc00b2717",
       "title": "Journal of Videographic Film & Moving Image Studies, 9.2, 2022",
       "path": "/intransition/journal-videographic-film-moving-image-studies-92-2022",
       "editors": [
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -27,17 +32,35 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         },
         {
+          "uid": "18461",
+          "uuid": "c1a09fdb-6413-47fb-bb72-461cc64f13d9",
           "name": "Neepa Majumdar",
           "title": null,
           "mail": "neepamajumdar@gmail.com",
           "picture": "http://www.gravatar.com/avatar/3fa351ecf6b32055a2e5130465293bbe.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Pittsburgh"
+          "organization": "University of Pittsburgh",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "2659",
+          "uuid": "c7e18e8c-e2c5-477c-b081-06fac6ba63be",
           "name": "Juan Llamas-Rodriguez",
           "title": "Assistant Professor",
           "mail": "Juan.llamasrdz@gmail.com",
@@ -49,17 +72,35 @@
             "original_title": "",
             "original_url": "http://www.llamas-rodriguez.com"
           },
-          "organization": "University of Pennsylvania, Annenberg School for Communication"
+          "organization": "University of Pennsylvania, Annenberg School for Communication",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -71,7 +112,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

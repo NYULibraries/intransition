@@ -1,5 +1,6 @@
 {
   "id": "42",
+  "uuid": "3f3e1bfc-1c73-4c9c-a017-5a4a79008fd7",
   "title": "Revisiting Spike Lee’s “Racial Slur Montage”: Ya Need to Cool that Shit Out",
   "article_path": "/intransition/2014/12/12/revisiting-spike-lee-s-racial-slur-montage-ya-need-cool-shit-out",
   "article_order_within": 2,
@@ -14,10 +15,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/samuel%20l%20jackson%20do%20the%20right%20thing.jpg",
   "part_of": [
     {
+      "id": "220",
+      "uuid": "5c5e4381-c02a-4e6c-976f-5a404ecb885a",
       "title": "Journal of Videographic Film & Moving Image Studies, 1.4, 2014",
       "path": "/intransition/theme-week/2014/50/journal-videographic-film-moving-image-studies-14-2014",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -29,7 +34,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

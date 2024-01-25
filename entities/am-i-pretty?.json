@@ -1,5 +1,6 @@
 {
   "id": "1179",
+  "uuid": "87c02a58-29e4-4691-902a-937486bdd27c",
   "title": "Am I Pretty?",
   "article_path": "/intransition/am-i-pretty",
   "article_order_within": 6,
@@ -12,24 +13,44 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Proctor_Thumb.png",
   "part_of": [
     {
+      "id": "1109",
+      "uuid": "6f0e70df-8af4-4ef6-a334-04e5a55af10e",
       "title": "Journal of Videographic Film & Moving Image Studies, 6.2, 2019",
       "path": "/intransition/intransition-audiographic-6-2019",
       "editors": [
         {
+          "uid": "18408",
+          "uuid": "39455a0a-c49a-4849-aee5-effa5d9df9c9",
           "name": "Neil Verma",
           "title": "Assistant Professor",
           "mail": "neil.verma@northwestern.edu",
           "picture": "http://www.gravatar.com/avatar/6d039bf82e5ffc3a3f961c716d26961b.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Northwestern University"
+          "organization": "Northwestern University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@nkhverma",
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "13703",
+          "uuid": "d75a3e2e-f274-49e5-8566-84ba87b59633",
           "name": "Jacob Smith",
           "title": null,
           "mail": "jacob-smith@northwestern.edu",
           "picture": "http://www.gravatar.com/avatar/605129431c2c51f425841d36651015da.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Northwestern University"
+          "organization": "Northwestern University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

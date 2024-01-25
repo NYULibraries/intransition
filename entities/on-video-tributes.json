@@ -1,5 +1,6 @@
 {
   "id": "28",
+  "uuid": "7a614952-c91c-45bf-a00a-5a453785fa81",
   "title": "On Video Tributes",
   "article_path": "/intransition/2014/06/23/video-tributes",
   "article_order_within": 3,
@@ -16,16 +17,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202014-06-29%20at%2012.33.23%20PM.png",
   "part_of": [
     {
+      "id": "208",
+      "uuid": "dd2ef3d4-d0cc-420d-ab60-a624efb656a4",
       "title": "Journal of Videographic Film & Moving Image Studies, 1.2, 2014",
       "path": "/intransition/theme-week/2014/25/journal-videographic-film-moving-image-studies-12-2014",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

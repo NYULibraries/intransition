@@ -1,5 +1,6 @@
 {
   "id": "188",
+  "uuid": "f29dfe3b-abc3-4c61-a08f-639e256f7040",
   "title": "Cinders of La Invasion",
   "article_path": "/intransition/2018/03/08/cinders-la-invasion",
   "article_order_within": 4,
@@ -14,18 +15,31 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202018-03-08%20at%2012.58.10%20PM.png",
   "part_of": [
     {
+      "id": "303",
+      "uuid": "43f0970f-5060-4978-bca6-1f25637097a2",
       "title": "Journal of Videographic Film & Moving Image Studies, 5.1, 2018",
       "path": "/intransition/theme-week/2018/10/journal-videographic-film-mloving-image-studies-51-2018",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "133",
+          "uuid": "60f82e19-a370-4479-9908-23410a020f4a",
           "name": "Jason Mittell",
           "title": "Professor of Film & Media Culture and American Studies",
           "mail": "jmittell@middlebury.edu",
@@ -37,7 +51,14 @@
             "original_title": "",
             "original_url": "http://justtv.wordpress.com"
           },
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "<p>Jason Mittell is Professor of Film &amp; Media Culture at Middlebury College, and Project Manager of <em>[in]Transition</em>. He is the author of <em>Genre and Television: From Cop Shows to Cartoons in American Culture</em> (Routledge, 2004), <em>Television and American Culture</em> (Oxford University Press, 2009), <em>Complex TV: The Poetics of Contemporary Television Storytelling</em>, <em>Narrative Theory and </em>Adaptation. (Bloomsbury, 2019), and <a href=\"http://videographicessay.org\" target=\"_blank\"><em>The Videographic Essay: Pedagogic and Practice</em></a> (with Christian Keathley and Catherine Grant, 2019), and co-editor with Ethan Thompson of <em>How to Watch Television</em> (NYU Press, 2013, revised 2020).</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "jmittell",
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

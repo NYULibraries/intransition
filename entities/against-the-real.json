@@ -1,5 +1,6 @@
 {
   "id": "62",
+  "uuid": "ef88c6ef-cd9d-4a66-9bef-9e94402336c9",
   "title": "Against the Real",
   "article_path": "/intransition/2015/05/25/against-real",
   "article_order_within": 2,
@@ -19,10 +20,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202015-05-22%20at%2015.26.54.png",
   "part_of": [
     {
+      "id": "232",
+      "uuid": "175f9c23-3f31-4800-a05f-9641aeca36a0",
       "title": "Journal of Videographic Film & Moving Image Studies, 2.2, 2015",
       "path": "/intransition/theme-week/2015/21/journal-videographic-film-moving-image-studies-22-2015",
       "editors": [
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -34,7 +39,14 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         }
       ],
       "coeditors": [],

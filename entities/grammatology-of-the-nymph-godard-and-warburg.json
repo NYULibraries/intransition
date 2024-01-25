@@ -1,5 +1,6 @@
 {
   "id": "2010",
+  "uuid": "9543564d-ea3f-4e68-a081-ed95f621c7e5",
   "title": "Grammatology of the Nymph: Godard and Warburg",
   "article_path": "/intransition/grammatology-nymph-godard-and-warburg",
   "article_order_within": 3,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Duarte.jpg",
   "part_of": [
     {
+      "id": "2003",
+      "uuid": "355ba96f-4bdf-4f52-bdae-fc13f9ea5694",
       "title": "Journal of Videographic Film & Moving Image Studies, 8.1, 2021",
       "path": "/intransition/journal-videographic-film-moving-image-studies-81-2021",
       "editors": [
         {
+          "uid": "3769",
+          "uuid": "ff6e8892-a608-443e-b805-fae684ec26bc",
           "name": "Kevin L. Ferguson",
           "title": "Associate Professor",
           "mail": "kevinlferguson9@gmail.com",
@@ -27,7 +32,14 @@
             "original_title": "",
             "original_url": "http://english.qc.cuny.edu/quick-links/kevin-ferguson/"
           },
-          "organization": "Queens College / CUNY"
+          "organization": "Queens College / CUNY",
+          "biography": "<p>Kevin L. Ferguson is associate professor of English at Queens College, City University of New York, where he directs Writing at Queens and teaches undergraduate and graduate courses on digital humanities, film adaptation, college writing, and contemporary American literature.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

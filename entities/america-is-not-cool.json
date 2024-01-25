@@ -1,5 +1,6 @@
 {
   "id": "796",
+  "uuid": "cdd04842-cafe-4d47-8a38-aa24d2cfaa43",
   "title": "America is (Not) Cool",
   "article_path": "/intransition/america-not-cool",
   "article_order_within": 4,
@@ -12,16 +13,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202018-10-02%20at%2012.42.16%20PM.png",
   "part_of": [
     {
+      "id": "776",
+      "uuid": "a6dd535b-88e1-4621-bd5e-64e4c72452d0",
       "title": "Journal of Videographic Film & Moving Image Studies, 5.3, 2018",
       "path": "/intransition/journal-videographic-film-moving-image-studies-53-2018",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

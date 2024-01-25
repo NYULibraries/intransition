@@ -1,5 +1,6 @@
 {
   "id": "136",
+  "uuid": "1a9812b6-1f5f-4cc7-a316-2f60a22f0294",
   "title": "Digital Technologies and Videographic Research Practice",
   "article_path": "/intransition/2017/03/17/videographic-work-research-tool",
   "article_order_within": 3,
@@ -15,6 +16,8 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-03-22%20at%209.23.38%20AM.png",
   "part_of": [
     {
+      "id": "274",
+      "uuid": "210db712-c413-442d-89d0-828116bd7d64",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
       "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],

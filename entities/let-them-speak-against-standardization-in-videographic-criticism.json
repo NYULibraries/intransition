@@ -1,5 +1,6 @@
 {
   "id": "138",
+  "uuid": "d6cac95b-514f-4f2c-87fe-eea6eee36a97",
   "title": "Let Them Speak! Against Standardization in Videographic Criticism ",
   "article_path": "/intransition/2017/let-them-speak-against-standardization-videographic-criticism",
   "article_order_within": 2,
@@ -16,6 +17,8 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-03-22%20at%209.26.23%20AM.png",
   "part_of": [
     {
+      "id": "274",
+      "uuid": "210db712-c413-442d-89d0-828116bd7d64",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
       "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],

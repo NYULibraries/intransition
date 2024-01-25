@@ -1,5 +1,6 @@
 {
   "id": "124",
+  "uuid": "6c060c6b-1a13-4896-a2a1-3b3eed0c1999",
   "title": "Thinking Through Acting: Performative Indices and Philosophical Assertions",
   "article_path": "/intransition/2016/11/22/thinking-through-acting-performative-indices-and-philosophical-assertions",
   "article_order_within": 1,
@@ -14,10 +15,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202016-12-21%20at%2010.38.08.png",
   "part_of": [
     {
+      "id": "268",
+      "uuid": "8b280237-a10d-4496-a240-4eabd773f0ad",
       "title": "Journal of Videographic Film & Moving Image Studies, 3.4, 2016",
       "path": "/intransition/theme-week/2016/51/journal-videographic-film-moving-image-studies-34-2016",
       "editors": [
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -29,15 +34,31 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         },
         {
+          "uid": "3387",
+          "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
           "name": "Chiara Grizzaffi",
           "title": "Dr",
           "mail": "chiara.grizzaffi@gmail.com",
           "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Università IULM - Milan"
+          "organization": "Università IULM - Milan",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

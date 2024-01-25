@@ -1,5 +1,6 @@
 {
   "id": "2274",
+  "uuid": "bb41f664-03d2-4807-b64b-53e84564ec43",
   "title": "Experiments on Women’s Time-Image / Liminal Time",
   "article_path": "/intransition/experiments-women’s-time-image-liminal-time",
   "article_order_within": 6,
@@ -14,10 +15,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/6_1.png",
   "part_of": [
     {
+      "id": "2262",
+      "uuid": "a479905f-1dac-4149-b5bc-2f3f6378ff27",
       "title": "Journal of Videographic Film & Moving Image Studies, 10.4A, 2023",
       "path": "/intransition/journal-videographic-film-moving-image-studies-104a-2023",
       "editors": [
         {
+          "uid": "20432",
+          "uuid": "9220060d-329e-43e5-999d-998684330d46",
           "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
@@ -29,11 +34,20 @@
             "original_title": "Website",
             "original_url": "tinyurl.com/Ariel-Avissar"
           },
-          "organization": "Tel Aviv University"
+          "organization": "Tel Aviv University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@ariel_avissar",
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -45,7 +59,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//landing%20image.png",

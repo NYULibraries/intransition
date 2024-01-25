@@ -1,5 +1,6 @@
 {
   "id": "118",
+  "uuid": "c4bf1f9c-3ba1-46c8-9990-2399a7198156",
   "title": "Still Brazil",
   "article_path": "/intransition/2016/still-brazil",
   "article_order_within": 2,
@@ -14,24 +15,44 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202016-10-27%20at%202.46.19%20PM.png",
   "part_of": [
     {
+      "id": "262",
+      "uuid": "1512b7a0-f748-42b6-9f1c-6e57f7502c44",
       "title": "Journal of Videographic Film & Moving Image Studies, 3.3, 2016",
       "path": "/intransition/theme-week/issue-3-3",
       "editors": [
         {
+          "uid": "3707",
+          "uuid": "71ce53f7-942d-46be-9bc6-dc34cd2ec174",
           "name": "Nicolas Poppe",
           "title": "Assistant Professor of Spanish",
           "mail": "npoppe@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/a580906fd85e7e1e7e6c19f0e23f94fd.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "4162",
+          "uuid": "c668f962-b4ba-4cdd-9c90-60eeaef05284",
           "name": "Michael Talbott",
           "title": "Assistant Professor of Cinema Studies",
           "mail": "michael.talbott@castleton.edu",
           "picture": "http://www.gravatar.com/avatar/d9a5d2c3a765ec93caa2bc29d0adabd6.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Castleton University"
+          "organization": "Castleton University",
+          "biography": "<p>Michael Talbott is Assistant Professor and Film Studies Program Coordinator at Castleton University in Vermont. He received his PhD ‘with distinction’ from NYU’s Cinema Studies department for his dissertation “The Familiar Difference of World Cinema: Film Funds, Film Festivals, and the Global South.” He is co-chair of the SCMS Film and Media Festivals Scholarly Interest Group and recipient of an SCMS Writing Award. His work has appeared in the <em>Cinema Journal Teaching Dossier, Moving Image Journal, Film Comment, Film International, and Senses of Cinema</em>.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

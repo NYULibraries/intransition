@@ -1,5 +1,6 @@
 {
   "id": "1886",
+  "uuid": "75dab810-eac2-400f-9b2c-fb54649c975a",
   "title": "Empathy with the Masses",
   "article_path": "/intransition/empathy-masses",
   "article_order_within": 5,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202020-04-14%20at%201.53.00%20PM.png",
   "part_of": [
     {
+      "id": "1867",
+      "uuid": "0f4014e9-9b9c-49c7-9a65-ca2d9f984f96",
       "title": "Journal of Videographic Film & Moving Image Studies, 7.1, 2020",
       "path": "/intransition/journal-videographic-film-moving-image-studies-71-2020",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -27,7 +32,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

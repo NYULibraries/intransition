@@ -1,5 +1,6 @@
 {
   "id": "46",
+  "uuid": "d70fcb3b-900c-4bba-ae00-8b5eb54db013",
   "title": "The Chicken Between the Teeth: Spatial Soliloquy in the Films of Wes Anderson",
   "article_path": "/intransition/2014/12/12/chicken-between-teeth-spatial-soliloquy-films-wes-anderson",
   "article_order_within": 4,
@@ -17,10 +18,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/whackbat.png",
   "part_of": [
     {
+      "id": "220",
+      "uuid": "5c5e4381-c02a-4e6c-976f-5a404ecb885a",
       "title": "Journal of Videographic Film & Moving Image Studies, 1.4, 2014",
       "path": "/intransition/theme-week/2014/50/journal-videographic-film-moving-image-studies-14-2014",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -32,7 +37,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

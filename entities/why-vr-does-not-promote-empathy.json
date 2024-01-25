@@ -1,5 +1,6 @@
 {
   "id": "1914",
+  "uuid": "a60e87df-03e4-4c6a-bceb-0a0c1cc6bdd1",
   "title": "Why VR Does Not Promote Empathy",
   "article_path": "/intransition/why-vr-does-not-promote-empathy",
   "article_order_within": 4,
@@ -12,16 +13,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202020-09-26%20at%207.33.15%20AM.png",
   "part_of": [
     {
+      "id": "1908",
+      "uuid": "117c9e42-1c4b-415e-87e8-578629f025c8",
       "title": "Journal of Videographic Film & Moving Image Studies, 7.2, 2020",
       "path": "/intransition/journal-videographic-film-moving-image-studies-72-2020",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

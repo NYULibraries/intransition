@@ -1,5 +1,6 @@
 {
   "id": "2165",
+  "uuid": "6c093eae-8f68-4320-9384-3d892e9ab73f",
   "title": "The Feminist Narrative: Analysing the Location of Action",
   "article_path": "/intransition/feminist-narrative-analysing-location-action",
   "article_order_within": 6,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screenshot%202023-04-26%20at%2013.23.17.png",
   "part_of": [
     {
+      "id": "2150",
+      "uuid": "e7ffe611-aedb-40b2-b6c8-a1ab91975b6d",
       "title": "Journal of Videographic Film & Moving Image Studies, 10.1, 2023",
       "path": "/intransition/journal-videographic-film-moving-image-studies-101-2023",
       "editors": [
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -27,33 +32,69 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         },
         {
+          "uid": "20270",
+          "uuid": "a5e6c941-c8aa-4cb3-9d24-a02926642a97",
           "name": "Barbara Zecchi",
           "title": "Professor, Director Film Studies Program",
           "mail": "bzecchi@umass.edu",
           "picture": "http://www.gravatar.com/avatar/919db73611b3f3f2f9c0a8c0dead7bbe.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University Massachusetts Amherst"
+          "organization": "University Massachusetts Amherst",
+          "biography": "<p>Zecchi is Professor and Director of the Film Studies Program at the University of Massachusetts Amherst.  She is a feminist film scholar, film festival curator, and video-essayist. She has taught at various universities across Europe and the U.S. lecturing as well as publishing on an extensive range of topics, such as women in film, feminist film theory, and videographic criticism. In addition to over 100 articles and 50 video essays, she is the author, editor, or co-editor of ten volumes, such as _La pantalla sexuada_ and _Teoría y práctica de la adaptación fílmica_. She has organized international conferences as well as co-founded the international research network CinemAGEnder. She also currently directs her open access project &quot;Gynocine: Women Filmmakers, Feminism, and Film Studies&quot; she launched in 2011 that offers an online database with unique resources related to those studying the works of global women filmmakers. Her book _Desenfocadas: Cineastas españolas y discursos de género_ was selected by El Diario as one of the &quot;13 books that have defined the decade&quot;. In 2017, she was elected Associate Member of the Film Academy of Spain.</p>\n",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "2786",
+          "uuid": "ad2ff27b-f6cf-4bd1-954b-19d5bc3513a6",
           "name": "Eva Hageman",
           "title": "Assistant Professor",
           "mail": "ehageman@umd.edu",
           "picture": "http://www.gravatar.com/avatar/1c62e3c695a64a4323f38315db819bd2.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Maryland College Park"
+          "organization": "University of Maryland College Park",
+          "biography": "<p><strong>Eva Hageman</strong> is Assistant Professor in the Department of American Studies and the Harriet Tubman Department of Women, Gender, and Sexuality Studies at the University of Maryland, College Park. Her research and teaching interests are in race, gender, and media industries and production. Her book manuscript, '\"Relatable Meets Remarkable\": Crafting Race in the Reality Television Industry', examines reality television and the central role it plays in shaping articulations of race in the 21st century. Her video essay <em>shiplap </em>screened at the Black Film Center Archive at Indiana University. Her writing appears on <em>In Media Res </em>and in the edited collection <em>Racism Post</em><em>race </em>(Duke 2019). She has directed two documentaries, <em>Legendary </em>(2010) and <em>You, As Seen On TV </em>(2011).</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "3387",
+          "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
           "name": "Chiara Grizzaffi",
           "title": "Dr",
           "mail": "chiara.grizzaffi@gmail.com",
           "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Università IULM - Milan"
+          "organization": "Università IULM - Milan",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -65,15 +106,31 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

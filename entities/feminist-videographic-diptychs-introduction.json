@@ -1,5 +1,6 @@
 {
   "id": "2242",
+  "uuid": "bd7f9194-0c5b-4a0d-9a54-1a3f8de4eeea",
   "title": "Feminist Videographic Diptychs: Introduction",
   "article_path": "/intransition/feminist-videographic-diptychs-introduction",
   "article_order_within": 1,
@@ -10,28 +11,50 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screenshot%202023-10-11%20at%2015.40.12.png",
   "part_of": [
     {
+      "id": "2236",
+      "uuid": "d3d4ab21-0def-4d3b-8dd5-256641d745b0",
       "title": "Journal of Videographic Film & Moving Image Studies, 10.3, 2023",
       "path": "/intransition/journal-videographic-film-moving-image-studies-103-2023",
       "editors": [
         {
+          "uid": "5000",
+          "uuid": "b4e29d0a-9a15-421d-b0ec-5b03546ee643",
           "name": "Catherine Fowler",
           "title": null,
           "mail": "catherine.fowler@otago.ac.nz",
           "picture": "http://www.gravatar.com/avatar/e4f0b2e7ae4cbc3964a43aa0e4def7b5.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Otago"
+          "organization": "University of Otago",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [
         {
+          "uid": "5000",
+          "uuid": "b4e29d0a-9a15-421d-b0ec-5b03546ee643",
           "name": "Catherine Fowler",
           "title": null,
           "mail": "catherine.fowler@otago.ac.nz",
           "picture": "http://www.gravatar.com/avatar/e4f0b2e7ae4cbc3964a43aa0e4def7b5.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Otago"
+          "organization": "University of Otago",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -43,15 +66,31 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         },
         {
+          "uid": "20270",
+          "uuid": "a5e6c941-c8aa-4cb3-9d24-a02926642a97",
           "name": "Barbara Zecchi",
           "title": "Professor, Director Film Studies Program",
           "mail": "bzecchi@umass.edu",
           "picture": "http://www.gravatar.com/avatar/919db73611b3f3f2f9c0a8c0dead7bbe.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University Massachusetts Amherst"
+          "organization": "University Massachusetts Amherst",
+          "biography": "<p>Zecchi is Professor and Director of the Film Studies Program at the University of Massachusetts Amherst.  She is a feminist film scholar, film festival curator, and video-essayist. She has taught at various universities across Europe and the U.S. lecturing as well as publishing on an extensive range of topics, such as women in film, feminist film theory, and videographic criticism. In addition to over 100 articles and 50 video essays, she is the author, editor, or co-editor of ten volumes, such as _La pantalla sexuada_ and _Teoría y práctica de la adaptación fílmica_. She has organized international conferences as well as co-founded the international research network CinemAGEnder. She also currently directs her open access project &quot;Gynocine: Women Filmmakers, Feminism, and Film Studies&quot; she launched in 2011 that offers an online database with unique resources related to those studying the works of global women filmmakers. Her book _Desenfocadas: Cineastas españolas y discursos de género_ was selected by El Diario as one of the &quot;13 books that have defined the decade&quot;. In 2017, she was elected Associate Member of the Film Academy of Spain.</p>\n",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//feminist%20diptychs%20opening%20image.jpg",

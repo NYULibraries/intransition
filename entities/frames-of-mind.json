@@ -1,5 +1,6 @@
 {
   "id": "58",
+  "uuid": "b9bd5d23-5fda-4213-a4b0-fa2ee2b70187",
   "title": "Frames of Mind",
   "article_path": "/intransition/2015/03/12/frames-mind",
   "article_order_within": 1,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202015-03-19%20at%201.33.36%20PM.png",
   "part_of": [
     {
+      "id": "226",
+      "uuid": "ea370cda-79f9-4360-928f-ea772a7bec44",
       "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
       "path": "/intransition/theme-week/2015/11/peer-review-kick",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

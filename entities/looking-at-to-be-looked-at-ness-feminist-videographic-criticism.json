@@ -1,5 +1,6 @@
 {
   "id": "130",
+  "uuid": "808196c6-7134-4b73-94b9-a3951655003b",
   "title": "Looking at To-Be-Looked-at-Ness: Feminist Videographic Criticism",
   "article_path": "/intransition/2017/03/12/feminist-approaches-videographic-criticism",
   "article_order_within": 1,
@@ -19,6 +20,8 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-03-12%20at%2013.41.18.png",
   "part_of": [
     {
+      "id": "274",
+      "uuid": "210db712-c413-442d-89d0-828116bd7d64",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
       "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],

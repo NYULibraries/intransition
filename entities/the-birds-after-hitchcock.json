@@ -1,5 +1,6 @@
 {
   "id": "857",
+  "uuid": "24d8c060-f3fe-416a-bd28-6e992bceb66a",
   "title": "The Birds After Hitchcock",
   "article_path": "/intransition/birds-after-hitchcock",
   "article_order_within": 1,
@@ -16,16 +17,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/thumbnail.JPG",
   "part_of": [
     {
+      "id": "853",
+      "uuid": "999c740c-7bfa-4873-adc4-5456c4e8ab97",
       "title": "Journal of Videographic Film & Moving Image Studies, 5.4, 2019",
       "path": "/intransition/journal-videographic-film-moving-image-studies-54-2019",
       "editors": [
         {
+          "uid": "3387",
+          "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
           "name": "Chiara Grizzaffi",
           "title": "Dr",
           "mail": "chiara.grizzaffi@gmail.com",
           "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Università IULM - Milan"
+          "organization": "Università IULM - Milan",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

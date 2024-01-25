@@ -1,5 +1,6 @@
 {
   "id": "792",
+  "uuid": "0b5f6b1c-a9a8-4aa3-8ae8-1a3c1b953be2",
   "title": "Sound in Hanna-Barbera",
   "article_path": "/intransition/sound-hanna-barbera",
   "article_order_within": 3,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202018-10-01%20at%2011.23.05%20AM.png",
   "part_of": [
     {
+      "id": "776",
+      "uuid": "a6dd535b-88e1-4621-bd5e-64e4c72452d0",
       "title": "Journal of Videographic Film & Moving Image Studies, 5.3, 2018",
       "path": "/intransition/journal-videographic-film-moving-image-studies-53-2018",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

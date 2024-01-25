@@ -1,5 +1,6 @@
 {
   "id": "134",
+  "uuid": "5a9ad259-e7b6-4152-ac22-ec2a3cc9b324",
   "title": "Videographic Criticism and Documentary Modes",
   "article_path": "/intransition/2017/videographic-criticism-and-documentary-modes",
   "article_order_within": 5,
@@ -14,6 +15,8 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/adaptation1.png",
   "part_of": [
     {
+      "id": "274",
+      "uuid": "210db712-c413-442d-89d0-828116bd7d64",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.1, 2017",
       "path": "/intransition/theme-week/2017/issue-4-1",
       "editors": [],

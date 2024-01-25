@@ -1,5 +1,6 @@
 {
   "id": "982",
+  "uuid": "2efcd3e5-2865-4c45-ba29-03d21e40ba66",
   "title": "The Two Irises",
   "article_path": "/intransition/two-irises",
   "article_order_within": 3,
@@ -12,16 +13,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202019-03-11%20at%2012.08.12%20PM.png",
   "part_of": [
     {
+      "id": "977",
+      "uuid": "f4da019f-4d6b-48bb-a315-3896a98c7daf",
       "title": "Journal of Videographic Film & Moving Image Studies, 6.1, 2019",
       "path": "/intransition/journal-videographic-film-moving-image-studies-61-2019",
       "editors": [
         {
+          "uid": "3387",
+          "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
           "name": "Chiara Grizzaffi",
           "title": "Dr",
           "mail": "chiara.grizzaffi@gmail.com",
           "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Università IULM - Milan"
+          "organization": "Università IULM - Milan",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

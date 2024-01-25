@@ -1,5 +1,6 @@
 {
   "id": "2023",
+  "uuid": "4f8033e6-d2cd-4362-aa58-c3934178524d",
   "title": "Transitional Moments in Cinematic Virtual Reality",
   "article_path": "/intransition/transitional-moments-cinematic-virtual-reality",
   "article_order_within": 1,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/VR_transitions.jpg",
   "part_of": [
     {
+      "id": "2022",
+      "uuid": "18e72f3d-a48d-4040-99af-3479b1c55644",
       "title": "Journal of Videographic Film & Moving Image Studies, 8.2, 2021",
       "path": "/intransition/journal-videographic-film-moving-image-studies-82-2021",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -27,7 +32,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

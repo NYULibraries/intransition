@@ -1,5 +1,6 @@
 {
   "id": "150",
+  "uuid": "a68f1799-f83a-4306-9ce7-822a320849e5",
   "title": "Martyrs for the Mass",
   "article_path": "/intransition/2017/06/01/martyrs-mass",
   "article_order_within": 1,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202017-06-01%20at%205.30.57%20PM.png",
   "part_of": [
     {
+      "id": "286",
+      "uuid": "f192e0c3-9d81-430e-a827-4e6614382ac0",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.2b, 2017",
       "path": "/intransition/2017/issue-4-2b",
       "editors": [
         {
+          "uid": "3552",
+          "uuid": "b30e46c2-9cb0-4582-b379-29824b5d6089",
           "name": "Richard Misek",
           "title": "Professor in Screen Media",
           "mail": "richardmisek@gmail.com",
           "picture": "http://www.gravatar.com/avatar/9bed5e8ebad4d6842042ed860947362f.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "University of Bergen"
+          "organization": "University of Bergen",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

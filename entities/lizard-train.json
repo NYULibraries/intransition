@@ -1,5 +1,6 @@
 {
   "id": "176",
+  "uuid": "7f3005e6-1922-423b-9388-e47498b28c73",
   "title": "Lizard Train",
   "article_path": "/intransition/2018/01/10/lizard-train",
   "article_order_within": 1,
@@ -15,16 +16,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/lizardtrain.png",
   "part_of": [
     {
+      "id": "297",
+      "uuid": "f132cc0f-a8ad-42a6-b9b0-dad99dbfecd0",
       "title": "Journal of Videographic Film & Moving Image Studies, 4.4, 2017",
       "path": "/intransition/issue-4-4",
       "editors": [
         {
+          "uid": "3387",
+          "uuid": "cebffc5d-ffbe-4904-a123-592ff6ee3bd2",
           "name": "Chiara Grizzaffi",
           "title": "Dr",
           "mail": "chiara.grizzaffi@gmail.com",
           "picture": "http://www.gravatar.com/avatar/a5d5f3244281851271cfe41436bafc77.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Università IULM - Milan"
+          "organization": "Università IULM - Milan",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

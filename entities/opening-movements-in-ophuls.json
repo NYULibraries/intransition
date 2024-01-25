@@ -1,5 +1,6 @@
 {
   "id": "102",
+  "uuid": "2394e3e2-ec13-4cf7-9a89-9c4dbeb2b8ab",
   "title": "Opening Movements in Ophuls",
   "article_path": "/intransition/opening-movements-ophuls",
   "article_order_within": 4,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202018-05-25%20at%2016.16.20.png",
   "part_of": [
     {
+      "id": "256",
+      "uuid": "dcec6fce-507d-4b5e-9643-e88374537fbb",
       "title": "Journal of Videographic Film & Moving Image Studies, 3.2, 2016",
       "path": "/intransition/issue-3-2",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

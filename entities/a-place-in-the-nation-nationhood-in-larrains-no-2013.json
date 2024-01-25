@@ -1,5 +1,6 @@
 {
   "id": "192",
+  "uuid": "f46f21f2-ac60-4180-9228-196f3aa63863",
   "title": "A Place in the Nation: Nationhood in Larraín's NO (2013)",
   "article_path": "/intransition/2018/04/30/place-nation-competing-stories-nationhood-pablo-larra-n-s-no",
   "article_order_within": 3,
@@ -14,10 +15,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202018-04-30%20at%2011.53.21%20AM.png",
   "part_of": [
     {
+      "id": "309",
+      "uuid": "1e6cf30a-3337-4a25-970e-1e5e57cdeb43",
       "title": "Journal of Videographic Film & Moving Image Studies, 5.2, 2018",
       "path": "/intransition/theme-week/2018/18/journal-videographic-film-moving-image-studies-52-2018",
       "editors": [
         {
+          "uid": "1758",
+          "uuid": "a0909d95-5436-4c65-8666-ce6986dcfda9",
           "name": "Drew Morton",
           "title": "Associate Professor of Mass Communication",
           "mail": "dmorton@tamut.edu",
@@ -29,7 +34,14 @@
             "original_title": "",
             "original_url": "http://tamut.academia.edu/DrewMorton"
           },
-          "organization": "Texas A&M University-Texarkana"
+          "organization": "Texas A&M University-Texarkana",
+          "biography": "<p>Drew Morton is associate professor of mass communication at Texas A&amp;M University–Texarkana. He is author of Panel to the Screen: Style, American Film, and Comic Books during the Blockbuster Era, published by University Press of Mississippi. His publications have appeared in Animation: An Interdisciplinary Journal; Cinema Journal; [in]Transition; Journal of Graphic Novels and Comics; and Studies in Comics. He is cofounder and coeditor of [in]Transition, the award-winning journal devoted to videographic criticism.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

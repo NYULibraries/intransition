@@ -1,5 +1,6 @@
 {
   "id": "2112",
+  "uuid": "dfd873f4-9f75-468f-88a5-01678bcf7a1a",
   "title": "Once Upon a Screen Vol. 2, Part 1, Introduction by Co-Guest Editors",
   "article_path": "/intransition/once-upon-screen-vol-2-part-1-introduction-co-guest-editors",
   "article_order_within": 1,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/0%20intro%20fix.png",
   "part_of": [
     {
+      "id": "2111",
+      "uuid": "8084d12a-b750-4f20-9831-cfcb6a9e8a01",
       "title": "Journal of Videographic Film & Moving Image Studies, 9.3, 2022",
       "path": "/intransition/journal-videographic-film-moving-image-studies-93-2022",
       "editors": [
         {
+          "uid": "20432",
+          "uuid": "9220060d-329e-43e5-999d-998684330d46",
           "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
@@ -27,17 +32,35 @@
             "original_title": "Website",
             "original_url": "tinyurl.com/Ariel-Avissar"
           },
-          "organization": "Tel Aviv University"
+          "organization": "Tel Aviv University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@ariel_avissar",
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "4853",
+          "uuid": "28f1265e-f234-4217-a82a-8a53af618c56",
           "name": "Evelyn Kreutzer ",
           "title": null,
           "mail": "evelynkreutzer@gmail.com",
           "picture": "http://www.gravatar.com/avatar/1954699475ee69dea865bc8fe831bc26.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Film University Babelsberg KONRAD WOLF"
+          "organization": "Film University Babelsberg KONRAD WOLF",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "3360",
+          "uuid": "965ba1df-c06b-4e89-a18f-badab89548e3",
           "name": "Catherine Grant",
           "title": "Honorary Research Fellow",
           "mail": "catherine.grant1@gmail.com",
@@ -49,11 +72,20 @@
             "original_title": "Website",
             "original_url": "https://catherinegrant.org"
           },
-          "organization": "Aarhus Universitet"
+          "organization": "Aarhus Universitet",
+          "biography": "<p>Catherine Grant is an independent scholar, film critic and filmmaker, and also works as a guest speaker and artist, research consultant and supervisor, and external examiner. She was <a href=\"http://www.bbk.ac.uk/culture/staff/teaching-staff/catherine-grant\">Professor of Digital Media and Screen Studies</a> at <a href=\"http://www.bbk.ac.uk/\">Birkbeck, University of London</a>, based in the <a href=\"http://www.bbk.ac.uk/culture/\">Department of Film, Media and Cultural Studies</a> in the <a href=\"http://www.bbk.ac.uk/arts/research/birkbeck-institute-for-the-moving-image\">School of Arts</a>, until August 2020 when she was appointed as Honorary Research Fellow in that School. She is also an Honorary Professor at Aarhus Universitet, in the School of Communication and Culture - Media Studies, and a Senior Visiting Research Fellow in the School of Arts and Communication Design at the University of Reading, UK. As a researcher and critic, Grant mostly makes and reflects on <a href=\"https://vimeopro.com/filmstudiesff/audiovisual-film-studies-for-free\">video essays</a> about films and other audiovisual media. She is also author of the <a href=\"http://en.wikipedia.org/wiki/Open_access\" rel=\"noopener\" target=\"_blank\">Open Access</a> scholarly website <a href=\"http://filmstudiesforfree.blogspot.com/\" rel=\"noopener\" target=\"_blank\">Film Studies For Free</a>. In 2020, she was elected member of <a href=\"https://www.ae-info.org/ae/Acad_Main/Sections/Film_media_and_visual_studies/Film_media_and_visual_studies_Members\">Academia Europaea’s Film, Media and Visual Studies</a> section. Her many publications on the audiovisual essay and videographic criticism may be found at her <a href=\"https://catherinegrant.org\">personal website</a>. She is one of the founding co-editors of <em>[<a href=\"http://mediacommons.org/intransition/\">in]TRANSITION: Journal of Videographic Film and Moving Image Studies</a></em> here at MediaCommons.</p>",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@filmstudiesff",
+            "aim": null,
+            "skype": "@filmstudiesff"
+          }
         }
       ],
       "coeditors": [
         {
+          "uid": "20432",
+          "uuid": "9220060d-329e-43e5-999d-998684330d46",
           "name": "Ariel Avissar",
           "title": "Lecturer and PhD student",
           "mail": "arielavissar24@gmail.com",
@@ -65,15 +97,31 @@
             "original_title": "Website",
             "original_url": "tinyurl.com/Ariel-Avissar"
           },
-          "organization": "Tel Aviv University"
+          "organization": "Tel Aviv University",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": "@ariel_avissar",
+            "aim": null,
+            "skype": null
+          }
         },
         {
+          "uid": "4853",
+          "uuid": "28f1265e-f234-4217-a82a-8a53af618c56",
           "name": "Evelyn Kreutzer ",
           "title": null,
           "mail": "evelynkreutzer@gmail.com",
           "picture": "http://www.gravatar.com/avatar/1954699475ee69dea865bc8fe831bc26.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Film University Babelsberg KONRAD WOLF"
+          "organization": "Film University Babelsberg KONRAD WOLF",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "representative_image": "https://mediacommons.org/intransition/sites/default/files/public%3A//6180B68F-C0ED-4C3B-8EE3-BD9F9B088EAA.png",

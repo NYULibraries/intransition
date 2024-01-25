@@ -1,5 +1,6 @@
 {
   "id": "52",
+  "uuid": "96146fe1-d50d-4f65-99b4-8e2bb7192680",
   "title": "Volumetric Cinema",
   "article_path": "/intransition/2015/03/10/volumetric-cinema",
   "article_order_within": 3,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/VolumesKLFthumbnail.jpg",
   "part_of": [
     {
+      "id": "226",
+      "uuid": "ea370cda-79f9-4360-928f-ea772a7bec44",
       "title": "Journal of Videographic Film & Moving Image Studies, 2.1, 2015",
       "path": "/intransition/theme-week/2015/11/peer-review-kick",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

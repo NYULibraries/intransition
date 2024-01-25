@@ -1,5 +1,6 @@
 {
   "id": "158",
+  "uuid": "a8042948-57bf-453f-a7b6-cc4a0da1eedc",
   "title": "Revisiting Bruxelles-Transit",
   "article_path": "/intransition/2017/07/07/revisiting-bruxelles-transit-0",
   "article_order_within": 5,
@@ -14,16 +15,27 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Jasper.jpg",
   "part_of": [
     {
+      "id": "256",
+      "uuid": "dcec6fce-507d-4b5e-9643-e88374537fbb",
       "title": "Journal of Videographic Film & Moving Image Studies, 3.2, 2016",
       "path": "/intransition/issue-3-2",
       "editors": [
         {
+          "uid": "105",
+          "uuid": "c827a794-906f-4646-be9d-6a5df528810a",
           "name": "Christian Keathley",
           "title": null,
           "mail": "ckeathle@middlebury.edu",
           "picture": "http://www.gravatar.com/avatar/c863ffd68dd54ba9a248a9538cb6c837.jpg?d=identicon&s=150&r=G",
           "url": null,
-          "organization": "Middlebury College"
+          "organization": "Middlebury College",
+          "biography": "",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],

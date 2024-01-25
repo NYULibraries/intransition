@@ -1,5 +1,6 @@
 {
   "id": "1676",
+  "uuid": "3f7498ed-b614-4350-961d-c241d269d667",
   "title": "After the Facts",
   "article_path": "/intransition/after-facts",
   "article_order_within": 5,
@@ -12,10 +13,14 @@
   "representative_image": "https://mediacommons.org/intransition/sites/default/files/Screen%20Shot%202020-01-06%20at%202.12.45%20PM.png",
   "part_of": [
     {
+      "id": "1664",
+      "uuid": "43251db8-e09c-4c29-934f-4eea40fbc256",
       "title": "Journal of Videographic Film & Moving Image Studies, 6.4, 2019",
       "path": "/intransition/journal-videographic-film-moving-image-studies-64-2019",
       "editors": [
         {
+          "uid": "19007",
+          "uuid": "bb18dc71-065e-454e-ab7e-284315c30d80",
           "name": "Julia Vassilieva",
           "title": "Senior Lecturer",
           "mail": "julia.vassilieva@monash.edu",
@@ -27,7 +32,14 @@
             "original_title": "",
             "original_url": "https://research.monash.edu/en/persons/julia-vassilieva"
           },
-          "organization": "Monash University"
+          "organization": "Monash University",
+          "biography": "<p>Julia Vassilieva is Senior Lecturer in Film and Screen Studies. She holds PhD in cultural studies from Monash University and a DPsych from Swinburne University. Her recent research  project  (2016-2019), supported by an ARC DECRA, explored relationship between cinema, mind and the brain. She is the author of Narrative Psychology: Identity, Transformation and Ethics (Palgrave Macmillan, 2016) and co-editor, with Con Verevis, of After Taste: Cultural Value and the Moving Image (Routledge, 2012). She has recently organised the symposium “Eisenstein for the Twenty First Century” in June 2018 at  Monash Centre in Prato, Italy, and co-convened First Conference of Eisenstein International Network in October 2019 at INHA, Paris.  Her research focuses on cinema and neuroscience, film narrative and film history, European and world cinema.</p>\n",
+          "research_interests": [],
+          "social_links": {
+            "twitter": null,
+            "aim": null,
+            "skype": null
+          }
         }
       ],
       "coeditors": [],
